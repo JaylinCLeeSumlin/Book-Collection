@@ -1,8 +1,12 @@
-table, th, td {
+tr {
     border: 1px solid black;
 }
 
 .a {
     background-color: aqua;
     font-size: larger;
+}
+
+img {
+    height: 250px;
 }
