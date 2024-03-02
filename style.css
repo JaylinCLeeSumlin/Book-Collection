@@ -2,6 +2,7 @@ table{
     border: 1px solid black;
     width: 100%;
     table-layout: auto;
+    justify-content: space-evenly;
 }
 
 .a {
