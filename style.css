@@ -1,18 +1,27 @@
-table{
-    border: 1px solid black;
-    width: 100%;
-    table-layout: auto;
-    justify-content: space-evenly;
+img {
+    max-height: 250px;
+    max-width: 100%;
+}
+
+
+h1 {
+    text-align: center;
 }
 
 .a {
     background-color: aqua;
 }
 
-img {
-    height: 250px;
+.container {
+    display: grid;
+    width: 100%;
+    align-items: center;
+    grid-template-columns: auto auto auto;
+    column-gap:  5px;
 }
 
-h1 {
-    text-align: center;
+.samePageLinks {
+    font-weight: bold;
+    display: grid;
+    justify-content: space-between;
 }
