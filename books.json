@@ -11,7 +11,8 @@
         "properties": {
             "owned": 1,
             "series": [],
-            "seriesNo": 0
+            "seriesNo": 0,
+            "genre": ["Non-Fiction", "Biography"]
         }
     },
     {
@@ -26,7 +27,8 @@
         "properties": {
             "owned": 1,
             "series": ["American Girl", "Addy"],
-            "seriesNo": 2
+            "seriesNo": 2,
+            "genre": ["Fiction", "Children's Fiction", "Historical Fiction"]
         }
     },
     {
@@ -41,7 +43,8 @@
         "properties": {
             "owned": 1,
             "series": ["American Girl", "Addy"],
-            "seriesNo": 4
+            "seriesNo": 4,
+            "genre": ["Fiction", "Children's Fiction", "Historical Fiction"]
         }
     },
     {
@@ -56,7 +59,8 @@
         "properties": {
             "owned": 1,
             "series": ["American Girl", "Addy"],
-            "seriesNo": 1
+            "seriesNo": 1,
+            "genre": ["Fiction", "Children's Fiction", "Historical Fiction", "LGBT Non-Fiction"]
         }
     },
     {
@@ -71,7 +75,8 @@
         "properties": {
             "owned": 1,
             "series": ["American Girl", "Addy"],
-            "seriesNo": 3
+            "seriesNo": 3,
+            "genre": ["Fiction", "Children's Fiction", "Historical Fiction"]
         }
     },
     {
@@ -86,7 +91,8 @@
         "properties": {
             "owned": 1,
             "series": [],
-            "seriesNo": 0
+            "seriesNo": 0,
+            "genre": ["Non-Fiction", "Self-Help"]
         }
     },
     {
@@ -101,7 +107,8 @@
         "properties": {
             "owned": 1,
             "series": [],
-            "seriesNo": 0
+            "seriesNo": 0,
+            "genre": ["Non-Fiction", "History", "Autobiography"]
         }
     },
     {
@@ -115,7 +122,8 @@
         "link": "https://www.amazon.com/Big-Nate-Thunka/dp/1449462278/ref=sr_1_1?crid=O0TKGJZJ21FD&dib=eyJ2IjoiMSJ9.34D04yLZshRWVBQ9q9quCDgPYxvMxRMbuWEU7EdBYonGiM7i1ahp9d63ANuee-YA.rk0wwk9i4Flg7WiDrrT0mXbpsQCcfQACCe1RCkRp5AQ&dib_tag=se&keywords=Big+Nate%3A+Thunka%2C+Thunka%2C+Thunka&qid=1749301037&sprefix=big+nate+thunka%2C+thunka%2C+thunka%2Caps%2C178&sr=8-1",
         "properties": {
             "owned": 1,
-            "series": ["Big Nate"]
+            "series": ["Big Nate"],
+            "genre": ["Fiction", "Children's Fiction", "Graphic Novel"]
         }
     },
     {
@@ -130,7 +138,8 @@
         "properties": {
             "owned": 1,
             "series": ["Villans"]
-        }
+        },
+        "genre": ["Fiction", "Fantasy", "Magical Realism", "Young Adult"]
     },
     {
         "id": 10,
@@ -144,7 +153,8 @@
         "properties": {
             "owned": 1,
             "series": ["Dear Martin"],
-            "seriesNo": 2
+            "seriesNo": 2,
+            "genre": ["Fiction", "Young Adult"]
         }
     },
     {
@@ -159,7 +169,8 @@
         "properties": {
             "owned": 1,
             "series": ["Dear Martin"],
-            "seriesNo": 1
+            "seriesNo": 1,
+            "genre": ["Fiction", "Young Adult"]
         }
     },
     {
@@ -174,7 +185,8 @@
         "properties": {
             "owned": 1,
             "series": ["Diary of a Wimpy Kid"],
-            "seriesNo": 9
+            "seriesNo": 9,
+            "genre": ["Fiction", "Children's Fiction", "Graphic Novel"]
         }
     },
     {
@@ -189,7 +201,8 @@
         "properties": {
             "owned": 1,
             "series": ["Every Day"],
-            "seriesNo": 1
+            "seriesNo": 1,
+            "genre": ["Fiction", "Romance", "Young Adult"]
         }
     },
     {
@@ -204,7 +217,8 @@
         "properties": {
             "owned": 1,
             "series": ["Fairy Tale Reform School"],
-            "seriesNo": 2
+            "seriesNo": 2,
+            "genre": ["Fiction", "Children's Fiction", "Fantasy", "Magical Realism", "Women's Fiction"]
         }
     },
     {
@@ -219,7 +233,8 @@
         "properties": {
             "owned": 1,
             "series": ["Fairy Tale Reform School"],
-            "seriesNo": 1
+            "seriesNo": 1,
+            "genre": ["Fiction", "Children's Fiction", "Fantasy", "Magical Realism", "Women's Fiction"]
         }
     },
     {
@@ -234,7 +249,8 @@
         "properties": {
             "owned": 1,
             "series": [],
-            "seriesNo": 0
+            "seriesNo": 0,
+            "genre": ["Non-Fiction", "Self-Help", "Guide"]
         }
     },
     {
@@ -249,11 +265,12 @@
         "properties": {
             "owned": 1,
             "series": [],
-            "seriesNo": 0
+            "seriesNo": 0,
+            "genre": ["Non-Fiction", "Self-Help"]
         }
     },
     {
-        "id": 17,
+        "id": 18,
         "title": "Flirt: Puppy Love",
         "author": ["A. Destiny", "Cathrine Hapka"],
         "illustrator": [""],
@@ -264,11 +281,12 @@
         "properties": {
             "owned": 1,
             "series": ["Flirt"],
-            "seriesNo": 10
+            "seriesNo": 10,
+            "genre": ["Fiction", "Romance"]
         }
     },
     {
-        "id": 18,
+        "id": 19,
         "title": "Free to Be Me: An LGBTQ+ Journal of Love, Pride & Finding Your Inner Rainbow",
         "author": ["Dom & Ink"],
         "illustrator": ["Dom & Ink"],
@@ -279,11 +297,12 @@
         "properties": {
             "owned": 1,
             "series": [],
-            "seriesNo": 0
+            "seriesNo": 0,
+            "genre": ["Non-Fiction", "Self-Help"]
         }
     },
     {
-        "id": 19,
+        "id": 20,
         "title": "Grow, Bloom, Flourish: A 52-Week Planner of Self-Reflection",
         "author": ["Mari Andrew"],
         "illustrator": [""],
@@ -294,11 +313,12 @@
         "properties": {
             "owned": 1,
             "series": [],
-            "seriesNo": 0
+            "seriesNo": 0,
+            "genre": ["Non-Fiction", "Self-Help"]
         }
     },
     {
-        "id": 20,
+        "id": 21,
         "title": "How to Be a Bawse: A Guide to Conquering Life",
         "author": ["Lilly Singh"],
         "illustrator": [""],
@@ -309,11 +329,12 @@
         "properties": {
             "owned": 1,
             "series": [],
-            "seriesNo": 0
+            "seriesNo": 0,
+            "genre": ["Non-Fiction", "Self-Help", "Guide"]
         }
     },
     {
-        "id": 21,
+        "id": 22,
         "title": "I Survived Hurricane Katrina, 2005",
         "author": ["Lauren Tarshis"],
         "illustrator": ["Alvin Epps"],
@@ -324,11 +345,12 @@
         "properties": {
             "owned": 1,
             "series": [],
-            "seriesNo": 0
+            "seriesNo": 0,
+            "genre": ["Fiction", "Children's Fiction", "Graphic Novel", "Historical Fiction"]
         }
     },
     {
-        "id": 22,
+        "id": 23,
         "title": "I Survived the American Revolution, 1776",
         "author": ["Lauren Tarshis"],
         "illustrator": [""],
@@ -339,11 +361,12 @@
         "properties": {
             "owned": 1,
             "series": ["I Survived"],
-            "seriesNo": 15
+            "seriesNo": 15,
+            "genre": ["Fiction", "Children's Fiction", "Historical Fiction"]
         }
     },
     {
-        "id": 23,
+        "id": 24,
         "title": "I Survived the Attack of the Grizzlies, 1967",
         "author": ["Lauren Tarshis"],
         "illustrator": [""],
@@ -354,11 +377,12 @@
         "properties": {
             "owned": 1,
             "series": ["I Survived"],
-            "seriesNo": 17
+            "seriesNo": 17,
+            "genre": ["Fiction", "Children's Fiction", "Historical Fiction"]
         }
     },
     {
-        "id": 24,
+        "id": 25,
         "title": "I Survived the Attacks of September 11, 2021",
         "author": ["Lauren Tarshis"],
         "illustrator": ["Corey Egbert"],
@@ -369,11 +393,12 @@
         "properties": {
             "owned": 1,
             "series": ["I Survived Graphix"],
-            "seriesNo": 4
+            "seriesNo": 4,
+            "genre": ["Fiction", "Children's Fiction", "Graphic Novel", "Historical Fiction"]
         }
     },
     {
-        "id": 25,
+        "id": 26,
         "title": "I Survived the Nazi Invasion, 1944",
         "author": ["Lauren Tarshis"],
         "illustrator": ["Alvaro Sarrasca"],
@@ -384,11 +409,12 @@
         "properties": {
             "owned": 1,
             "series": ["I Survived Graphix"],
-            "seriesNo": 3
+            "seriesNo": 3,
+            "genre": ["Fiction", "Children's Fiction", "Graphic Novel", "Historical Fiction"]
         }
     },
     {
-        "id": 26,
+        "id": 27,
         "title": "Investing 101: From Stocks and Bonds to ETFs and IPOs, an Essential Primer on Building a Profitable Portfolio",
         "author": ["Michele Cagan, CPA"],
         "illustrator": [""],
@@ -399,11 +425,12 @@
         "properties": {
             "owned": 1,
             "series": ["Adams 101"],
-            "seriesNo": 10
+            "seriesNo": 10,
+            "genre": ["Non-Fiction", "Guide"]
         }
     },
     {
-        "id": 27,
+        "id": 28,
         "title": "It's Not Me, It's You",
         "author": ["Stephanie Kate Strohm"],
         "illustrator": [""],
@@ -414,11 +441,12 @@
         "properties": {
             "owned": 1,
             "series": [],
-            "seriesNo": 0
+            "seriesNo": 0,
+            "genre": ["Fiction", "Romance", "Women's Fiction", "Young Adult"]
         }
     },
     {
-        "id": 28,
+        "id": 29,
         "title": "Julie: A Brighter Tomorrow",
         "author": ["Megan McDonald"],
         "illustrator": ["Juliana Kolesova", "Michael Dworkin"],
@@ -429,11 +457,12 @@
         "properties": {
             "owned": 1,
             "series": ["American Girl", "Julie"],
-            "seriesNo": 0
+            "seriesNo": 0,
+            "genre": ["Fiction", "Children's Fiction", "Historical Fiction"]
         }
     },
     {
-        "id": 29,
+        "id": 30,
         "title": "Juliet Takes a Breath",
         "author": ["Gabby Rivera"],
         "illustrator": [""],
@@ -444,11 +473,12 @@
         "properties": {
             "owned": 1,
             "series": [],
-            "seriesNo": 0
+            "seriesNo": 0,
+            "genre": ["Fiction", "LGBT Fiction", "Romance", "Women's Fiction", "Young Adult"]
         }
     },
     {
-        "id": 30,
+        "id": 31,
         "title": "Mistress of All Evil: A Tale of an Old Witch",
         "author": ["Serena Valentino"],
         "illustrator": [""],
@@ -459,11 +489,12 @@
         "properties": {
           "owned": 1,
           "series": ["Villans"],
-          "seriesNo": 4
+          "seriesNo": 4,
+          "genre": ["Fiction", "Fantasy", "Magical Realism", "Young Adult"]
         }
     },
     {
-        "id": 31,
+        "id": 32,
         "title": "Nat Enough",
         "author": ["Maria Scrivan"],
         "illustrator": ["Maria Scrivan"],
@@ -474,11 +505,12 @@
         "properties": {
             "owned": 1,
             "series": ["Nat Enough"],
-            "seriesNo": 1
+            "seriesNo": 1,
+            "genre": ["Fiction", "Children's Fiction", "Graphic Novel", "Women's Fiction"]
         }
     },
     {
-        "id": 32,
+        "id": 33,
         "title": "On the Fence",
         "author": ["Kasie West"],
         "illustrator": [""],
@@ -489,11 +521,12 @@
         "properties": {
             "owned": 1,
             "series": [],
-            "seriesNo": 0
+            "seriesNo": 0,
+            "genre": ["Fiction", "Romance", "Young Adult"]
         }
     },
     {
-        "id": 33,
+        "id": 34,
         "title": "Our World",
         "author": ["Little Mix"],
         "illustrator": [""],
@@ -504,11 +537,12 @@
         "properties": {
             "owned": 1,
             "series": [],
-            "seriesNo": 0
+            "seriesNo": 0,
+            "genre": ["Non-Fiction", "Autobiography"]
         }
     },
     {
-        "id": 34,
+        "id": 35,
         "title": "Professional Troublemaker: The Fear-Fighting Manual",
         "author": ["Luvvie Ajayi Jones"],
         "illustrator": [""],
@@ -519,11 +553,12 @@
         "properties": {
             "owned": 1,
             "series": [],
-            "seriesNo": 0
+            "seriesNo": 0,
+            "genre": ["Non-Fiction", "Self-Help", "Guide"]
         }
     },
     {
-        "id": 35,
+        "id": 36,
         "title": "Queer X Design: 50 Years of Signs, Symbols, and Graphic Arts of LGBTQ",
         "author": ["Andy Campbell"],
         "illustrator": [""],
@@ -534,11 +569,12 @@
         "properties": {
             "owned": 1,
             "series": [],
-            "seriesNo": 0
+            "seriesNo": 0,
+            "genre": ["Non-Fiction", "Art & Photography", "History", "LGBT Non-Fiction"]
         }
     },
     {
-        "id": 36,
+        "id": 37,
         "title": "Sister Outsider: Essays and Speeches",
         "author": ["Audre Lorde"],
         "illustrator": [""],
@@ -549,11 +585,12 @@
         "properties": {
             "owned": 1,
             "series": [],
-            "seriesNo": 0
+            "seriesNo": 0,
+            "genre": ["Non-Fiction", "History", "LGBT Non-Fiction", "Essay", "Autobiography"]
         }
     },
     {
-        "id": 37,
+        "id": 38,
         "title": "Swing It, Sunny",
         "author": ["Jennifer L.Holm", "Matthew Holm"],
         "illustrator": ["Matthew Holm"],
@@ -564,11 +601,12 @@
         "properties": {
             "owned": 1,
             "series": ["Sunny"],
-            "seriesNo": 2
+            "seriesNo": 2,
+            "genre": ["Fiction", "Children's Fiction", "Graphic Novel", "Women's Fiction"]
         }
     },
     {
-        "id": 38,
+        "id": 39,
         "title": "Taking Flight: From War Orphan to Star Ballerina",
         "author": ["Michaela DePrince", "Elaine DePrince"],
         "illustrator": [],
@@ -579,11 +617,12 @@
         "properties": {
           "owned": 1,
           "series": [],
-          "seriesNo": 0
+          "seriesNo": 0,
+          "genre": ["Non-Fiction", "Autobiography"]
         }
     },
     {
-        "id": 39,
+        "id": 40,
         "title": "5-Minute Gratitude Journal: Give Thanks, Practice Positivity, Find Joy, The",
         "author": ["Sophia Godkin, PhD"],
         "illustrator": [],
@@ -594,11 +633,12 @@
         "properties": {
           "owned": 1,
           "series": [],
-          "seriesNo": 0
+          "seriesNo": 0,
+          "genre": ["Non-Fiction", "Self-Help"]
         }
     },
     {
-        "id": 40,
+        "id": 41,
         "title": "The Beast Within: A Tale of the Beauty's Prince, The",
         "author": ["Serena Valentino"],
         "illustrator": [],
@@ -609,11 +649,12 @@
         "properties": {
           "owned": 1,
           "series": ["Villains"],
-          "seriesNo": 2
+          "seriesNo": 2,
+          "genre": ["Fiction", "Fantasy", "Magical Realism", "Young Adult"]
         }
     },
     {
-        "id": 41,
+        "id": 42,
         "title": "Enneagram & You: Understand Your Personality Type and How It Can Transform Your Relationships, The",
         "author": ["Gina Gomez"],
         "illustrator": [],
@@ -624,11 +665,12 @@
         "properties": {
           "owned": 1,
           "series": [],
-          "seriesNo": 0
+          "seriesNo": 0,
+          "genre": ["Non-Fiction", "Self-Help"]
         }
     },
     {
-        "id": 42,
+        "id": 43,
         "title": "Fire Next Time, The",
         "author": ["James Baldwin"],
         "illustrator": [],
@@ -639,11 +681,12 @@
         "properties": {
           "owned": 1,
           "series": [],
-          "seriesNo": 0
+          "seriesNo": 0,
+          "genre": ["Non-Fiction", "History", "LGBT Non-Fiction", "Essay", "Autobiography"]
         }
     },
     {
-        "id": 43,
+        "id": 44,
         "title": "Her Campus Guide to College Life: How to Manage Relationships, Stay Safe and Healthy, Handle Stress, and Have the Best Years of Your Life, The",
         "author": ["Stephanie Kaplan Lewis", "Annie Chander Wang", "Windsor Hanger Western"],
         "illustrator": [],
@@ -654,11 +697,12 @@
         "properties": {
           "owned": 1,
           "series": [],
-          "seriesNo": 0
+          "seriesNo": 0,
+          "genre": ["Non-Fiction", "Guide"]
         }
     },
     {
-        "id": 44,
+        "id": 45,
         "title": "Odd Sisters, The",
         "author": ["Serena Valentino"],
         "illustrator": [],
@@ -669,11 +713,12 @@
         "properties": {
           "owned": 1,
           "series": ["Villains"],
-          "seriesNo": 6
+          "seriesNo": 6,
+          "genre": ["Fiction", "Fantasy", "Magical Realism", "Young Adult"]
         }
     },
     {
-        "id": 45,
+        "id": 46,
         "title": "This Year I will...: A 52-Week Guided Journal to Achieve Your Goals",
         "author": ["Tiffany Louise, LCSW"],
         "illustrator": [],
@@ -684,11 +729,12 @@
         "properties": {
           "owned": 1,
           "series": [],
-          "seriesNo": 0
+          "seriesNo": 0,
+          "genre": ["Non-Fiction", "Self-Help", "Guide"]
         }
     },
     {
-        "id": 46,
+        "id": 47,
         "title": "Triggers: How We Can Stop Reacting and Start Healing",
         "author": ["David Richo"],
         "illustrator": [],
@@ -699,11 +745,12 @@
         "properties": {
           "owned": 1,
           "series": [],
-          "seriesNo": 0
+          "seriesNo": 0,
+          "genre": ["Non-Fiction", "Self-Help", "Guide"]
         }
     },
     {
-        "id": 47,
+        "id": 48,
         "title": "Two Boys Kissing",
         "author": ["David Levithan"],
         "illustrator": [],
@@ -714,11 +761,12 @@
         "properties": {
           "owned": 1,
           "series": [],
-          "seriesNo": 0
+          "seriesNo": 0,
+          "genre": ["Fiction", "LGBT Fiction", "Romance", "Young Adult"]
         }
     },
     {
-        "id": 48,
+        "id": 49,
         "title": "What is Juneteenth?",
         "author": ["Kirsti Jewel"],
         "illustrator": ["Manuel Gutierrez"],
@@ -729,11 +777,12 @@
         "properties": {
           "owned": 1,
           "series": ["Who HQ", "What Was?"],
-          "seriesNo": 14
+          "seriesNo": 14,
+          "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
         }
     },
     {
-        "id": 49,
+        "id": 50,
         "title": "What Was D-Day?",
         "author": ["Patricia Brennan Demuth"],
         "illustrator": ["David Grayson Kenyon"],
@@ -744,11 +793,12 @@
         "properties": {
           "owned": 1,
           "series": ["Who HQ", "What Was?"],
-          "seriesNo": 43
+          "seriesNo": 43,
+          "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
         }
     },
     {
-        "id": 50,
+        "id": 51,
         "title": "What Was Stonewall?",
         "author": ["Nico Medina"],
         "illustrator": ["Jake Murray"],
@@ -759,11 +809,12 @@
         "properties": {
           "owned": 1,
           "series": ["Who HQ", "What Was?"],
-          "seriesNo": 25
+          "seriesNo": 25,
+          "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography", "LGBT Non-Fiction"]
         }
     },
     {
-        "id": 51,
+        "id": 52,
         "title": "What Was the Holocaust?",
         "author": ["Gail Herman"],
         "illustrator": ["Jerry Hoare"],
@@ -774,11 +825,12 @@
         "properties": {
           "owned": 1,
           "series": ["Who HQ", "What Was?"],
-          "seriesNo": 62
+          "seriesNo": 62,
+          "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
         }
     },
     {
-        "id": 52,
+        "id": 53,
         "title": "What Was the Tulsa Race Massacre of 1921?",
         "author": ["Caleb Gayle"],
         "illustrator": ["Tim Foley"],
@@ -789,11 +841,12 @@
         "properties": {
           "owned": 1,
           "series": ["Who HQ", "What Was?"],
-          "seriesNo": 9
+          "seriesNo": 9,
+          "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
         }
     },
     {
-        "id": 53,
+        "id": 54,
         "title": "Where Is the Amazon?",
         "author": ["Sarah Fabiny"],
         "illustrator": ["Daniel Colon"],
@@ -804,11 +857,12 @@
         "properties": {
           "owned": 1,
           "series": ["Who HQ", "Where Is?"],
-          "seriesNo": 27
+          "seriesNo": 27,
+          "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
         }
     },
     {
-        "id": 54,
+        "id": 55,
         "title": "Where Is the Great Barrier Reef?",
         "author": ["Nico Medina"],
         "illustrator": ["John Hinderliter"],
@@ -819,11 +873,12 @@
         "properties": {
           "owned": 1,
           "series": ["Who HQ", "Where Is?"],
-          "seriesNo": 29
+          "seriesNo": 29,
+          "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
         }
     },
     {
-        "id": 55,
+        "id": 56,
         "title": "Who Is Dolly Parton?",
         "author": ["True Kelley"],
         "illustrator": ["Stephen Marchesi"],
@@ -834,11 +889,12 @@
         "properties": {
           "owned": 1,
           "series": ["Who HQ", "Who Was?"],
-          "seriesNo": 90
+          "seriesNo": 90,
+          "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
         }
     },
     {
-        "id": 56,
+        "id": 57,
         "title": "Who Is Ketanji Brown Jackson?",
         "author": ["Shelia P. Moses"],
         "illustrator": ["Dede Putra"],
@@ -849,11 +905,12 @@
         "properties": {
           "owned": 1,
           "series": ["Who HQ", "Who HQ Now"],
-          "seriesNo": 16
+          "seriesNo": 16,
+          "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
         }
     },
     {
-        "id": 57,
+        "id": 58,
         "title": "Who Is Michelle Obama?",
         "author": ["Megan Stine"],
         "illustrator": ["John O'Brian"],
@@ -864,11 +921,12 @@
         "properties": {
           "owned": 1,
           "series": ["Who HQ", "Who Was?"],
-          "seriesNo": 102
+          "seriesNo": 102,
+          "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
         }
     },
     {
-        "id": 58,
+        "id": 59,
         "title": "Who Was Alexander Hamilton?",
         "author": ["Pam Pollack", "Meg Belviso"],
         "illustrator": ["Dede Putra"],
@@ -879,11 +937,12 @@
         "properties": {
           "owned": 1,
           "series": ["Who HQ", "Who Was?"],
-          "seriesNo": 14
+          "seriesNo": 14,
+          "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
         }
     },
       {
-        "id": 59,
+        "id": 60,
         "title": "Who Was Ben Franklin?",
         "author": ["Dennis Brindell Fradin"],
         "illustrator": ["John O'Brian"],
@@ -894,11 +953,12 @@
         "properties": {
           "owned": 1,
           "series": ["Who HQ", "Who Was?"],
-          "seriesNo": 151
+          "seriesNo": 151,
+          "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
         }
     },
     {
-        "id": 60,
+        "id": 61,
         "title": "Who Was Frederick Douglass?",
         "author": ["April Jones Prince"],
         "illustrator": ["Robert Squier"],
@@ -909,11 +969,12 @@
         "properties": {
           "owned": 1,
           "series": ["Who HQ", "Who Was?"],
-          "seriesNo": 71
+          "seriesNo": 71,
+          "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
         }
     },
     {
-        "id": 61,
+        "id": 62,
         "title": "Who Was Genghis Khan?",
         "author": ["Nico Medina"],
         "illustrator": ["Andrew Thomas"],
@@ -924,11 +985,12 @@
         "properties": {
           "owned": 1,
           "series": ["Who HQ", "Who Was?"],
-          "seriesNo": 89
+          "seriesNo": 89,
+          "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
         }
     },
     {
-        "id": 62,
+        "id": 63,
         "title": "Who Was Jesus?",
         "author": ["Ellen Morgan"],
         "illustrator": ["Stephen Marchesi"],
@@ -939,11 +1001,12 @@
         "properties": {
           "owned": 1,
           "series": ["Who HQ", "Who Was?"],
-          "seriesNo": 64
+          "seriesNo": 64,
+          "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
         }
     },
     {
-        "id": 63,
+        "id": 64,
         "title": "Who Was Kobe Bryant?",
         "author": ["Ellen Labrecque"],
         "illustrator": ["Gregory Copeland"],
@@ -954,11 +1017,12 @@
         "properties": {
           "owned": 1,
           "series": ["Who HQ", "Who HQ Now"],
-          "seriesNo": 25
+          "seriesNo": 25,
+          "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
         }
     },
     {
-        "id": 64,
+        "id": 65,
         "title": "Who Was Maya Angelou?",
         "author": ["Ellen Labrecque"],
         "illustrator": ["Dede Putra"],
@@ -969,11 +1033,12 @@
         "properties": {
           "owned": 1,
           "series": ["Who HQ", "Who Was?"],
-          "seriesNo": 38
+          "seriesNo": 38,
+          "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
         }
     },
     {
-        "id": 65,
+        "id": 66,
         "title": "Who Was Princess Diana?",
         "author": ["Ellen Labrecque"],
         "illustrator": ["Jerry Hoare"],
@@ -984,11 +1049,12 @@
         "properties": {
           "owned": 1,
           "series": ["Who HQ", "Who Was?"],
-          "seriesNo": 20
+          "seriesNo": 20,
+          "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
         }
     },
     {
-        "id": 66,
+        "id": 67,
         "title": "Who Was Queen Elizabeth I?",
         "author": ["June Eding"],
         "illustrator": ["Nancy Harrison"],
@@ -999,11 +1065,12 @@
         "properties": {
           "owned": 1,
           "series": ["Who HQ", "Who Was?"],
-          "seriesNo": 126
+          "seriesNo": 126,
+          "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
         }
     },
     {
-        "id": 67,
+        "id": 68,
         "title": "Who Was Rosa Parks?",
         "author": ["Yona Zeldis McDonough"],
         "illustrator": ["Stephen Marchesi"],
@@ -1014,11 +1081,12 @@
         "properties": {
           "owned": 1,
           "series": ["Who HQ", "Who Was?"],
-          "seriesNo": 116
+          "seriesNo": 116,
+          "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
         }
     },
     {
-        "id": 68,
+        "id": 69,
         "title": "Who Was Ruth Bader Ginsburg?",
         "author": ["Patricia Brennan Demuth"],
         "illustrator": ["Jake Murray"],
@@ -1029,11 +1097,12 @@
         "properties": {
           "owned": 1,
           "series": ["Who HQ", "Who Was?"],
-          "seriesNo": 199
+          "seriesNo": 199,
+          "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
         }
     },
     {
-        "id": 69,
+        "id": 70,
         "title": "Who Was Steve Irwin?",
         "author": ["Dina Anastasio"],
         "illustrator": ["Jim Eldridge"],
@@ -1044,11 +1113,12 @@
         "properties": {
           "owned": 1,
           "series": ["Who HQ", "Who Was?"],
-          "seriesNo": 58
+          "seriesNo": 58,
+          "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
         }
     },
     {
-        "id": 70,
+        "id": 71,
         "title": "Who Was Walt Disney?",
         "author": ["Whitney Stewart"],
         "illustrator": ["Nancy Harrison"],
@@ -1059,7 +1129,8 @@
         "properties": {
           "owned": 1,
           "series": ["Who HQ", "Who Was?"],
-          "seriesNo": 122
+          "seriesNo": 122,
+          "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
         }
     }
 ]
