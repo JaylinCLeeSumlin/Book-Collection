@@ -137,9 +137,10 @@
         "link": "https://www.amazon.com/Cold-Hearted-Villains-Serena-Valentino/dp/1368025285/ref=sr_1_1?crid=2C0OPI3JI1EYT&keywords=cold+hearted&qid=1702960799&sprefix=cold+hearted,aps,86&sr=8-1",
         "properties": {
             "owned": 1,
-            "series": ["Villans"]
-        },
-        "genre": ["Fiction", "Fantasy", "Magical Realism", "Young Adult"]
+            "series": ["Villans"],
+            "seriesNo": 8,
+            "genre": ["Fiction", "Fantasy", "Magical Realism", "Young Adult"]
+        }
     },
     {
         "id": 10,
@@ -648,7 +649,7 @@
         "link": "https://www.amazon.com/Beast-Within-Beautys-Prince-Villains/dp/1423159128/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1702960269&sr=8-3",
         "properties": {
           "owned": 1,
-          "series": ["Villains"],
+          "series": ["Villans"],
           "seriesNo": 2,
           "genre": ["Fiction", "Fantasy", "Magical Realism", "Young Adult"]
         }
@@ -712,7 +713,7 @@
         "link": "https://www.amazon.com/Odd-Sisters-Villains-Novel/dp/136801318X/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1702960509&sr=8-1",
         "properties": {
           "owned": 1,
-          "series": ["Villains"],
+          "series": ["Villans"],
           "seriesNo": 6,
           "genre": ["Fiction", "Fantasy", "Magical Realism", "Young Adult"]
         }
