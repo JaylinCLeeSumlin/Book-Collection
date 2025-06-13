@@ -1357,5 +1357,133 @@
             "seriesNo": 6,
             "genre": ["Fiction", "Children's Fiction", "Graphic Novel", "Women's Fiction"]
         }
+    },
+    {
+        "id": 86,
+        "properties": {
+            "title": "Big Nate: Very Funny!",
+            "author": ["Lincoln Peirce"],
+            "illustrator": [],
+            "price": 8.35,
+            "publishDate": ["", "", ""],
+            "imgURL": "LPeirce_",
+            "link": "",
+            "owned": 0,
+            "series": ["Big Nate"],
+            "seriesNo": 1,
+            "genre": ["Fiction", "Children's Fiction", "Graphic Novel"]
+        }
+    },
+    {
+        "id": 87,
+        "properties": {
+            "title": "Big Nate: Prank You Very Much!",
+            "author": ["Lincoln Peirce"],
+            "illustrator": [],
+            "price": 8.35,
+            "publishDate": ["", "", ""],
+            "imgURL": "LPeirce_",
+            "link": "",
+            "owned": 0,
+            "series": ["Big Nate"],
+            "seriesNo": 2,
+            "genre": ["Fiction", "Children's Fiction", "Graphic Novel"]
+        }
+    },
+    {
+        "id": 88,
+        "properties": {
+            "title": "Big Nate: Prank You Very Much!",
+            "author": ["Lincoln Peirce"],
+            "illustrator": [],
+            "price": 7.25,
+            "publishDate": ["", "", ""],
+            "imgURL": "LPeirce_",
+            "link": "",
+            "owned": 0,
+            "series": ["Big Nate"],
+            "seriesNo": 2,
+            "genre": ["Fiction", "Children's Fiction", "Graphic Novel"]
+        }
+    },
+    {
+        "id": 90,
+        "properties": {
+            "title": "Big Nate: Destined for Awesomeness",
+            "author": ["Lincoln Peirce"],
+            "illustrator": [],
+            "price": 7.15,
+            "publishDate": ["", "", ""],
+            "imgURL": "LPeirce_",
+            "link": "",
+            "owned": 0,
+            "series": ["Big Nate"],
+            "seriesNo": 4,
+            "genre": ["Fiction", "Children's Fiction", "Graphic Novel"]
+        }
+    },
+    {
+        "id": 91,
+        "properties": {
+            "title": "Big Nate: Top Dog",
+            "author": ["Lincoln Peirce"],
+            "illustrator": [],
+            "price": 11.50,
+            "publishDate": ["", "", ""],
+            "imgURL": "LPeirce_",
+            "link": "",
+            "owned": 0,
+            "series": ["Big Nate"],
+            "seriesNo": 4,
+            "genre": ["Fiction", "Children's Fiction", "Graphic Novel"]
+        }
+    },
+    {
+        "id": 92,
+        "properties": {
+            "title": "Big Nate: Beware of Low-Flying Corn Muffins",
+            "author": ["Lincoln Peirce"],
+            "illustrator": [],
+            "price": 7,
+            "publishDate": ["", "", ""],
+            "imgURL": "LPeirce_CornMuffins",
+            "link": "https://www.amazon.com/Big-Nate-Beware-Low-Flying-Muffins/dp/1524871575/ref=pd_bxgy_img_d_sccl_2/131-0497148-6735569?pd_rd_w=Qkzva&content-id=amzn1.sym.2b132e63-5dcd-4ba1-be9f-9e044543d59f&pf_rd_p=2b132e63-5dcd-4ba1-be9f-9e044543d59f&pf_rd_r=FKX742C5CSFXBT5SWSD5&pd_rd_wg=8PxD9&pd_rd_r=d8ad73f1-ec1a-4b8f-a009-c767ae762d22&pd_rd_i=1524871575&psc=1",
+            "owned": 0,
+            "series": ["Big Nate"],
+            "seriesNo": 6,
+            "genre": ["Fiction", "Children's Fiction", "Graphic Novel"]
+        }
+    },
+    {
+        "id": 93,
+        "properties": {
+            "title": "Big Nate: From the Top",
+            "author": ["Lincoln Peirce"],
+            "illustrator": [],
+            "price": 6.6,
+            "publishDate": ["", "", ""],
+            "imgURL": "LPeirce_FromtheTop",
+            "link": "https://www.amazon.com/Big-Nate-Top-Lincoln-Peirce/dp/1449402321/ref=sr_1_1?crid=2WE7JUJQGKD94&keywords=big+nate+from+the+top&qid=1704589808&s=books&sprefix=big+nate+from+te,stripbooks,75&sr=1-1",
+            "owned": 0,
+            "series": ["Big Nate"],
+            "seriesNo": 7,
+            "genre": ["Fiction", "Children's Fiction", "Graphic Novel"]
+        }
+    },
+    {
+        "id": 94,
+        "properties": {
+            "title": "Big Nate: Out Loud",
+            "author": ["Lincoln Peirce"],
+            "illustrator": [],
+            "price": 9.65,
+            "publishDate": ["Apr", "26", "2011"],
+            "imgURL": "LPeirce_OutLoud",
+            "link": "https://www.amazon.com/Big-Nate-Loud-Lincoln-Peirce/dp/1449407188/ref=pd_bxgy_img_d_sccl_1/131-0497148-6735569?pd_rd_w=wOheA&content-id=amzn1.sym.2b132e63-5dcd-4ba1-be9f-9e044543d59f&pf_rd_p=2b132e63-5dcd-4ba1-be9f-9e044543d59f&pf_rd_r=N2P090EKQHVGST0C1MW2&pd_rd_wg=7TNjD&pd_rd_r=8b3fba7d-3970-4de8-922a-4ecdac1840fd&pd_rd_i=1449407188&psc=1",
+            "owned": 0,
+            "series": ["Big Nate"],
+            "seriesNo": 8,
+            "genre": ["Fiction", "Children's Fiction", "Graphic Novel"]
+        }
     }
 ]
