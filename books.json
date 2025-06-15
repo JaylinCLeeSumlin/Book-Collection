@@ -345,8 +345,8 @@
             "imgURL": "LTarshis_Graphic_HurricaneKatrina",
             "link": "https://www.amazon.com/Survived-Hurricane-Katrina-2005-Graphic/dp/1338766945/ref=sr_1_1?crid=N77ZI0144KFH&keywords=i+survived+hurricane+katrina+graphic+novel&qid=1702996163&sprefix=i+survived+hurr%2Caps%2C87&sr=8-1",
             "owned": 1,
-            "series": [],
-            "seriesNo": 0,
+            "series": ["I Survived Graphix"],
+            "seriesNo": 6,
             "genre": ["Fiction", "Children's Fiction", "Graphic Novel", "Historical Fiction"]
         }
     },
@@ -1365,7 +1365,7 @@
             "author": ["Lincoln Peirce"],
             "illustrator": [],
             "price": 8.35,
-            "publishDate": ["", "", ""],
+            "publishDate": [],
             "imgURL": "LPeirce_",
             "link": "",
             "owned": 0,
@@ -1381,7 +1381,7 @@
             "author": ["Lincoln Peirce"],
             "illustrator": [],
             "price": 8.35,
-            "publishDate": ["", "", ""],
+            "publishDate": [],
             "imgURL": "LPeirce_",
             "link": "",
             "owned": 0,
@@ -1397,7 +1397,7 @@
             "author": ["Lincoln Peirce"],
             "illustrator": [],
             "price": 7.25,
-            "publishDate": ["", "", ""],
+            "publishDate": [],
             "imgURL": "LPeirce_",
             "link": "",
             "owned": 0,
@@ -1413,7 +1413,7 @@
             "author": ["Lincoln Peirce"],
             "illustrator": [],
             "price": 7.15,
-            "publishDate": ["", "", ""],
+            "publishDate": [],
             "imgURL": "LPeirce_",
             "link": "",
             "owned": 0,
@@ -1429,7 +1429,7 @@
             "author": ["Lincoln Peirce"],
             "illustrator": [],
             "price": 11.50,
-            "publishDate": ["", "", ""],
+            "publishDate": [],
             "imgURL": "LPeirce_",
             "link": "",
             "owned": 0,
@@ -1445,7 +1445,7 @@
             "author": ["Lincoln Peirce"],
             "illustrator": [],
             "price": 7,
-            "publishDate": ["", "", ""],
+            "publishDate": [],
             "imgURL": "LPeirce_CornMuffins",
             "link": "https://www.amazon.com/Big-Nate-Beware-Low-Flying-Muffins/dp/1524871575/ref=pd_bxgy_img_d_sccl_2/131-0497148-6735569?pd_rd_w=Qkzva&content-id=amzn1.sym.2b132e63-5dcd-4ba1-be9f-9e044543d59f&pf_rd_p=2b132e63-5dcd-4ba1-be9f-9e044543d59f&pf_rd_r=FKX742C5CSFXBT5SWSD5&pd_rd_wg=8PxD9&pd_rd_r=d8ad73f1-ec1a-4b8f-a009-c767ae762d22&pd_rd_i=1524871575&psc=1",
             "owned": 0,
@@ -1461,7 +1461,7 @@
             "author": ["Lincoln Peirce"],
             "illustrator": [],
             "price": 6.6,
-            "publishDate": ["", "", ""],
+            "publishDate": [],
             "imgURL": "LPeirce_FromtheTop",
             "link": "https://www.amazon.com/Big-Nate-Top-Lincoln-Peirce/dp/1449402321/ref=sr_1_1?crid=2WE7JUJQGKD94&keywords=big+nate+from+the+top&qid=1704589808&s=books&sprefix=big+nate+from+te,stripbooks,75&sr=1-1",
             "owned": 0,
@@ -1484,6 +1484,1382 @@
             "series": ["Big Nate"],
             "seriesNo": 8,
             "genre": ["Fiction", "Children's Fiction", "Graphic Novel"]
+        }
+    },
+    {
+        "id": 95,
+        "properties": {
+            "title": "Big Nate and Friends",
+            "author": ["Lincoln Peirce"],
+            "illustrator": [],
+            "price": 8.15,
+            "publishDate": ["Dec", "6", "2011"],
+            "imgURL": "LPeirce_Friends",
+            "link": "https://www.amazon.com/Big-Nate-Friends-Lincoln-Peirce/dp/1449420435/ref=pd_bxgy_img_d_sccl_2/131-0497148-6735569?pd_rd_w=MMnAj&content-id=amzn1.sym.2b132e63-5dcd-4ba1-be9f-9e044543d59f&pf_rd_p=2b132e63-5dcd-4ba1-be9f-9e044543d59f&pf_rd_r=X2WQBBYCY6NK1BEAQSX2&pd_rd_wg=AyI5b&pd_rd_r=81ca5df7-a929-4891-8067-824a27f1c350&pd_rd_i=1449420435&psc=1",
+            "owned": 0,
+            "series": ["Big Nate"],
+            "seriesNo": 9,
+            "genre": ["Fiction", "Children's Fiction", "Graphic Novel"]
+        }
+    },
+    {
+        "id": 96,
+        "properties": {
+            "title": "Big Nate Makes the Grade",
+            "author": ["Lincoln Peirce"],
+            "illustrator": [],
+            "price": 8,
+            "publishDate": ["Aug", "21", "2012"],
+            "imgURL": "LPeirce_Grade",
+            "link": "https://www.amazon.com/Nate-Makes-Grade-Lincoln-Peirce/dp/1449425666/ref=m_crc_dp_lf_d_t1_d_sccl_2_4/131-0497148-6735569?pd_rd_w=ig9Vx&content-id=amzn1.sym.76a0b561-a7b4-41dc-9467-a85a2fa27c1c&pf_rd_p=76a0b561-a7b4-41dc-9467-a85a2fa27c1c&pf_rd_r=ED457BJ8MD8R30W1E4PJ&pd_rd_wg=o5WEj&pd_rd_r=08eb50f6-3f8c-4e26-8272-1840fefc4b52&pd_rd_i=1449425666&psc=1",
+            "owned": 0,
+            "series": ["Big Nate"],
+            "seriesNo": 10,
+            "genre": ["Fiction", "Children's Fiction", "Graphic Novel"]
+        }
+    },
+    {
+        "id": 97,
+        "properties": {
+            "title": "Big Nate: Game On!",
+            "author": ["Lincoln Peirce"],
+            "illustrator": [],
+            "price": 9.05,
+            "publishDate": ["Apr", "16", "2013"],
+            "imgURL": "LPeirce_GameOn",
+            "link": "https://www.amazon.com/Big-Nate-Game-Lincoln-Peirce/dp/1449427774/ref=bmx_dp_6k60n87n_d_sccl_2_2/131-0497148-6735569?pd_rd_w=UVM24&content-id=amzn1.sym.628e3119-8afd-4af2-be6b-18415b51e649&pf_rd_p=628e3119-8afd-4af2-be6b-18415b51e649&pf_rd_r=7YFJY8XPVKRH9EDMRJWC&pd_rd_wg=Rjko8&pd_rd_r=24956512-f11c-4431-b638-66bdd1613b15&pd_rd_i=1449427774&psc=1",
+            "owned": 0,
+            "series": ["Big Nate"],
+            "seriesNo": 11,
+            "genre": ["Fiction", "Children's Fiction", "Graphic Novel"]
+        }
+    },
+    {
+        "id": 98,
+        "properties": {
+            "title": "Big Nate: Dibs on This Chair",
+            "author": ["Lincoln Peirce"],
+            "illustrator": [],
+            "price": null,
+            "publishDate": [],
+            "imgURL": "",
+            "link": "",
+            "owned": 0,
+            "series": ["Big Nate"],
+            "seriesNo": 12,
+            "genre": ["Fiction", "Children's Fiction", "Graphic Novel"]
+        }
+    },
+    {
+        "id": 99,
+        "properties": {
+            "title": "Big Nate Makes a Splash",
+            "author": ["Lincoln Peirce"],
+            "illustrator": [],
+            "price": null,
+            "publishDate": [],
+            "imgURL": "",
+            "link": "",
+            "owned": 0,
+            "series": ["Big Nate"],
+            "seriesNo": 13,
+            "genre": ["Fiction", "Children's Fiction", "Graphic Novel"]
+        }
+    },
+    {
+        "id": 100,
+        "properties": {
+            "title": "Big Nate: I Smell a Pop Quiz",
+            "author": ["Lincoln Peirce"],
+            "illustrator": [],
+            "price": null,
+            "publishDate": [],
+            "imgURL": "",
+            "link": "",
+            "owned": 0,
+            "series": ["Big Nate"],
+            "seriesNo": 14,
+            "genre": ["Fiction", "Children's Fiction", "Graphic Novel"]
+        }
+    },
+    {
+        "id": 101,
+        "properties": {
+            "title": "Pray for a Fire Drill",
+            "author": ["Lincoln Peirce"],
+            "illustrator": [],
+            "price": null,
+            "publishDate": [],
+            "imgURL": "",
+            "link": "",
+            "owned": 0,
+            "series": ["Big Nate"],
+            "seriesNo": 15,
+            "genre": ["Fiction", "Children's Fiction", "Graphic Novel"]
+        }
+    },
+    {
+        "id": 102,
+        "properties": {
+            "title": "Big Nate: I Can't Take It!",
+            "author": ["Lincoln Peirce"],
+            "illustrator": [],
+            "price": 8,
+            "publishDate": ["Oct", "15", "2013"],
+            "imgURL": "LPeirce_CantTakeIt",
+            "link": "https://www.amazon.com/Big-Nate-I-Cant-Take/dp/1449429378/ref=pd_bxgy_img_d_sccl_1/131-0497148-6735569?pd_rd_w=PItQ6&content-id=amzn1.sym.2b132e63-5dcd-4ba1-be9f-9e044543d59f&pf_rd_p=2b132e63-5dcd-4ba1-be9f-9e044543d59f&pf_rd_r=33RAKFGWNWRW51684W5R&pd_rd_wg=XPt01&pd_rd_r=0213b809-b85d-4662-b2df-95041cef351a&pd_rd_i=1449429378&psc=1",
+            "owned": 0,
+            "series": ["Big Nate"],
+            "seriesNo": 16,
+            "genre": ["Fiction", "Children's Fiction", "Graphic Novel"]
+        }
+    },
+    {
+        "id": 103,
+        "properties": {
+            "title": "Big Nate: Great Minds Think Alike",
+            "author": ["Lincoln Peirce"],
+            "illustrator": [],
+            "price": 8.1,
+            "publishDate": ["Apr", "1", "2014"],
+            "imgURL": "LPeirce_GreatMinds",
+            "link": "https://www.amazon.com/Big-Nate-Great-Minds-Think/dp/1449436358/ref=pd_bxgy_img_d_sccl_1/131-0497148-6735569?pd_rd_w=5KKvc&content-id=amzn1.sym.2b132e63-5dcd-4ba1-be9f-9e044543d59f&pf_rd_p=2b132e63-5dcd-4ba1-be9f-9e044543d59f&pf_rd_r=1SBRG0YBNHM986N1YX5C&pd_rd_wg=GI5Wv&pd_rd_r=8dfc270e-6b12-4d48-ab4d-7b7b7f4f1e5c&pd_rd_i=1449436358&psc=1",
+            "owned": 0,
+            "series": ["Big Nate"],
+            "seriesNo": 17,
+            "genre": ["Fiction", "Children's Fiction", "Graphic Novel"]
+        }
+    },
+    {
+        "id": 104,
+        "properties": {
+            "title": "Big Nate: The Crowd Goes Wild!",
+            "author": ["Lincoln Peirce"],
+            "illustrator": [],
+            "price": 1.25,
+            "publishDate": ["Oct", "14", "2014"],
+            "imgURL": "LPeirce_CrowdGoesWild",
+            "link": "https://www.amazon.com/Big-Nate-Crowd-Goes-Wild/dp/144943634X/ref=bmx_dp_6giuet2o_d_sccl_2_19/131-0497148-6735569?pd_rd_w=vYbwY&content-id=amzn1.sym.628e3119-8afd-4af2-be6b-18415b51e649&pf_rd_p=628e3119-8afd-4af2-be6b-18415b51e649&pf_rd_r=Q5CEDDN6XNK6ZVQHPVD1&pd_rd_wg=kJJuU&pd_rd_r=c19c35d2-9636-4f15-8364-27f303083c96&pd_rd_i=144943634X&psc=1",
+            "owned": 0,
+            "series": ["Big Nate"],
+            "seriesNo": 18,
+            "genre": ["Fiction", "Children's Fiction", "Graphic Novel"]
+        }
+    },
+    {
+        "id": 105,
+        "properties": {
+            "title": "Big Nate: Say Good-bye to Dork City",
+            "author": ["Lincoln Peirce"],
+            "illustrator": [],
+            "price": 8.5,
+            "publishDate": ["Mar", "17", "2015"],
+            "imgURL": "LPeirce_DorkCity",
+            "link": "https://www.amazon.com/Big-Nate-Good-bye-Dork-City/dp/1449462251/ref=pd_bxgy_img_d_sccl_1/131-0497148-6735569?pd_rd_w=aKXYx&content-id=amzn1.sym.2b132e63-5dcd-4ba1-be9f-9e044543d59f&pf_rd_p=2b132e63-5dcd-4ba1-be9f-9e044543d59f&pf_rd_r=442Q0F35JEKQF8JS93CR&pd_rd_wg=8Qx9G&pd_rd_r=9e3180c5-cc05-48d3-96fd-158e1d92483d&pd_rd_i=1449462251&psc=1",
+            "owned": 0,
+            "series": ["Big Nate"],
+            "seriesNo": 19,
+            "genre": ["Fiction", "Children's Fiction", "Graphic Novel"]
+        }
+    },
+    {
+        "id": 106,
+        "properties": {
+            "title": "Big Nate: Welcome to My World",
+            "author": ["Lincoln Peirce"],
+            "illustrator": [],
+            "price": 9.8,
+            "publishDate": ["Sep", "15", "2015"],
+            "imgURL": "LPeirce_MyWorld",
+            "link": "https://www.amazon.com/Big-Nate-Welcome-My-World/dp/144946226X/ref=pd_bxgy_img_d_sccl_1/131-0497148-6735569?pd_rd_w=oI7A1&content-id=amzn1.sym.2b132e63-5dcd-4ba1-be9f-9e044543d59f&pf_rd_p=2b132e63-5dcd-4ba1-be9f-9e044543d59f&pf_rd_r=F6EACPZNSFJKKPDP1QZY&pd_rd_wg=WKQiY&pd_rd_r=b16b7fd5-c896-431a-90e4-1219a29f4ecd&pd_rd_i=144946226X&psc=1",
+            "owned": 0,
+            "series": ["Big Nate"],
+            "seriesNo": 20,
+            "genre": ["Fiction", "Children's Fiction", "Graphic Novel"]
+        }
+    },
+    {
+        "id": 107,
+        "properties": {
+            "title": "Big Nate: Revenge of the Cream Puffs",
+            "author": ["Lincoln Peirce"],
+            "illustrator": [],
+            "price": 8.5,
+            "publishDate": ["Sep", "6", "2016"],
+            "imgURL": "LPeirce_CreamPuffs",
+            "link": "https://www.amazon.com/Big-Nate-Revenge-Cream-Puffs/dp/1449462286/ref=bmx_dp_6giuet2o_d_sccl_2_7/131-0497148-6735569?pd_rd_w=vYbwY&content-id=amzn1.sym.628e3119-8afd-4af2-be6b-18415b51e649&pf_rd_p=628e3119-8afd-4af2-be6b-18415b51e649&pf_rd_r=Q5CEDDN6XNK6ZVQHPVD1&pd_rd_wg=kJJuU&pd_rd_r=c19c35d2-9636-4f15-8364-27f303083c96&pd_rd_i=1449462286&psc=1",
+            "owned": 0,
+            "series": ["Big Nate"],
+            "seriesNo": 22,
+            "genre": ["Fiction", "Children's Fiction", "Graphic Novel"]
+        }
+    },
+    {
+        "id": 108,
+        "properties": {
+            "title": "Big Nate: What's a Little Noogie Between Friends",
+            "author": ["Lincoln Peirce"],
+            "illustrator": [],
+            "price": null,
+            "publishDate": [],
+            "imgURL": "",
+            "link": "",
+            "owned": 0,
+            "series": ["Big Nate"],
+            "seriesNo": 23,
+            "genre": ["Fiction", "Children's Fiction", "Graphic Novel"]
+        }
+    },
+    {
+        "id": 109,
+        "properties": {
+            "title": "Big Nate: A Good Old-Fashioned Wedgie",
+            "author": ["Lincoln Peirce"],
+            "illustrator": [],
+            "price": 7.2,
+            "publishDate": ["Aug", "21", "2017"],
+            "imgURL": "LPeirce_Wedgie",
+            "link": "https://www.amazon.com/Big-Nate-Good-Old-Fashioned-Wedgie/dp/1449462308/ref=bmx_dp_6giuet2o_d_sccl_2_1/131-0497148-6735569?pd_rd_w=catQ9&content-id=amzn1.sym.628e3119-8afd-4af2-be6b-18415b51e649&pf_rd_p=628e3119-8afd-4af2-be6b-18415b51e649&pf_rd_r=2GVWJEDVCX4XRM6JS3A3&pd_rd_wg=q50Ih&pd_rd_r=b1a8012e-34c5-410b-85e6-298876510014&pd_rd_i=1449462308&psc=1",
+            "owned": 0,
+            "series": ["Big Nate"],
+            "seriesNo": 24,
+            "genre": ["Fiction", "Children's Fiction", "Graphic Novel"]
+        }
+    },
+    {
+        "id": 110,
+        "properties": {
+            "title": "Big Nate: Silent But Deadly",
+            "author": ["Lincoln Peirce"],
+            "illustrator": [],
+            "price": 8.05,
+            "publishDate": ["Mar", "20", "2018"],
+            "imgURL": "LPeirce_Deadly",
+            "link": "https://www.amazon.com/Big-Nate-Silent-But-Deadly/dp/1449489915/ref=pd_bxgy_img_d_sccl_1/131-0497148-6735569?pd_rd_w=aclKW&content-id=amzn1.sym.2b132e63-5dcd-4ba1-be9f-9e044543d59f&pf_rd_p=2b132e63-5dcd-4ba1-be9f-9e044543d59f&pf_rd_r=N80B354MKWYRWAA0KHW3&pd_rd_wg=J9jWq&pd_rd_r=facaf905-c8d6-4260-b294-f4f0ca386418&pd_rd_i=1449489915&psc=1",
+            "owned": 0,
+            "series": ["Big Nate"],
+            "seriesNo": 25,
+            "genre": ["Fiction", "Children's Fiction", "Graphic Novel"]
+        }
+    },
+    {
+        "id": 111,
+        "properties": {
+            "title": "Big Nate Goes Bananas!",
+            "author": ["Lincoln Peirce"],
+            "illustrator": [],
+            "price": 8.9,
+            "publishDate": ["Sep", "18", "2018"],
+            "imgURL": "LPeirce_Bananas",
+            "link": "https://www.amazon.com/Nate-Goes-Bananas-Lincoln-Peirce/dp/1449489958/ref=bmx_dp_6giuet2o_d_sccl_3_9/131-0497148-6735569?pd_rd_w=eFg1h&content-id=amzn1.sym.628e3119-8afd-4af2-be6b-18415b51e649&pf_rd_p=628e3119-8afd-4af2-be6b-18415b51e649&pf_rd_r=W9AQEHS1A7XVE4QABG5Q&pd_rd_wg=zxAAU&pd_rd_r=c208fdac-09c8-46b0-a1a7-b4071c7efee7&pd_rd_i=1449489958&psc=1",
+            "owned": 0,
+            "series": ["Big Nate"],
+            "seriesNo": 26,
+            "genre": ["Fiction", "Children's Fiction", "Graphic Novel"]
+        }
+    },
+    {
+        "id": 112,
+        "properties": {
+            "title": "Big Nate: Payback Time!",
+            "author": ["Lincoln Peirce"],
+            "illustrator": [],
+            "price": 6.35,
+            "publishDate": ["Mar", "19", "2019"],
+            "imgURL": "LPeirce_Payback",
+            "link": "https://www.amazon.com/Big-Nate-Payback-Lincoln-Peirce/dp/1449497748/ref=pd_bxgy_img_d_sccl_2/131-0497148-6735569?pd_rd_w=m9bqm&content-id=amzn1.sym.2b132e63-5dcd-4ba1-be9f-9e044543d59f&pf_rd_p=2b132e63-5dcd-4ba1-be9f-9e044543d59f&pf_rd_r=J93Q7XKNYT7P2WP57NBT&pd_rd_wg=9mu8a&pd_rd_r=8fb44503-fc19-47ac-a97c-cf9a96ff7eac&pd_rd_i=1449497748&psc=1",
+            "owned": 0,
+            "series": ["Big Nate"],
+            "seriesNo": 27,
+            "genre": ["Fiction", "Children's Fiction", "Graphic Novel"]
+        }
+    },
+    {
+        "id": 113,
+        "properties": {
+            "title": "Big Nate: Hug It Out!",
+            "author": ["Lincoln Pierce"],
+            "illustrator": [],
+            "price": 7.35,
+            "publishDate": ["Sep", "3", "2019"],
+            "imgURL": "LPeirce_Hug",
+            "link": "https://www.amazon.com/Big-Nate-Hug-Out-21/dp/1524851841/ref=sr_1_2?crid=1VSTLI91Q8AV1",
+            "owned": 0,
+            "series": ["Big Nate"],
+            "seriesNo": 28,
+            "genre": ["Fiction", "Children's Fiction", "Graphic Novel"]
+        }
+    },
+    {
+        "id": 114,
+        "properties": {
+            "title": "Big Nate: Release the Hounds!",
+            "author": ["Lincoln Pierce"],
+            "illustrator": [],
+            "price": 9.25,
+            "publishDate": [],
+            "imgURL": "LPeirce_ReleaseHounds",
+            "link": "https://www.amazon.com/Big-Nate-Release-Hounds-27/dp/1524875570",
+            "owned": 0,
+            "series": ["Big Nate"],
+            "seriesNo": 29,
+            "genre": ["Fiction", "Children's Fiction", "Graphic Novel"]
+        }
+    },
+    {
+        "id": 115,
+        "properties": {
+            "title": "Big Nate: Nailed It!",
+            "author": ["Lincoln Pierce"],
+            "illustrator": [],
+            "price": null,
+            "publishDate": [],
+            "imgURL": "LPeirce_NailedIt",
+            "link": "https://www.amazon.com/Big-Nate-Nailed-Lincoln-Peirce/dp/1524879231",
+            "owned": 0,
+            "series": ["Big Nate"],
+            "seriesNo": 30,
+            "genre": ["Fiction", "Children's Fiction", "Graphic Novel"]
+        }
+    },
+    {
+        "id": 116,
+        "properties": {
+            "title": "Big Nate: Move It or Lose It!",
+            "author": ["Lincoln Pierce"],
+            "illustrator": [],
+            "price": 10.4,
+            "publishDate": [""],
+            "imgURL": "LPeirce_MoveIt",
+            "link": "https://www.amazon.com/Big-Nate-Move-Lose-29/dp/1524881295",
+            "owned": 0,
+            "series": ["Big Nate"],
+            "seriesNo": 31,
+            "genre": ["Fiction", "Children's Fiction", "Graphic Novel"]
+        }
+    },
+    {
+        "id": 117,
+        "properties": {
+            "title": "Big Nate: Blow the Roof Off!",
+            "author": ["Lincoln Pierce"],
+            "illustrator": [],
+            "price": 9.6,
+            "publishDate": ["Mar", "3", "2020"],
+            "imgURL": "LPeirce_BlowRoof",
+            "link": "https://www.amazon.com/Big-Nate-Blow-Roof-Off/dp/1524855065",
+            "owned": 0,
+            "series": ["Big Nate"],
+            "seriesNo": 32,
+            "genre": ["Fiction", "Children's Fiction", "Graphic Novel"]
+        }
+    },
+    {
+        "id": 118,
+        "properties": {
+            "title": "Big Nate: Gerbil Ate My Homework, The",
+            "author": ["Lincoln Pierce"],
+            "illustrator": [],
+            "price": 6.40,
+            "publishDate": ["Sep", "1", "2020"],
+            "imgURL": "LPeirce_Gerbil",
+            "link": "https://www.amazon.com/Big-Nate-Gerbil-Ate-Homework/dp/1524860654",
+            "owned": 0,
+            "series": ["Big Nate"],
+            "seriesNo": 33,
+            "genre": ["Fiction", "Children's Fiction", "Graphic Novel"]
+        }
+    },
+    {
+        "id": 119,
+        "properties": {
+            "title": "Big Nate: In Your Face!",
+            "author": ["Lincoln Pierce"],
+            "illustrator": [],
+            "price": 8.40,
+            "publishDate": ["Mar", "2", "2021"],
+            "imgURL": "LPeirce_InYourFace",
+            "link": "https://www.amazon.com/Big-Nate-Your-Face-24/dp/1524864773",
+            "owned": 0,
+            "series": ["Big Nate"],
+            "seriesNo": 34,
+            "genre": ["Fiction", "Children's Fiction", "Graphic Novel"]
+        }
+    },
+    {
+        "id": 120,
+        "properties": {
+            "title": "Big Nate: Aloha!",
+            "author": ["Lincoln Pierce"],
+            "illustrator": [],
+            "price": 8.00,
+            "publishDate": ["Aug", "31", "2021"],
+            "imgURL": "LPeirce_Aloha",
+            "link": "https://www.amazon.com/Big-Nate-Aloha-Lincoln-Peirce/dp/1524868566",
+            "owned": 0,
+            "series": ["Big Nate"],
+            "seriesNo": 35,
+            "genre": ["Fiction", "Children's Fiction", "Graphic Novel"]
+        }
+    },
+    {
+        "id": 121,
+        "properties": {
+            "title": "Big Nate: No Worries!",
+            "author": ["Lincoln Pierce"],
+            "illustrator": [],
+            "price": null,
+            "publishDate": [""],
+            "imgURL": "",
+            "link": "",
+            "owned": 0,
+            "series": ["Big Nate"],
+            "seriesNo": 36,
+            "genre": ["Fiction", "Children's Fiction", "Graphic Novel"]
+        }
+    },
+    {
+        "id": 122,
+        "properties": {
+            "title": "Diary of a Wimpy Kid",
+            "author": ["Jeff Kinney"],
+            "illustrator": ["Jeff Kinney"],
+            "price": 12,
+            "publishDate": ["Apr", "1", "2007"],
+            "imgURL": "JKinney_WimpyKid",
+            "link": "https://www.amazon.com/gp/product/B0051XV5Y6?ref_=dbs_m_mng_rwt_calw_thcv_0&storeType=ebooks&qid=1704572881&sr=8-1",
+            "owned": 0,
+            "series": ["Diary of a Wimpy Kid"],
+            "seriesNo": 1,
+            "genre": ["Fiction", "Children's Fiction", "Graphic Novel"]
+        }
+    },
+    {
+        "id": 123,
+        "properties": {
+            "title": "Rodrick Rules",
+            "author": ["Jeff Kinney"],
+            "illustrator": ["Jeff Kinney"],
+            "price": 9.35,
+            "publishDate": ["Feb", "1", "2008"],
+            "imgURL": "JKinney_RodrickRules",
+            "link": "https://www.amazon.com/gp/product/B002M3SOZG?ref_=dbs_m_mng_rwt_calw_thcv_1&storeType=ebooks&qid=1704572881&sr=8-1",
+            "owned": 0,
+            "series": ["Diary of a Wimpy Kid"],
+            "seriesNo": 2,
+            "genre": ["Fiction", "Children's Fiction", "Graphic Novel"]
+        }
+    },
+    {
+        "id": 124,
+        "properties": {
+            "title": "The Last Straw",
+            "author": ["Jeff Kinney"],
+            "illustrator": ["Jeff Kinney"],
+            "price": 11,
+            "publishDate": ["Jan", "1", "2009"],
+            "imgURL": "JKinney_LastStraw",
+            "link": "https://www.amazon.com/gp/product/B0081HTZSC?ref_=dbs_m_mng_rwt_calw_thcv_2&storeType=ebooks&qid=1704572881&sr=8-1",
+            "owned": 0,
+            "series": ["Diary of a Wimpy Kid"],
+            "seriesNo": 3,
+            "genre": ["Fiction", "Children's Fiction", "Graphic Novel"]
+        }
+    },
+    {
+        "id": 125,
+        "properties": {
+            "title": "Dog Days",
+            "author": ["Jeff Kinney"],
+            "illustrator": ["Jeff Kinney"],
+            "price": 9,
+            "publishDate": ["Oct", "12", "2009"],
+            "imgURL": "JKinney_DogDays",
+            "link": "https://www.amazon.com/gp/product/B0030H0XSO?ref_=dbs_m_mng_rwt_calw_thcv_3&storeType=ebooks&qid=1704572881&sr=8-1",
+            "owned": 0,
+            "series": ["Diary of a Wimpy Kid"],
+            "seriesNo": 4,
+            "genre": ["Fiction", "Children's Fiction", "Graphic Novel"]
+        }
+    },
+    {
+        "id": 126,
+        "properties": {
+            "title": "Ugly Truth",
+            "author": ["Jeff Kinney"],
+            "illustrator": ["Jeff Kinney"],
+            "price": 9.15,
+            "publishDate": ["Nov", "9", "2010"],
+            "imgURL": "JKinney_UglyTruth",
+            "link": "https://www.amazon.com/gp/product/1419741896?ref_=dbs_m_mng_rwt_calw_thcv_4&storeType=ebooks&qid=1704572881&sr=8-1",
+            "owned": 0,
+            "series": ["Diary of a Wimpy Kid"],
+            "seriesNo": 5,
+            "genre": ["Fiction", "Children's Fiction", "Graphic Novel"]
+        }
+    },
+    {
+        "id": 127,
+        "properties": {
+            "title": "Cabin Fever",
+            "author": ["Jeff Kinney"],
+            "illustrator": ["Jeff Kinney"],
+            "price": 13.50,
+            "publishDate": ["Nov", "21", "2013"],
+            "imgURL": "JKinney_CabinFever",
+            "link": "https://www.amazon.com/gp/product/141977400X?ref_=dbs_m_mng_rwt_calw_thcv_5&storeType=ebooks&qid=1704572881&sr=8-1",
+            "owned": 0,
+            "series": ["Diary of a Wimpy Kid"],
+            "seriesNo": 6,
+            "genre": ["Fiction", "Children's Fiction", "Graphic Novel"]
+        }
+    },
+    {
+    "id": 128,
+    "properties": {
+        "title": "The Third Wheel",
+        "author": ["Jeff Kinney"],
+        "illustrator": ["Jeff Kinney"],
+        "price": 9.25,
+        "publishDate": ["Nov", "13", "2012"],
+        "imgURL": "JKinney_ThirdWheel",
+        "link": "https://www.amazon.com/gp/product/B00M0D2HQ0?ref_=dbs_m_mng_rwt_calw_thcv_6&storeType=ebooks&qid=1704572881&sr=8-1",
+        "owned": 0,
+        "series": ["Diary of a Wimpy Kid"],
+        "seriesNo": 7,
+        "genre": ["Fiction", "Children's Fiction", "Graphic Novel"]
+    }
+    },
+    {
+        "id": 129,
+        "properties": {
+            "title": "Hard Luck",
+            "author": ["Jeff Kinney"],
+            "illustrator": ["Jeff Kinney"],
+            "price": 10,
+            "publishDate": ["Nov", "5", "2013"],
+            "imgURL": "JKinney_HardLuck",
+            "link": "https://www.amazon.com/gp/product/1419741942?ref_=dbs_m_mng_rwt_calw_thcv_7&storeType=ebooks&qid=1704572881&sr=8-1",
+            "owned": 0,
+            "series": ["Diary of a Wimpy Kid"],
+            "seriesNo": 8,
+            "genre": ["Fiction", "Children's Fiction", "Graphic Novel"]
+        }
+    },
+    {
+        "id": 130,
+        "properties": {
+            "title": "Old School",
+            "author": ["Jeff Kinney"],
+            "illustrator": ["Jeff Kinney"],
+            "price": 8.35,
+            "publishDate": ["Nov", "3", "2015"],
+            "imgURL": "JKinney_OldSchool",
+            "link": "https://www.amazon.com/gp/product/1419741969?ref_=dbs_m_mng_rwt_calw_thcv_9&storeType=ebooks&qid=1704572881&sr=8-1",
+            "owned": 0,
+            "series": ["Diary of a Wimpy Kid"],
+            "seriesNo": 10,
+            "genre": ["Fiction", "Children's Fiction", "Graphic Novel"]
+        }
+    },
+    {
+        "id": 131,
+        "properties": {
+            "title": "Double Down",
+            "author": ["Jeff Kinney"],
+            "illustrator": ["Jeff Kinney"],
+            "price": 8.8,
+            "publishDate": ["Nov", "1", "2016"],
+            "imgURL": "JKinney_DoubleDown",
+            "link": "https://www.amazon.com/gp/product/1419741977?ref_=dbs_m_mng_rwt_calw_thcv_10&storeType=ebooks&qid=1704572881&sr=8-1",
+            "owned": 0,
+            "series": ["Diary of a Wimpy Kid"],
+            "seriesNo": 11,
+            "genre": ["Fiction", "Children's Fiction", "Graphic Novel"]
+        }
+    },
+    {
+        "id": 132,
+        "properties": {
+            "title": "Getaway, The",
+            "author": ["Jeff Kinney"],
+            "illustrator": ["Jeff Kinney"],
+            "price": 7.85,
+            "publishDate": ["Nov", "7", "2017"],
+            "imgURL": "JKinney_Getaway",
+            "link": "https://www.amazon.com/gp/product/1419741985?ref_=dbs_m_mng_rwt_calw_thcv_11&storeType=ebooks&qid=1704572881&sr=8-1",
+            "owned": 0,
+            "series": ["Diary of a Wimpy Kid"],
+            "seriesNo": 12,
+            "genre": ["Fiction", "Children's Fiction", "Graphic Novel"]
+        }
+    },
+    {
+    "id": 133,
+    "properties": {
+        "title": "The Meltdown",
+        "author": ["Jeff Kinney"],
+        "illustrator": ["Jeff Kinney"],
+        "price": 9.00,
+        "publishDate": ["Oct", "30", "2018"],
+        "imgURL": "JKinney_Meltdown",
+        "link": "https://www.amazon.com/gp/product/1419741993?ref_=dbs_m_mng_rwt_calw_thcv_12&storeType=ebooks&qid=1704572881&sr=8-1",
+        "owned": 0,
+        "series": ["Diary of a Wimpy Kid"],
+        "seriesNo": 13,
+        "genre": ["Fiction", "Children's Fiction", "Graphic Novel"]
+    }
+    },
+    {
+        "id": 134,
+        "properties": {
+            "title": "Wrecking Ball",
+            "author": ["Jeff Kinney"],
+            "illustrator": ["Jeff Kinney"],
+            "price": 11.6,
+            "publishDate": ["Nov", "5", "2019"],
+            "imgURL": "JKinney_WreckingBall",
+            "link": "https://www.amazon.com/gp/product/1419739034?ref_=dbs_m_mng_rwt_calw_thcv_13&storeType=ebooks&qid=1704572881&sr=8-1",
+            "owned": 0,
+            "series": ["Diary of a Wimpy Kid"],
+            "seriesNo": 14,
+            "genre": ["Fiction", "Children's Fiction", "Graphic Novel"]
+        }
+    },
+    {
+        "id": 135,
+        "properties": {
+            "title": "Deep End, The",
+            "author": ["Jeff Kinney"],
+            "illustrator": ["Jeff Kinney"],
+            "price": 9.5,
+            "publishDate": ["Oct", "27", "2020"],
+            "imgURL": "JKinney_DeepEnd",
+            "link": "https://www.amazon.com/gp/product/1419748688?ref_=dbs_m_mng_rwt_calw_thcv_14&storeType=ebooks&qid=1704572881&sr=8-1",
+            "owned": 0,
+            "series": ["Diary of a Wimpy Kid"],
+            "seriesNo": 15,
+            "genre": ["Fiction", "Children's Fiction", "Graphic Novel"]
+        }
+    },
+    {
+        "id": 136,
+        "properties": {
+            "title": "Big Shot",
+            "author": ["Jeff Kinney"],
+            "illustrator": ["Jeff Kinney"],
+            "price": 9,
+            "publishDate": ["Oct", "26", "2021"],
+            "imgURL": "JKinney_BigShot",
+            "link": "https://www.amazon.com/gp/product/1419749153?ref_=dbs_m_mng_rwt_calw_thcv_15&storeType=ebooks&qid=1704572881&sr=8-1",
+            "owned": 0,
+            "series": ["Diary of a Wimpy Kid"],
+            "seriesNo": 16,
+            "genre": ["Fiction", "Children's Fiction", "Graphic Novel"]
+        }
+    },
+    {
+        "id": 137,
+        "properties": {
+            "title": "Diaper Overload",
+            "author": ["Jeff Kinney"],
+            "illustrator": ["Jeff Kinney"],
+            "price": 6.35,
+            "publishDate": ["Oct", "25", "2022"],
+            "imgURL": "JKinney_DiaperOverload",
+            "link": "https://www.amazon.com/gp/product/141976294X?ref_=dbs_m_mng_rwt_calw_thcv_16&storeType=ebooks&qid=1704572881&sr=8-1",
+            "owned": 0,
+            "series": ["Diary of a Wimpy Kid"],
+            "seriesNo": 17,
+            "genre": ["Fiction", "Children's Fiction", "Graphic Novel"]
+        }
+    },
+    {
+        "id": 138,
+        "properties": {
+            "title": "No Brainer",
+            "author": ["Jeff Kinney"],
+            "illustrator": ["Jeff Kinney"],
+            "price": 9,
+            "publishDate": ["Oct", "24", "2023"],
+            "imgURL": "JKinney_Brainer",
+            "link": "https://www.amazon.com/gp/product/1419766945?ref_=dbs_m_mng_rwt_calw_thcv_17&storeType=ebooks&qid=1704572881&sr=8-1",
+            "owned": 0,
+            "series": ["Diary of a Wimpy Kid"],
+            "seriesNo": 18,
+            "genre": ["Fiction", "Children's Fiction", "Graphic Novel"]
+        }
+    },
+    {
+        "id": 139,
+        "properties": {
+            "title": "Hot Mess",
+            "author": ["Jeff Kinney"],
+            "illustrator": ["Jeff Kinney"],
+            "price": 6.56,
+            "publishDate": ["Oct", "22", "2024"],
+            "imgURL": "JKinney_HotMess",
+            "link": "https://www.amazon.com/gp/product/1419766953?ref_=dbs_m_mng_rwt_calw_thcv_18&storeType=ebooks&qid=1704572881&sr=8-1",
+            "owned": 0,
+            "series": ["Diary of a Wimpy Kid"],
+            "seriesNo": 19,
+            "genre": ["Fiction", "Children's Fiction", "Graphic Novel"]
+        }
+    },
+    {
+        "id": 140,
+        "properties": {
+            "title": "Partypooper",
+            "author": ["Jeff Kinney"],
+            "illustrator": ["Jeff Kinney"],
+            "price": 11.19,
+            "publishDate": ["Oct", "21", "2025"],
+            "imgURL": "JKinney_Partypooper",
+            "link": "https://www.amazon.com/gp/product/141978269X?ref_=dbs_m_mng_rwt_calw_thcv_19&storeType=ebooks&qid=1704572881&sr=8-1",
+            "owned": 0,
+            "series": ["Diary of a Wimpy Kid"],
+            "seriesNo": 19,
+            "genre": ["Fiction", "Children's Fiction", "Graphic Novel"]
+        }
+    },
+    {
+        "id": 141,
+        "properties": {
+            "title": "I Survived the Sinking of the Titanic, 1912",
+            "author": ["Lauren Tarshis"],
+            "illustrator": [],
+            "price": 13.85,
+            "publishDate": [],
+            "imgURL": "LTarshis_Chapter_Titanic",
+            "link": "https://www.amazon.com/gp/product/1407196871?ref_=dbs_m_mng_rwt_calw_tpbk_0&storeType=ebooks&qid=1704595820&sr=1-1",
+            "owned": 0,
+            "series": ["I Survived"],
+            "seriesNo": 1,
+            "genre": ["Fiction", "Children's Fiction", "Historical Fiction"]
+        }
+    },
+    {
+        "id": 142,
+        "properties": {
+            "title": "I Survived the Shark Attacks of 1916",
+            "author": ["Lauren Tarshis"],
+            "illustrator": ["Scott Dawson"],
+            "price": 6,
+            "publishDate": ["Sep", "1", "2010"],
+            "imgURL": "LTarshis_Chapter_SharkAttacks",
+            "link": "https://www.amazon.com/gp/product/0545206952?ref_=dbs_m_mng_rwt_calw_tpbk_1&storeType=ebooks&qid=1704595820&sr=1-1",
+            "owned": 0,
+            "series": ["I Survived"],
+            "seriesNo": 2,
+            "genre": ["Fiction", "Children's Fiction", "Historical Fiction"]
+        }
+    },
+    {
+        "id": 143,
+        "properties": {
+            "title": "I Survived Hurricane Katrina, 2005",
+            "author": ["Lauren Tarshis"],
+            "illustrator": ["Scott Dawson"],
+            "price": 4.75,
+            "publishDate": ["Mar", "11", "2011"],
+            "imgURL": "LTarshis_Chapter_HurricaneKatrina",
+            "link": "https://www.amazon.com/gp/product/0545206960?ref_=dbs_m_mng_rwt_calw_tpbk_2&storeType=ebooks&qid=1704595820&sr=1-1",
+            "owned": 0,
+            "series": ["I Survived"],
+            "seriesNo": 3,
+            "genre": ["Fiction", "Children's Fiction", "Historical Fiction"]
+        }
+    },
+    {
+        "id": 144,
+        "properties": {
+            "title": "I Survived the Bombing of Pearl Harbor, 1941",
+            "author": ["Lauren Tarshis"],
+            "illustrator": ["Scott Dawson"],
+            "price": 5.4,
+            "publishDate": ["Oct", "1", "2011"],
+            "imgURL": "LTarshis_Chapter_PearlHarbor",
+            "link": "https://www.amazon.com/gp/product/0545206987?ref_=dbs_m_mng_rwt_calw_tpbk_3&storeType=ebooks&qid=1704595820&sr=1-1",
+            "owned": 0,
+            "series": ["I Survived"],
+            "seriesNo": 4,
+            "genre": ["Fiction", "Children's Fiction", "Historical Fiction"]
+        }
+    },
+    {
+        "id": 145,
+        "properties": {
+            "title": "I Survived the San Francisco Earthquake, 1906",
+            "author": ["Lauren Tarshis"],
+            "illustrator": ["Scott Dawson"],
+            "price": 5.75,
+            "publishDate": ["Mar", "1", "2012"],
+            "imgURL": "LTarshis_Chapter_SFEarthquake",
+            "link": "https://www.amazon.com/gp/product/0545206995?ref_=dbs_m_mng_rwt_calw_tpbk_4&storeType=ebooks&qid=1704595820&sr=1-1",
+            "owned": 0,
+            "series": ["I Survived"],
+            "seriesNo": 5,
+            "genre": ["Fiction", "Children's Fiction", "Historical Fiction"]
+        }
+    },
+    {
+        "id": 146,
+        "properties": {
+            "title": "I Survived the Attacks of September 11, 2001",
+            "author": ["Lauren Tarshis"],
+            "illustrator": [],
+            "price": 5.75,
+            "publishDate": ["Jul", "1", "2012"],
+            "imgURL": "LTarshis_Chapter_September11",
+            "link": "https://www.amazon.com/gp/product/0545207002?ref_=dbs_m_mng_rwt_calw_tpbk_5&storeType=ebooks&qid=1704595820&sr=1-1",
+            "owned": 0,
+            "series": ["I Survived"],
+            "seriesNo": 6,
+            "genre": ["Fiction", "Children's Fiction", "Historical Fiction"]
+        }
+    },
+    {
+        "id": 147,
+        "properties": {
+            "title": "I Survived the Battle of Gettysburg, 1863",
+            "author": ["Lauren Tarshis"],
+            "illustrator": [],
+            "price": 4.75,
+            "publishDate": ["Feb", "1", "2013"],
+            "imgURL": "LTarshis_Chapter_Gettysburg",
+            "link": "https://www.amazon.com/gp/product/0545459362?ref_=dbs_m_mng_rwt_calw_tpbk_6&storeType=ebooks&qid=1704595820&sr=1-1",
+            "owned": 0,
+            "series": ["I Survived"],
+            "seriesNo": 7,
+            "genre": ["Fiction", "Children's Fiction", "Historical Fiction"]
+        }
+    },
+    {
+        "id": 148,
+        "properties": {
+            "title": "I Survived the Japanese Tsunami, 2011",
+            "author": ["Lauren Tarshis"],
+            "illustrator": [],
+            "price": 4.75,
+            "publishDate": ["Aug", "27", "2013"],
+            "imgURL": "LTarshis_Chapter_JapTsunami",
+            "link": "https://www.amazon.com/gp/product/0545459370?ref_=dbs_m_mng_rwt_calw_tpbk_7&storeType=ebooks&qid=1704595820&sr=1-1",
+            "owned": 0,
+            "series": ["I Survived"],
+            "seriesNo": 8,
+            "genre": ["Fiction", "Children's Fiction", "Historical Fiction"]
+        }
+    },
+    {
+        "id": 149,
+        "properties": {
+            "title": "I Survived the Nazi Invasion, 1944",
+            "author": ["Lauren Tarshis"],
+            "illustrator": [],
+            "price": 5.25,
+            "publishDate": ["Feb", "25", "2014"],
+            "imgURL": "LTarshis_Chapter_NaziInvasion",
+            "link": "https://www.amazon.com/gp/product/0545459389?ref_=dbs_m_mng_rwt_calw_tpbk_8&storeType=ebooks&qid=1704595820&sr=1-1",
+            "owned": 0,
+            "series": ["I Survived"],
+            "seriesNo": 9,
+            "genre": ["Fiction", "Children's Fiction", "Historical Fiction"]
+        }
+    },
+    {
+        "id": 150,
+        "properties": {
+            "title": "I Survived the Destruction of Pompeii, AD 79",
+            "author": ["Lauren Tarshis"],
+            "illustrator": ["Scott Dawson"],
+            "price": 6.00,
+            "publishDate": ["Aug", "26", "2014"],
+            "imgURL": "LTarshis_Chapter_Pompeii",
+            "link": "https://www.amazon.com/gp/product/0545459397?ref_=dbs_m_mng_rwt_calw_tpbk_9&storeType=ebooks&qid=1704595820&sr=1-1",
+            "owned": 0,
+            "series": ["I Survived"],
+            "seriesNo": 10,
+            "genre": ["Fiction", "Children's Fiction", "Historical Fiction"]
+        }
+    },
+    {
+        "id": 151,
+        "properties": {
+            "title": "I Survived the Great Chicago Fire, 1871",
+            "author": ["Lauren Tarshis"],
+            "illustrator": [],
+            "price": 4.25,
+            "publishDate": ["Feb", "24", "2015"],
+            "imgURL": "LTarshis_Chapter_ChicagoFire",
+            "link": "https://www.amazon.com/gp/product/0545658462?ref_=dbs_m_mng_rwt_calw_tpbk_10&storeType=ebooks&qid=1704595820&sr=1-1",
+            "owned": 0,
+            "series": ["I Survived"],
+            "seriesNo": 11,
+            "genre": ["Fiction", "Children's Fiction", "Historical Fiction"]
+        }
+    },
+    {
+        "id": 152,
+        "properties": {
+            "title": "I Survived the Joplin Tornado",
+            "author": ["Lauren Tarshis"],
+            "illustrator": [],
+            "price": null,
+            "publishDate": ["Aug", "25", "2015"],
+            "imgURL": "LTarshis_Chapter_JoplinTornado",
+            "link": "https://www.amazon.com/gp/product/0545658489?ref_=dbs_m_mng_rwt_calw_tpbk_11&storeType=ebooks&qid=1704595820&sr=1-1",
+            "owned": 0,
+            "series": ["I Survived"],
+            "seriesNo": 12,
+            "genre": ["Fiction", "Children's Fiction", "Historical Fiction"]
+        }
+    },
+    {
+        "id": 153,
+        "properties": {
+            "title": "I Survived the Hindenburg Disaster, 1937",
+            "author": ["Lauren Tarshis"],
+            "illustrator": [],
+            "price": 6,
+            "publishDate": ["Feb", "23", "2016"],
+            "imgURL": "LTarshis_Chapter_Hindenburg",
+            "link": "https://www.amazon.com/gp/product/0545658500?ref_=dbs_m_mng_rwt_calw_tpbk_12&storeType=ebooks&qid=1704595820&sr=1-1",
+            "owned": 0,
+            "series": ["I Survived"],
+            "seriesNo": 13,
+            "genre": ["Fiction", "Children's Fiction", "Historical Fiction"]
+        }
+    },
+    {
+        "id": 154,
+        "properties": {
+            "title": "I Survived the Eruption of Mount St. Helens, 1980",
+            "author": ["Lauren Tarshis"],
+            "illustrator": [],
+            "price": 5.8,
+            "publishDate": ["Aug", "30", "2016"],
+            "imgURL": "LTarshis_Chapter_StHelens",
+            "link": "https://www.amazon.com/gp/product/0545658527?ref_=dbs_m_mng_rwt_calw_tpbk_13&storeType=ebooks&qid=1704595820&sr=1-1",
+            "owned": 0,
+            "series": ["I Survived"],
+            "seriesNo": 14,
+            "genre": ["Fiction", "Children's Fiction", "Historical Fiction"]
+        }
+    },
+    {
+        "id": 155,
+        "properties": {
+            "title": "I Survived the Children's Blizzard, 1888",
+            "author": ["Lauren Tarshis"],
+            "illustrator": [],
+            "price": 5,
+            "publishDate": ["Feb", "27", "2018"],
+            "imgURL": "LTarshis_Chapter_ChildrensBlizzard",
+            "link": "https://www.amazon.com/gp/product/0545919770?ref_=dbs_m_mng_rwt_calw_tpbk_15&storeType=ebooks&qid=1704595820&sr=1-1",
+            "owned": 0,
+            "series": ["I Survived"],
+            "seriesNo": 16,
+            "genre": ["Fiction", "Children's Fiction", "Historical Fiction"]
+        }
+    },
+    {
+        "id": 156,
+        "properties": {
+            "title": "I Survived the Battle of D-Day, 1944",
+            "author": ["Lauren Tarshis"],
+            "illustrator": [],
+            "price": 13,
+            "publishDate": [],
+            "imgURL": "LTarshis_Chapter_DDay",
+            "link": "https://www.amazon.com/gp/product/1432874683?ref_=dbs_m_mng_rwt_calw_tpbk_17&storeType=ebooks&qid=1704595820&sr=1-1",
+            "owned": 0,
+            "series": ["I Survived"],
+            "seriesNo": 18,
+            "genre": ["Fiction", "Children's Fiction", "Historical Fiction"]
+        }
+    },
+    {
+        "id": 157,
+        "properties": {
+            "title": "I Survived The Great Molasses Flood, 1919",
+            "author": ["Lauren Tarshis"],
+            "illustrator": [],
+            "price": 6,
+            "publishDate": ["Sep", "3", "2019"],
+            "imgURL": "LTarshis_Chapter_MolassesFlood",
+            "link": "https://www.amazon.com/gp/product/1338317415?ref_=dbs_m_mng_rwt_calw_tpbk_18&storeType=ebooks&qid=1704595820&sr=1-1",
+            "owned": 0,
+            "series": ["I Survived"],
+            "seriesNo": 19,
+            "genre": ["Fiction", "Children's Fiction", "Historical Fiction"]
+        }
+    },
+    {
+        "id": 158,
+        "properties": {
+            "title": "I Survived the California Wildfires, 2018",
+            "author": ["Lauren Tarshis"],
+            "illustrator": [],
+            "price": 4.45,
+            "publishDate": ["Sep", "1", "2020"],
+            "imgURL": "LTarshis_Chapter_CaliforniaWildfires",
+            "link": "https://www.amazon.com/gp/product/133831744X?ref_=dbs_m_mng_rwt_calw_tpbk_19&storeType=ebooks&qid=1704595820&sr=1-1",
+            "owned": 0,
+            "series": ["I Survived"],
+            "seriesNo": 20,
+            "genre": ["Fiction", "Children's Fiction", "Historical Fiction"]
+        }
+    },
+    {
+        "id": 159,
+        "properties": {
+            "title": "I Survived the Galveston Hurricane, 1900",
+            "author": ["Lauren Tarshis"],
+            "illustrator": [],
+            "price": 5.40,
+            "publishDate": ["Sep", "7", "2021"],
+            "imgURL": "LTarshis_Chapter_GalvenstonHurricane",
+            "link": "https://www.amazon.com/gp/product/1338752537?ref_=dbs_m_mng_rwt_calw_tpbk_20&storeType=ebooks&qid=1704595820&sr=1-1",
+            "owned": 0,
+            "series": ["I Survived"],
+            "seriesNo": 21,
+            "genre": ["Fiction", "Children's Fiction", "Historical Fiction"]
+        }
+    },
+    {
+        "id": 160,
+        "properties": {
+            "title": "I Survived the Wellington Avalanche, 1910",
+            "author": ["Lauren Tarshis"],
+            "illustrator": [],
+            "price": 6,
+            "publishDate": ["Sep", "6", "2022"],
+            "imgURL": "LTarshis_Chapter_WellingtonAvalanche",
+            "link": "https://www.amazon.com/gp/product/1338752561?ref_=dbs_m_mng_rwt_calw_tpbk_21&storeType=ebooks&qid=1704595820&sr=1-1",
+            "owned": 0,
+            "series": ["I Survived"],
+            "seriesNo": 22,
+            "genre": ["Fiction", "Children's Fiction", "Historical Fiction"]
+        }
+    },
+    {
+        "id": 161,
+        "properties": {
+            "title": "I Survived the Great Alaska Earthquake, 1964",
+            "author": ["Lauren Tarshis"],
+            "illustrator": [],
+            "price": 6.29,
+            "publishDate": ["Nov", "7", "2023"],
+            "imgURL": "LTarshis_Chapter_AlaskaEarthquake",
+            "link": "https://www.amazon.com/gp/product/1338891782?ref_=dbs_m_mng_rwt_calw_tpbk_22&storeType=ebooks&qid=1704595820&sr=1-1",
+            "owned": 0,
+            "series": ["I Survived"],
+            "seriesNo": 23,
+            "genre": ["Fiction", "Children's Fiction", "Historical Fiction"]
+        }
+    },
+    {
+        "id": 162,
+        "properties": {
+            "title": "I Survived the Black Death, 1348",
+            "author": ["Lauren Tarshis"],
+            "illustrator": [],
+            "price": 6.5,
+            "publishDate": ["Oct", "15", "2024"],
+            "imgURL": "LTarshis_Chapter_BlackDeath",
+            "link": "https://www.amazon.com/gp/product/1338891804?ref_=dbs_m_mng_rwt_calw_tpbk_23&storeType=ebooks&qid=1704595820&sr=1-1",
+            "owned": 0,
+            "series": ["I Survived"],
+            "seriesNo": 24,
+            "genre": ["Fiction", "Children's Fiction", "Historical Fiction"]
+        }
+    },
+    {
+        "id": 163,
+        "properties": {
+            "title": "I Survived the Dust Bowl, 1935",
+            "author": ["Lauren Tarshis"],
+            "illustrator": [],
+            "price": 6.99,
+            "publishDate": ["Oct", "7", "2025"],
+            "imgURL": "LTarshis_Chapter_DustBowl",
+            "link": "https://www.amazon.com/gp/product/1338891820?ref_=dbs_m_mng_rwt_calw_tpbk_24&storeType=ebooks&qid=1704595820&sr=1-1",
+            "owned": 0,
+            "series": ["I Survived"],
+            "seriesNo": 25,
+            "genre": ["Fiction", "Children's Fiction", "Historical Fiction"]
+        }
+    },
+    {
+        "id": 164,
+        "properties": {
+            "title": "I Survived the Sinking of the Titanic, 1912",
+            "author": ["Lauren Tarshis"],
+            "illustrator": ["Haus Studio"],
+            "price": 6.95,
+            "publishDate": ["Feb", "4", "2020"],
+            "imgURL": "LTarshis_Graphic_Titanic",
+            "link": "https://www.amazon.com/gp/product/1338120913?ref_=dbs_m_mng_rwt_calw_tpbk_0&storeType=ebooks",
+            "owned": 0,
+            "series": ["I Survived Graphix"],
+            "seriesNo": 1,
+            "genre": ["Fiction", "Children's Fiction", "Graphic Novel", "Historical Fiction"]
+        }
+    },
+    {
+        "id": 165,
+        "properties": {
+            "title": "I Survived the Shark Attacks of 1916",
+            "author": ["Lauren Tarshis"],
+            "illustrator": ["Haus Studio"],
+            "price": 8,
+            "publishDate": ["Jun", "2", "2020"],
+            "imgURL": "LTarshis_Graphic_SharkAttacks",
+            "link": "https://www.amazon.com/gp/product/1338120948?ref_=dbs_m_mng_rwt_calw_tpbk_1&storeType=ebooks",
+            "owned": 0,
+            "series": ["I Survived Graphix"],
+            "seriesNo": 2,
+            "genre": ["Fiction", "Children's Fiction", "Graphic Novel", "Historical Fiction"]
+        }
+    },
+    {
+        "id": 166,
+        "properties": {
+            "title": "I Survived the Shark Attacks of 1916",
+            "author": ["Lauren Tarshis"],
+            "illustrator": ["Berat Pekmezci"],
+            "price": 8.25,
+            "publishDate": ["May", "3", "2022"],
+            "imgURL": "LTarshis_Graphic_AttackoftheGrizzlies",
+            "link": "https://www.amazon.com/gp/product/1338766910?ref_=dbs_m_mng_rwt_calw_tpbk_4&storeType=ebooks",
+            "owned": 0,
+            "series": ["I Survived Graphix"],
+            "seriesNo": 5,
+            "genre": ["Fiction", "Children's Fiction", "Graphic Novel", "Historical Fiction"]
+        }
+    },
+    {
+        "id": 167,
+        "properties": {
+            "title": "I Survived the Great Chicago Fire, 1871",
+            "author": ["Lauren Tarshis"],
+            "illustrator": ["Cassie Anderson"],
+            "price": 11,
+            "publishDate": ["May", "2", "2023"],
+            "imgURL": "LTarshis_Graphic_ChicagoFire",
+            "link": "https://www.amazon.com/gp/product/1338825151?ref_=dbs_m_mng_rwt_calw_tpbk_6&storeType=ebooks",
+            "owned": 0,
+            "series": ["I Survived Graphix"],
+            "seriesNo": 7,
+            "genre": ["Fiction", "Children's Fiction", "Graphic Novel", "Historical Fiction"]
+        }
+    },
+    {
+        "id": 168,
+        "properties": {
+            "title": "I Survived the American Revolution, 1776",
+            "author": ["Lauren Tarshis"],
+            "illustrator": ["Leo Trinidad"],
+            "price": 8.8,
+            "publishDate": ["Sep", "5", "2023"],
+            "imgURL": "LTarshis_Graphic_AmericanRevolution",
+            "link": "https://www.amazon.com/gp/product/1338825186?ref_=dbs_m_mng_rwt_calw_tpbk_7&storeType=ebooks",
+            "owned": 0,
+            "series": ["I Survived Graphix"],
+            "seriesNo": 8,
+            "genre": ["Fiction", "Children's Fiction", "Graphic Novel", "Historical Fiction"]
+        }
+    },
+    {
+        "id": 169,
+        "properties": {
+            "title": "I Survived the Battle of D-Day, 1944",
+            "author": ["Lauren Tarshis"],
+            "illustrator": ["Brian Churilla"],
+            "price": 11.7,
+            "publishDate": ["Apr", "4", "2024"],
+            "imgURL": "LTarshis_Graphic_DDay",
+            "link": "https://www.amazon.com/gp/product/1338883046?ref_=dbs_m_mng_rwt_calw_tpbk_8&storeType=ebooks",
+            "owned": 0,
+            "series": ["I Survived Graphix"],
+            "seriesNo": 9,
+            "genre": ["Fiction", "Children's Fiction", "Graphic Novel", "Historical Fiction"]
+        }
+    },
+    {
+        "id": 170,
+        "properties": {
+            "title": "I Survived the Destruction of Pompeii, AD 79",
+            "author": ["Lauren Tarshis"],
+            "illustrator": ["Dave Shephard"],
+            "price": 6.67,
+            "publishDate": ["Sep", "3", "2024"],
+            "imgURL": "LTarshis_CGraphic_DDay",
+            "link": "https://www.amazon.com/gp/product/1338883070?ref_=dbs_m_mng_rwt_calw_tpbk_9&storeType=ebooks",
+            "owned": 0,
+            "series": ["I Survived Graphix"],
+            "seriesNo": 10,
+            "genre": ["Fiction", "Children's Fiction", "Graphic Novel", "Historical Fiction"]
+        }
+    },
+    {
+        "id": 171,
+        "properties": {
+            "title": "I Survived The Great Molasses Flood, 1919",
+            "author": ["Lauren Tarshis"],
+            "illustrator": ["Karen De la Vega"],
+            "price": 12.08,
+            "publishDate": ["Mar", "4", "2025"],
+            "imgURL": "LTarshis_Graphic_MolassesFlood",
+            "link": "https://www.amazon.com/gp/product/1546110372?ref_=dbs_m_mng_rwt_calw_tpbk_10&storeType=ebooks",
+            "owned": 0,
+            "series": ["I Survived Graphix"],
+            "seriesNo": 11,
+            "genre": ["Fiction", "Children's Fiction", "Graphic Novel", "Historical Fiction"]
+        }
+    },
+    {
+        "id": 172,
+        "properties": {
+            "title": "I Survived the Japanese Tsunami, 2011",
+            "author": ["Lauren Tarshis"],
+            "illustrator": ["Chris Chalik"],
+            "price": 12.08,
+            "publishDate": ["Aug", "5", "2025"],
+            "imgURL": "LTarshis_Graphic_JapTsunami",
+            "link": "https://www.amazon.com/gp/product/1546110801?ref_=dbs_m_mng_rwt_calw_tpbk_11&storeType=ebooks",
+            "owned": 0,
+            "series": ["I Survived Graphix"],
+            "seriesNo": 12,
+            "genre": ["Fiction", "Children's Fiction", "Graphic Novel", "Historical Fiction"]
+        }
+    },
+    {
+        "id": 173,
+        "properties": {
+            "title": "Fairest of Them All: A Tale of the Wicked Queen",
+            "author": ["Serena Valentino"],
+            "illustrator": [],
+            "price": 14,
+            "publishDate": ["Aug", "18", "2009"],
+            "imgURL": "SValentino_FairestofAll",
+            "link": "https://www.amazon.com/gp/product/1423106296?ref_=dbs_m_mng_rwt_calw_thcv_0&storeType=ebooks&qid=1704504853&sr=8-2",
+            "owned": 0,
+            "series": ["Villans"],
+            "seriesNo": 1,
+            "genre": ["Fiction", "Fantasy", "Magical Realism", "Young Adult"]
+        }
+    },
+    {
+        "id": 173,
+        "properties": {
+            "title": "Poor Unfortunate Soul: A Tale of the Sea Witch",
+            "author": ["Serena Valentino"],
+            "illustrator": [],
+            "price": 10.5,
+            "publishDate": ["Jul", "26", "2016"],
+            "imgURL": "SValentino_PoorUnfortunateSoul",
+            "link": "https://www.amazon.com/gp/product/1484724054?ref_=dbs_m_mng_rwt_calw_thcv_2&storeType=ebooks&qid=1704504853&sr=8-2",
+            "owned": 0,
+            "series": ["Villans"],
+            "seriesNo": 3,
+            "genre": ["Fiction", "Fantasy", "Magical Realism", "Young Adult"]
+        }
+    },
+    {
+        "id": 173,
+        "properties": {
+            "title": "Mother Knows Best: A Tale of an Old Witch",
+            "author": ["Serena Valentino"],
+            "illustrator": [],
+            "price": 11.35,
+            "publishDate": ["Aug", "7", "2018"],
+            "imgURL": "SValentino_MotherKnowsBest",
+            "link": "https://www.amazon.com/gp/product/1368009026?ref_=dbs_m_mng_rwt_calw_thcv_4&storeType=ebooks&qid=1704504853&sr=8-2",
+            "owned": 0,
+            "series": ["Villans"],
+            "seriesNo": 5,
+            "genre": ["Fiction", "Fantasy", "Magical Realism", "Young Adult"]
+        }
+    },
+    {
+        "id": 173,
+        "properties": {
+            "title": "Evil Thing",
+            "author": ["Serena Valentino"],
+            "illustrator": [],
+            "price": 9.85,
+            "publishDate": ["Jul", "7", "2020"],
+            "imgURL": "SValentino_EvilThing",
+            "link": "https://www.amazon.com/gp/product/1368009034?ref_=dbs_m_mng_rwt_calw_thcv_6&storeType=ebooks&qid=1704504853&sr=8-2",
+            "owned": 0,
+            "series": ["Villans"],
+            "seriesNo": 7,
+            "genre": ["Fiction", "Fantasy", "Magical Realism", "Young Adult"]
+        }
+    },
+    {
+        "id": 173,
+        "properties": {
+            "title": "Never Never",
+            "author": ["Serena Valentino"],
+            "illustrator": [],
+            "price": 12.7,
+            "publishDate": ["Jul", "19", "2022"],
+            "imgURL": "SValentino_NeverNever",
+            "link": "https://www.amazon.com/gp/product/1368025293?ref_=dbs_m_mng_rwt_calw_thcv_8&storeType=ebooks&qid=1704504853&sr=8-2",
+            "owned": 0,
+            "series": ["Villans"],
+            "seriesNo": 9,
+            "genre": ["Fiction", "Fantasy", "Magical Realism", "Young Adult"]
+        }
+    },
+    {
+        "id": 173,
+        "properties": {
+            "title": "Fire and Fate",
+            "author": ["Serena Valentino"],
+            "illustrator": [],
+            "price": 10.9,
+            "publishDate": ["Jul", "18", "2023"],
+            "imgURL": "SValentino_FireandFate",
+            "link": "https://www.amazon.com/gp/product/1368076572?ref_=dbs_m_mng_rwt_calw_thcv_9&storeType=ebooks&qid=1704504853&sr=8-2",
+            "owned": 0,
+            "series": ["Villans"],
+            "seriesNo": 10,
+            "genre": ["Fiction", "Fantasy", "Magical Realism", "Young Adult"]
+        }
+    },
+    {
+        "id": 173,
+        "properties": {
+            "title": "Kill the Beast",
+            "author": ["Serena Valentino"],
+            "illustrator": [],
+            "price": 11.33,
+            "publishDate": ["Jul", "30", "2024"],
+            "imgURL": "SValentino_KillBeast",
+            "link": "https://www.amazon.com/gp/product/1368076599?ref_=dbs_m_mng_rwt_calw_thcv_10&storeType=ebooks&qid=1704504853&sr=8-2",
+            "owned": 0,
+            "series": ["Villans"],
+            "seriesNo": 11,
+            "genre": ["Fiction", "Fantasy", "Magical Realism", "Young Adult"]
+        }
+    },
+    {
+        "id": 173,
+        "properties": {
+            "title": "Heartbroken",
+            "author": ["Serena Valentino"],
+            "illustrator": [],
+            "price": 17.66,
+            "publishDate": ["Jul", "29", "2025"],
+            "imgURL": "SValentino_Heartbroken",
+            "link": "https://www.amazon.com/gp/product/1368076742?ref_=dbs_m_mng_rwt_calw_thcv_11&storeType=ebooks&qid=1704504853&sr=8-2",
+            "owned": 0,
+            "series": ["Villans"],
+            "seriesNo": 12,
+            "genre": ["Fiction", "Fantasy", "Magical Realism", "Young Adult"]
         }
     }
 ]
