@@ -779,7 +779,7 @@
           "owned": 1,
           "series": ["Who HQ", "What Was?"],
           "seriesNo":  0,
-          "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+          "genre": ["Non-Fiction", "Children's Non-Fiction", "History"]
         }
     },
     {
@@ -795,7 +795,7 @@
           "owned": 1,
           "series": ["Who HQ", "What Was?"],
           "seriesNo":  0,
-          "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+          "genre": ["Non-Fiction", "Children's Non-Fiction", "History"]
         }
     },
     {
@@ -811,7 +811,7 @@
           "owned": 1,
           "series": ["Who HQ", "What Was?"],
           "seriesNo":  0,
-          "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography", "LGBT Non-Fiction"]
+          "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "LGBT Non-Fiction"]
         }
     },
     {
@@ -827,7 +827,7 @@
           "owned": 1,
           "series": ["Who HQ", "What Was?"],
           "seriesNo":  0,
-          "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+          "genre": ["Non-Fiction", "Children's Non-Fiction", "History"]
         }
     },
     {
@@ -843,7 +843,7 @@
           "owned": 1,
           "series": ["Who HQ", "What Was?"],
           "seriesNo":  0,
-          "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+          "genre": ["Non-Fiction", "Children's Non-Fiction", "History"]
         }
     },
     {
@@ -859,7 +859,7 @@
           "owned": 1,
           "series": ["Who HQ", "Where Is?"],
           "seriesNo":  0,
-          "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+          "genre": ["Non-Fiction", "Children's Non-Fiction", "History"]
         }
     },
     {
@@ -875,7 +875,7 @@
           "owned": 1,
           "series": ["Who HQ", "Where Is?"],
           "seriesNo":  0,
-          "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+          "genre": ["Non-Fiction", "Children's Non-Fiction", "History"]
         }
     },
     {
@@ -2875,7 +2875,7 @@
           "owned": 0,
           "series": ["Who HQ", "What Was?"],
           "seriesNo":  0,
-          "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+          "genre": ["Non-Fiction", "Children's Non-Fiction", "History"]
         }
     },
     {
@@ -2891,7 +2891,7 @@
             "owned": 0,
             "series": ["Who HQ", "What Was?"],
             "seriesNo": 0,
-            "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+            "genre": ["Non-Fiction", "Children's Non-Fiction", "History"]
         }
     },
     {
@@ -2907,7 +2907,7 @@
         "owned": 0,
         "series": ["Who HQ", "What Was?"],
         "seriesNo": 0,
-        "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+        "genre": ["Non-Fiction", "Children's Non-Fiction", "History"]
         }
     },
     {
@@ -2923,7 +2923,7 @@
             "owned": 0,
             "series": ["Who HQ", "What Was?"],
             "seriesNo": 0,
-            "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+            "genre": ["Non-Fiction", "Children's Non-Fiction", "History"]
         }
     },
     {
@@ -2939,7 +2939,7 @@
             "owned": 0,
             "series": ["Who HQ", "What Was?"],
             "seriesNo": 0,
-            "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+            "genre": ["Non-Fiction", "Children's Non-Fiction", "History"]
         }
     },
     {
@@ -2955,7 +2955,7 @@
             "owned": 0,
             "series": ["Who HQ", "What Was?"],
             "seriesNo": 0,
-            "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+            "genre": ["Non-Fiction", "Children's Non-Fiction", "History"]
         }
     },
     {
@@ -2971,7 +2971,7 @@
             "owned": 0,
             "series": ["Who HQ", "What Was?"],
             "seriesNo": 0,
-            "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+            "genre": ["Non-Fiction", "Children's Non-Fiction", "History"]
         }
     },
     {
@@ -2987,7 +2987,7 @@
             "owned": 0,
             "series": ["Who HQ", "What Was?"],
             "seriesNo": 0,
-            "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+            "genre": ["Non-Fiction", "Children's Non-Fiction", "History"]
         }
     },
     {
@@ -3003,7 +3003,7 @@
             "owned": 0,
             "series": ["Who HQ", "What Was?"],
             "seriesNo": 0,
-            "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+            "genre": ["Non-Fiction", "Children's Non-Fiction", "History"]
         }
     },
     {
@@ -3019,7 +3019,7 @@
             "owned": 0,
             "series": ["Who HQ", "What Was?"],
             "seriesNo": 0,
-            "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+            "genre": ["Non-Fiction", "Children's Non-Fiction", "History"]
         }
     },
     {
@@ -3035,7 +3035,7 @@
             "owned": 0,
             "series": ["Who HQ", "What Was?"],
             "seriesNo": 0,
-            "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+            "genre": ["Non-Fiction", "Children's Non-Fiction", "History"]
         }
     },
     {
@@ -3051,7 +3051,7 @@
             "owned": 0,
             "series": ["Who HQ", "What Was?"],
             "seriesNo": 0,
-            "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+            "genre": ["Non-Fiction", "Children's Non-Fiction", "History"]
         }
     },
     {
@@ -3067,7 +3067,7 @@
             "owned": 0,
             "series": ["Who HQ", "What Was?"],
             "seriesNo": 0,
-            "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+            "genre": ["Non-Fiction", "Children's Non-Fiction", "History"]
         }
     },
     {
@@ -3083,7 +3083,7 @@
             "owned": 0,
             "series": ["Who HQ", "What Was?"],
             "seriesNo": 0,
-            "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+            "genre": ["Non-Fiction", "Children's Non-Fiction", "History"]
         }
     },
     {
@@ -3099,7 +3099,7 @@
             "owned": 0,
             "series": ["Who HQ", "What Was?"],
             "seriesNo": 0,
-            "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+            "genre": ["Non-Fiction", "Children's Non-Fiction", "History"]
         }
     },
     {
@@ -3115,13 +3115,13 @@
             "owned": 0,
             "series": ["Who HQ", "What Was?"],
             "seriesNo": 0,
-            "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+            "genre": ["Non-Fiction", "Children's Non-Fiction", "History"]
         }
     },
     {
         "id": 190,
         "properties": {
-            "title": "What Is the SUper Bowl?",
+            "title": "What Is the Super Bowl?",
             "author": ["Dina Anastasio"],
             "illustrator": ["David Groff"],
             "price": 6.0,
@@ -3131,7 +3131,7 @@
             "owned": 0,
             "series": ["Who HQ", "What Was?"],
             "seriesNo": 0,
-            "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+            "genre": ["Non-Fiction", "Children's Non-Fiction", "History"]
         }
     },
     {
@@ -3147,7 +3147,7 @@
             "owned": 0,
             "series": ["Who HQ", "What Was?"],
             "seriesNo": 0,
-            "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+            "genre": ["Non-Fiction", "Children's Non-Fiction", "History"]
         }
     },
     {
@@ -3163,13 +3163,13 @@
             "owned": 0,
             "series": ["Who HQ", "What Was?"],
             "seriesNo": 0,
-            "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+            "genre": ["Non-Fiction", "Children's Non-Fiction", "History"]
         }
     },
     {
         "id": 193,
         "properties": {
-            "title": "What Are the SUmmer Olympics?",
+            "title": "What Are the Summer Olympics?",
             "author": ["Gail Herman"],
             "illustrator": ["Stephen Marchesi"],
             "price": 5.75,
@@ -3179,7 +3179,7 @@
             "owned": 0,
             "series": ["Who HQ", "What Was?"],
             "seriesNo": 0,
-            "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+            "genre": ["Non-Fiction", "Children's Non-Fiction", "History"]
         }
     },
     {
@@ -3195,13 +3195,13 @@
             "owned": 0,
             "series": ["Who HQ", "What Was?"],
             "seriesNo": 0,
-            "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+            "genre": ["Non-Fiction", "Children's Non-Fiction", "History"]
         }
     },
     {
         "id": 195,
         "properties": {
-            "title": "What Where the Twin Towers?",
+            "title": "What Were the Twin Towers?",
             "author": ["Jim O'Connor"],
             "illustrator": ["Ted Hammond"],
             "price": 6.0,
@@ -3211,7 +3211,7 @@
             "owned": 0,
             "series": ["Who HQ", "What Was?"],
             "seriesNo": 0,
-            "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+            "genre": ["Non-Fiction", "Children's Non-Fiction", "History"]
         }
     },
     {
@@ -3227,7 +3227,7 @@
             "owned": 0,
             "series": ["Who HQ", "What Was?"],
             "seriesNo": 0,
-            "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+            "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Natural Disasters"]
         }
     },
     {
@@ -3243,7 +3243,7 @@
             "owned": 0,
             "series": ["Who HQ", "What Was?"],
             "seriesNo": 0,
-            "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+            "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Natural Disasters"]
         }
     },
     {
@@ -3259,7 +3259,7 @@
             "owned": 0,
             "series": ["Who HQ", "What Was?"],
             "seriesNo": 0,
-            "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+            "genre": ["Non-Fiction", "Children's Non-Fiction", "History"]
         }
     },
     {
@@ -3275,7 +3275,7 @@
             "owned": 0,
             "series": ["Who HQ", "What Was?"],
             "seriesNo": 0,
-            "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+            "genre": ["Non-Fiction", "Children's Non-Fiction", "History"]
         }
     },
     {
@@ -3291,7 +3291,7 @@
             "owned": 0,
             "series": ["Who HQ", "What Was?"],
             "seriesNo": 0,
-            "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+            "genre": ["Non-Fiction", "Children's Non-Fiction", "History"]
         }
     },
     {
@@ -3323,7 +3323,7 @@
             "owned": 0,
             "series": ["Who HQ", "What Was?"],
             "seriesNo": 0,
-            "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+            "genre": ["Non-Fiction", "Children's Non-Fiction", "History"]
         }
     },
     {
@@ -3339,7 +3339,7 @@
             "owned": 0,
             "series": ["Who HQ", "What Was?"],
             "seriesNo": 0,
-            "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+            "genre": ["Non-Fiction", "Children's Non-Fiction", "History"]
         }
     },
     {
@@ -3355,7 +3355,7 @@
             "owned": 0,
             "series": ["Who HQ", "What Was?"],
             "seriesNo": 0,
-            "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+            "genre": ["Non-Fiction", "Children's Non-Fiction", "History"]
         }
     },
     {
@@ -3371,7 +3371,7 @@
             "owned": 0,
             "series": ["Who HQ", "What Was?"],
             "seriesNo": 0,
-            "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+            "genre": ["Non-Fiction", "Children's Non-Fiction", "History"]
         }
     },
     {
@@ -3387,7 +3387,7 @@
             "owned": 0,
             "series": ["Who HQ", "What Was?"],
             "seriesNo": 0,
-            "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+            "genre": ["Non-Fiction", "Children's Non-Fiction", "History"]
         }
     },
     {
@@ -3403,7 +3403,7 @@
             "owned": 0,
             "series": ["Who HQ", "What Was?"],
             "seriesNo": 0,
-            "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+            "genre": ["Non-Fiction", "Children's Non-Fiction", "History"]
         }
     },
     {
@@ -3419,7 +3419,7 @@
             "owned": 0,
             "series": ["Who HQ", "What Was?"],
             "seriesNo": 0,
-            "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+            "genre": ["Non-Fiction", "Children's Non-Fiction", "History"]
         }
     },
     {
@@ -3435,7 +3435,7 @@
             "owned": 0,
             "series": ["Who HQ", "What Was?"],
             "seriesNo": 0,
-            "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+            "genre": ["Non-Fiction", "Children's Non-Fiction", "History"]
         }
     },
     {
@@ -3451,7 +3451,7 @@
             "owned": 0,
             "series": ["Who HQ", "What Was?"],
             "seriesNo": 0,
-            "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+            "genre": ["Non-Fiction", "Children's Non-Fiction", "History"]
         }
     },
     {
@@ -3467,7 +3467,7 @@
             "owned": 0,
             "series": ["Who HQ", "What Was?"],
             "seriesNo": 0,
-            "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+            "genre": ["Non-Fiction", "Children's Non-Fiction", "History"]
         }
     },
     {
@@ -3483,7 +3483,7 @@
             "owned": 0,
             "series": ["Who HQ", "What Was?"],
             "seriesNo": 0,
-            "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+            "genre": ["Non-Fiction", "Children's Non-Fiction", "History"]
         }
     },
     {
@@ -3499,7 +3499,7 @@
             "owned": 0,
             "series": ["Who HQ", "What Was?"],
             "seriesNo": 0,
-            "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+            "genre": ["Non-Fiction", "Children's Non-Fiction", "History"]
         }
     },
     {
@@ -3515,7 +3515,7 @@
             "owned": 0,
             "series": ["Who HQ", "What Was?"],
             "seriesNo": 0,
-            "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+            "genre": ["Non-Fiction", "Children's Non-Fiction", "History"]
         }
     },
     {
@@ -3531,7 +3531,7 @@
             "owned": 0,
             "series": ["Who HQ", "What Was?"],
             "seriesNo": 0,
-            "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+            "genre": ["Non-Fiction", "Children's Non-Fiction", "History"]
         }
     },
     {
@@ -3547,7 +3547,7 @@
             "owned": 0,
             "series": ["Who HQ", "What Was?"],
             "seriesNo": 0,
-            "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+            "genre": ["Non-Fiction", "Children's Non-Fiction", "History"]
         }
     },
     {
@@ -3563,7 +3563,7 @@
             "owned": 0,
             "series": ["Who HQ", "What Was?"],
             "seriesNo": 0,
-            "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+            "genre": ["Non-Fiction", "Children's Non-Fiction", "History"]
         }
     },
     {
@@ -3579,7 +3579,7 @@
             "owned": 0,
             "series": ["Who HQ", "What Was?"],
             "seriesNo": 0,
-            "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+            "genre": ["Non-Fiction", "Children's Non-Fiction", "History"]
         }
     },
     {
@@ -3595,7 +3595,7 @@
             "owned": 0,
             "series": ["Who HQ", "What Was?"],
             "seriesNo": 0,
-            "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+            "genre": ["Non-Fiction", "Children's Non-Fiction", "History"]
         }
     },
     {
@@ -3611,7 +3611,7 @@
             "owned": 0,
             "series": ["Who HQ", "What Was?"],
             "seriesNo": 0,
-            "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+            "genre": ["Non-Fiction", "Children's Non-Fiction", "History"]
         }
     },
     {
@@ -3627,7 +3627,7 @@
             "owned": 0,
             "series": ["Who HQ", "What Was?"],
             "seriesNo": 0,
-            "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+            "genre": ["Non-Fiction", "Children's Non-Fiction", "History"]
         }
     },
     {
@@ -3643,7 +3643,7 @@
             "owned": 0,
             "series": ["Who HQ", "What Was?"],
             "seriesNo": 0,
-            "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+            "genre": ["Non-Fiction", "Children's Non-Fiction", "History"]
         }
     },
     {
@@ -3659,7 +3659,7 @@
             "owned": 0,
             "series": ["Who HQ", "What Was?"],
             "seriesNo": 0,
-            "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+            "genre": ["Non-Fiction", "Children's Non-Fiction", "History"]
         }
     },
     {
@@ -3675,7 +3675,7 @@
             "owned": 0,
             "series": ["Who HQ", "What Was?"],
             "seriesNo": 0,
-            "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+            "genre": ["Non-Fiction", "Children's Non-Fiction", "History"]
         }
     },
     {
@@ -3771,7 +3771,7 @@
             "owned": 0,
             "series": ["Who HQ", "What Was?"],
             "seriesNo": 0,
-            "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+            "genre": ["Non-Fiction", "Children's Non-Fiction", "History"]
         }
     },
     {
@@ -4269,5 +4269,53 @@
             "seriesNo": 0,
             "genre": ["Non-Fiction", "Children's Non-Fiction", "History"]
         }
-    }
+    },
+    {
+        "id": 262,
+       "properties": {
+          "title": "Where Is Mount Rushmore?",
+          "author": ["True Kelley"],
+          "illustrator": ["John Hinderliter"],
+          "price": 6,
+          "publishDate": ["Feb", "5", "2015"],
+          "imgURL": "TKelley_MountRushmore",
+          "link": "https://www.amazon.com/gp/product/0448483564?ref_=dbs_m_mng_rwt_calw_tpbk_0&storeType=ebooks&qid=1704761209&sr=8-2",
+          "owned": 0,
+          "series": ["Who HQ", "Where Is?"],
+          "seriesNo":  0,
+          "genre": ["Non-Fiction", "Children's Non-Fiction", "History"]
+        }
+    },
+    {
+  "id": 263,
+  "properties": {
+    "title": "Where Is the Great Wall?",
+    "author": ["Patricia Brennan Demuth"],
+    "illustrator": ["Jerry Hoare"],
+    "price": 6.0,
+    "publishDate": ["Feb", "5", "2015"],
+    "imgURL": "PBDemuth_GreatWall",
+    "link": "https://www.amazon.com/gp/product/0448483580?ref_=dbs_m_mng_rwt_calw_tpbk_1&storeType=ebooks&qid=1704761209&sr=8-2",
+    "owned": 0,
+    "series": ["Who HQ", "Where Is?"],
+    "seriesNo": 0,
+    "genre": ["Non-Fiction", "Children's Non-Fiction", "History"]
+  }
+},
+{
+  "id": 264,
+  "properties": {
+    "title": "Where Is the Grand Canyon?",
+    "author": ["Jim O'Connor"],
+    "illustrator": ["Daniel Colon"],
+    "price": 6.0,
+    "publishDate": ["Feb", "5", "2015"],
+    "imgURL": "JOConnor_GrandCanyon",
+    "link": "https://www.amazon.com/gp/product/0448483572?ref_=dbs_m_mng_rwt_calw_tpbk_2&storeType=ebooks&qid=1704761209&sr=8-2",
+    "owned": 0,
+    "series": ["Who HQ", "Where Is?"],
+    "seriesNo": 0,
+    "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Geography"]
+  }
+}
 ]
