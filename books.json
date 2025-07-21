@@ -6814,7 +6814,6 @@
       "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
     }
   },
-  [
   {
     "id": 410,
     "properties": {
@@ -7134,6 +7133,1061 @@
       "seriesNo": 0,
       "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
     }
+  },
+  {
+    "id": 430,
+    "properties": {
+      "title": "Who Is Ralph Lauren?",
+      "author": ["Jane O'Connor"],
+      "illustrator": ["Stephen Marchesi"],
+      "price": 7.0,
+      "publishDate": ["Oct", "17", "2017"],
+      "imgURL": "JOConnor_RalphLauren",
+      "link": "https://www.amazon.com/gp/product/1524784028?ref_=dbs_m_mng_rwt_calw_tpbk_144&storeType=ebooks&qid=1704834829&sr=8-1",
+      "owned": 0,
+      "series": ["Who HQ", "Who Was?"],
+      "seriesNo": 0,
+      "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+    }
+  },
+  {
+    "id": 431,
+    "properties": {
+      "title": "Who Was Chuck Jones?",
+      "author": ["Jim Gigliotti"],
+      "illustrator": ["John Hinderliter"],
+      "price": 6.0,
+      "publishDate": ["Dec", "5", "2017"],
+      "imgURL": "JGigliotti_ChuckJones",
+      "link": "https://www.amazon.com/gp/product/0448488574?ref_=dbs_m_mng_rwt_calw_tpbk_145&storeType=ebooks&qid=1704834829&sr=8-1",
+      "owned": 0,
+      "series": ["Who HQ", "Who Was?"],
+      "seriesNo": 0,
+      "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+    }
+  },
+  {
+    "id": 432,
+    "properties": {
+      "title": "Who Was Jane Austen?",
+      "author": ["Sarah Fabiny"],
+      "illustrator": ["Jerry Hoare"],
+      "price": 6.0,
+      "publishDate": ["Dec", "5", "2017"],
+      "imgURL": "SFabiny_JaneAusten",
+      "link": "https://www.amazon.com/gp/product/0448488639?ref_=dbs_m_mng_rwt_calw_tpbk_146&storeType=ebooks&qid=1704834829&sr=8-1",
+      "owned": 0,
+      "series": ["Who HQ", "Who Was?"],
+      "seriesNo": 0,
+      "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+    }
+  },
+  {
+    "id": 433,
+    "properties": {
+      "title": "Who Was Coretta Scott King?",
+      "author": ["Gail Herman"],
+      "illustrator": ["Gregory Copeland"],
+      "price": 6.0,
+      "publishDate": ["Dec", "5", "2017"],
+      "imgURL": "GHerman_CorettaScottKing",
+      "link": "https://www.amazon.com/gp/product/0451532619?ref_=dbs_m_mng_rwt_calw_tpbk_147&storeType=ebooks&qid=1704834829&sr=8-1",
+      "owned": 0,
+      "series": ["Who HQ", "Who Was?"],
+      "seriesNo": 0,
+      "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+    }
+  },
+  {
+    "id": 434,
+    "properties": {
+      "title": "Knock! Knock! Who Was There?",
+      "author": ["Brian Elling"],
+      "illustrator": ["Andrew Thomson"],
+      "price": 7.0,
+      "publishDate": ["Jan", "16", "2018"],
+      "imgURL": "BElling_KnockKnock",
+      "link": "https://www.amazon.com/gp/product/0515159328?ref_=dbs_m_mng_rwt_calw_tpbk_148&storeType=ebooks&qid=1704834829&sr=8-1",
+      "owned": 0,
+      "series": ["Who HQ", "Who Was?"],
+      "seriesNo": 0,
+      "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+    }
+  },
+  {
+    "id": 435,
+    "properties": {
+      "title": "Who Was Booker T. Washington?",
+      "author": ["James Buckley Jr."],
+      "illustrator": ["Jake Murray"],
+      "price": 5.0,
+      "publishDate": ["Feb", "6", "2018"],
+      "imgURL": "JBuckleyJr_BookerTWashington",
+      "link": "https://www.amazon.com/gp/product/B075HY6D4M?ref_=dbs_m_mng_rwt_calw_tkin_149&storeType=ebooks&qid=1704834829&sr=8-1",
+      "owned": 0,
+      "series": ["Who HQ", "Who Was?"],
+      "seriesNo": 0,
+      "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+    }
+  },
+  {
+    "id": 436,
+    "properties": {
+      "title": "Who Was Henry VIII?",
+      "author": ["Ellen Labrecque"],
+      "illustrator": ["Jake Murray"],
+      "price": 7.0,
+      "publishDate": ["Feb", "6", "2018"],
+      "imgURL": "ELabrecque_HenryVIII",
+      "link": "https://www.amazon.com/gp/product/044848854X?ref_=dbs_m_mng_rwt_calw_tpbk_150&storeType=ebooks&qid=1704834829&sr=8-1",
+      "owned": 0,
+      "series": ["Who HQ", "Who Was?"],
+      "seriesNo": 0,
+      "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+    }
+  },
+  {
+    "id": 437,
+    "properties": {
+      "title": "Who Is Dalai Lama?",
+      "author": ["Dana Meachen Rau"],
+      "illustrator": ["Dede Putra"],
+      "price": 6.0,
+      "publishDate": ["Apr", "3", "2018"],
+      "imgURL": "DMRau_DalaiLama",
+      "link": "https://www.amazon.com/gp/product/1101995548?ref_=dbs_m_mng_rwt_calw_tpbk_151&storeType=ebooks&qid=1704834829&sr=8-1",
+      "owned": 0,
+      "series": ["Who HQ", "Who Was?"],
+      "seriesNo": 0,
+      "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+    }
+  },
+  {
+    "id": 438,
+    "properties": {
+      "title": "Who Was Aretha Franklin?",
+      "author": ["Nico Medina"],
+      "illustrator": ["Gregory Copeland"],
+      "price": 5.10,
+      "publishDate": ["Apr", "3", "2018"],
+      "imgURL": "NMedina_ArethaFranklin",
+      "link": "https://www.amazon.com/gp/product/0451532392?ref_=dbs_m_mng_rwt_calw_tpbk_152&storeType=ebooks&qid=1704834829&sr=8-1",
+      "owned": 0,
+      "series": ["Who HQ", "Who Was?"],
+      "seriesNo": 0,
+      "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+    }
+  },
+  {
+    "id": 439,
+    "properties": {
+      "title": "Who Was Leif Erikson?",
+      "author": ["Nico Medina"],
+      "illustrator": ["Dede Putra"],
+      "price": 7.0,
+      "publishDate": ["Jun", "5", "2018"],
+      "imgURL": "NMedina_LeifErikson",
+      "link": "https://www.amazon.com/gp/product/0448488612?ref_=dbs_m_mng_rwt_calw_tpbk_154&storeType=ebooks&qid=1704834829&sr=8-1",
+      "owned": 0,
+      "series": ["Who HQ", "Who Was?"],
+      "seriesNo": 0,
+      "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+    }
+  },
+  {
+    "id": 440,
+    "properties": {
+      "title": "Who Were the Tuskegee Airmen?",
+      "author": ["Sherri L. Smith"],
+      "illustrator": ["Jake Murray"],
+      "price": 6.0,
+      "publishDate": ["Aug", "7", "2018"],
+      "imgURL": "SLSmith_TuskegeeAirmen",
+      "link": "https://www.amazon.com/gp/product/0399541942?ref_=dbs_m_mng_rwt_calw_tpbk_155&storeType=ebooks&qid=1704834829&sr=8-1",
+      "owned": 0,
+      "series": ["Who HQ", "Who Was?"],
+      "seriesNo": 0,
+      "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+    }
+  },
+  {
+    "id": 441,
+    "properties": {
+      "title": "Who Was Selena?",
+      "author": ["Max Bisantz", "Kate Bisantz"],
+      "illustrator": ["Joseph J. M. Qiu"],
+      "price": 5.65,
+      "publishDate": ["Aug", "7", "2018"],
+      "imgURL": "MBisantzKBisantz_Selena",
+      "link": "https://www.amazon.com/gp/product/1101995491?ref_=dbs_m_mng_rwt_calw_tpbk_156&storeType=ebooks&qid=1704834829&sr=8-1",
+      "owned": 0,
+      "series": ["Who HQ", "Who Was?"],
+      "seriesNo": 0,
+      "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+    }
+  },
+  {
+    "id": 442,
+    "properties": {
+      "title": "The Who Was? Activity Book?",
+      "author": ["Jordan London"],
+      "illustrator": ["Scott Burroughs", "Nancy Harrison"],
+      "price": 6.30,
+      "publishDate": ["Sep", "4", "2018"],
+      "imgURL": "JLondon_ActivityBook",
+      "link": "https://www.amazon.com/gp/product/1524789976?ref_=dbs_m_mng_rwt_calw_tpbk_157&storeType=ebooks&qid=1704834829&sr=8-1",
+      "owned": 0,
+      "series": ["Who HQ", "Who Was?"],
+      "seriesNo": 0,
+      "genre": ["Non-Fiction", "Children's Non-Fiction", "Activity", "Biography"]
+    }
+  },
+  {
+    "id": 443,
+    "properties": {
+      "title": "Who Is Bono?",
+      "author": ["Pam Pollack", "Meg Belviso"],
+      "illustrator": ["Andrew Thomson"],
+      "price": 6.0,
+      "publishDate": ["Oct", "2", "2018"],
+      "imgURL": "PPollackMBelviso_Bono",
+      "link": "https://www.amazon.com/gp/product/044848868X?ref_=dbs_m_mng_rwt_calw_tpbk_158&storeType=ebooks&qid=1704834829&sr=8-1",
+      "owned": 0,
+      "series": ["Who HQ", "Who Was?"],
+      "seriesNo": 0,
+      "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+    }
+  },
+  {
+    "id": 444,
+    "properties": {
+      "title": "Who Is Judy Blume?",
+      "author": ["Kirsten Anderson"],
+      "illustrator": ["Ted Hammond"],
+      "price": null,
+      "publishDate": ["Oct", "2", "2018"],
+      "imgURL": "KAnderson_JudyBlume",
+      "link": "https://www.amazon.com/gp/product/0448488493?ref_=dbs_m_mng_rwt_calw_tpbk_159&storeType=ebooks&qid=1704834829&sr=8-1",
+      "owned": 0,
+      "series": ["Who HQ", "Who Was?"],
+      "seriesNo": 0,
+      "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+    }
+  },
+  {
+    "id": 445,
+    "properties": {
+      "title": "Who Was Napoleon?",
+      "author": ["Jim Gigliotti"],
+      "illustrator": ["Gregory Copeland"],
+      "price": 5.60,
+      "publishDate": ["Dec", "4", "2018"],
+      "imgURL": "JGigliotti_Napoleon",
+      "link": "https://www.amazon.com/gp/product/0448488604?ref_=dbs_m_mng_rwt_calw_tpbk_160&storeType=ebooks&qid=1704834829&sr=8-1",
+      "owned": 0,
+      "series": ["Who HQ", "Who Was?"],
+      "seriesNo": 0,
+      "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+    }
+  },
+  {
+    "id": 446,
+    "properties": {
+      "title": "Who Was Nikola Tesla?",
+      "author": ["Jim Gigliotti"],
+      "illustrator": ["John Hinderliter"],
+      "price": 4.80,
+      "publishDate": ["Dec", "4", "2018"],
+      "imgURL": "JGigliotti_NikolaTesla",
+      "link": "https://www.amazon.com/gp/product/0448488590?ref_=dbs_m_mng_rwt_calw_tpbk_161&storeType=ebooks&qid=1704834829&sr=8-1",
+      "owned": 0,
+      "series": ["Who HQ", "Who Was?"],
+      "seriesNo": 0,
+      "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+    }
+  },
+  {
+    "id": 447,
+    "properties": {
+      "title": "Who Is Michael Jordan?",
+      "author": ["Kirsten Anderson"],
+      "illustrator": ["Dede Putra"],
+      "price": 4.80,
+      "publishDate": ["Feb", "5", "2019"],
+      "imgURL": "KAnderson_MichaelJordan",
+      "link": "https://www.amazon.com/gp/product/0451532457?ref_=dbs_m_mng_rwt_calw_tpbk_162&storeType=ebooks&qid=1704834829&sr=8-1",
+      "owned": 0,
+      "series": ["Who HQ", "Who Was?"],
+      "seriesNo": 0,
+      "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+    }
+  },
+  {
+    "id": 448,
+    "properties": {
+      "title": "Who Was H. J. Heinz?",
+      "author": ["Michael Burgan"],
+      "illustrator": ["Stephen Marchesi"],
+      "price": 6.0,
+      "publishDate": ["Apr", "2", "2019"],
+      "imgURL": "MBurgan_HJHeinz",
+      "link": "https://www.amazon.com/gp/product/0448488655?ref_=dbs_m_mng_rwt_calw_tpbk_163&storeType=ebooks&qid=1704834829&sr=8-1",
+      "owned": 0,
+      "series": ["Who HQ", "Who Was?"],
+      "seriesNo": 0,
+      "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+    }
+  },
+  {
+    "id": 449,
+    "properties": {
+      "title": "Who Was Norman Rockwell?",
+      "author": ["Sarah Fabiny"],
+      "illustrator": ["Gregory Copeland"],
+      "price": 6.0,
+      "publishDate": ["Apr", "2", "2019"],
+      "imgURL": "SFabiny_NormanRockwell",
+      "link": "https://www.amazon.com/gp/product/0448488647?ref_=dbs_m_mng_rwt_calw_tpbk_164&storeType=ebooks&qid=1704834829&sr=8-1",
+      "owned": 0,
+      "series": ["Who HQ", "Who Was?"],
+      "seriesNo": 0,
+      "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+    }
+  },
+  {
+    "id": 450,
+    "properties": {
+      "title": "Who Was Stephen Hawking?",
+      "author": ["Jim Gigliotti"],
+      "illustrator": ["Gregory Copeland"],
+      "price": 6.0,
+      "publishDate": ["Jun", "4", "2019"],
+      "imgURL": "JGigliotti_StephenHawking",
+      "link": "https://www.amazon.com/gp/product/0451532481?ref_=dbs_m_mng_rwt_calw_tpbk_165&storeType=ebooks&qid=1704834829&sr=8-1",
+      "owned": 0,
+      "series": ["Who HQ", "Who Was?"],
+      "seriesNo": 0,
+      "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+    }
+  },
+  {
+    "id": 451,
+    "properties": {
+      "title": "Who Was Che Guevara?",
+      "author": ["Elen Labrecque"],
+      "illustrator": ["Jerry Hoare"],
+      "price": 7.0,
+      "publishDate": ["Jun", "4", "2019"],
+      "imgURL": "ELabrecque_CheGuevara",
+      "link": "https://www.amazon.com/gp/product/0399544011?ref_=dbs_m_mng_rwt_calw_tpbk_166&storeType=ebooks&qid=1704834829&sr=8-1",
+      "owned": 0,
+      "series": ["Who HQ", "Who Was?"],
+      "seriesNo": 0,
+      "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+    }
+  },
+  {
+    "id": 452,
+    "properties": {
+      "title": "Who Was P. T. Barnum?",
+      "author": ["Kirsten Anderson"],
+      "illustrator": ["Stephen Marchesi"],
+      "price": 7.0,
+      "publishDate": ["Jun", "4", "2019"],
+      "imgURL": "KAnderson_PTBarnum",
+      "link": "https://www.amazon.com/gp/product/0448488485?ref_=dbs_m_mng_rwt_calw_tpbk_167&storeType=ebooks&qid=1704834829&sr=8-1",
+      "owned": 0,
+      "series": ["Who HQ", "Who Was?"],
+      "seriesNo": 0,
+      "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+    }
+  },
+  {
+    "id": 453,
+    "properties": {
+      "title": "Who Is Oprah Winfrey?",
+      "author": ["Barbara Kramer"],
+      "illustrator": ["Dede Putra"],
+      "price": 5.4,
+      "publishDate": ["Jul", "2", "2019"],
+      "imgURL": "BKramer_OprahWinfrey",
+      "link": "https://www.amazon.com/gp/product/1524787507?ref_=dbs_m_mng_rwt_calw_tpbk_168&storeType=ebooks&qid=1704834829&sr=8-1",
+      "owned": 0,
+      "series": ["Who HQ", "Who Was?"],
+      "seriesNo": 0,
+      "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+    }
+  },
+  {
+    "id": 454,
+    "properties": {
+      "title": "Who Is R. L. Stine?",
+      "author": ["M. D. Payne"],
+      "illustrator": ["Jake Murray"],
+      "price": 6.3,
+      "publishDate": ["Aug", "6", "2019"],
+      "imgURL": "MDPayne_RLStine",
+      "link": "https://www.amazon.com/gp/product/039953959X?ref_=dbs_m_mng_rwt_calw_tpbk_169&storeType=ebooks&qid=1704834829&sr=8-1",
+      "owned": 0,
+      "series": ["Who HQ", "Who Was?"],
+      "seriesNo": 0,
+      "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+    }
+  },
+  {
+    "id": 455,
+    "properties": {
+      "title": "Who Was Harriet Tubman?",
+      "author": ["Yona Zeldis McDonough"],
+      "illustrator": ["Nancy Harrison"],
+      "price": 6.0,
+      "publishDate": ["Sep", "3", "2019"],
+      "imgURL": "YZMcDonough_HarrietTubman",
+      "link": "https://www.amazon.com/gp/product/059309722X?ref_=dbs_m_mng_rwt_calw_tpbk_170&storeType=ebooks&qid=1704834829&sr=8-1",
+      "owned": 0,
+      "series": ["Who HQ", "Who Was?"],
+      "seriesNo": 0,
+      "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+    }
+  },
+  {
+    "id": 456,
+    "properties": {
+      "title": "Who Was Mister Rogers?",
+      "author": ["Diane Bailey"],
+      "illustrator": ["Dede Putra"],
+      "price": 6.0,
+      "publishDate": ["Oct", "1", "2019"],
+      "imgURL": "DBailey_MisterRogers",
+      "link": "https://www.amazon.com/gp/product/1524792195?ref_=dbs_m_mng_rwt_calw_tpbk_171&storeType=ebooks&qid=1704834829&sr=8-1",
+      "owned": 0,
+      "series": ["Who HQ", "Who Was?"],
+      "seriesNo": 0,
+      "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+    }
+  },
+  {
+    "id": 457,
+    "properties": {
+      "title": "Who Was? History of the World",
+      "author": ["Paula K Manzanero"],
+      "illustrator": ["Robert Squier"],
+      "price": 10.0,
+      "publishDate": ["Oct", "8", "2019"],
+      "imgURL": "PKManzanero_HistoryoftheWorld",
+      "link": "https://www.amazon.com/gp/product/1524788007?ref_=dbs_m_mng_rwt_calw_tpbk_172&storeType=ebooks&qid=1704834829&sr=8-1",
+      "owned": 0,
+      "series": ["Who HQ", "Who Was?"],
+      "seriesNo": 0,
+      "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+    }
+  },
+  {
+    "id": 458,
+    "properties": {
+      "title": "Who Was Sam Walton?",
+      "author": ["James Buckley Jr."],
+      "illustrator": ["Ted Hammond"],
+      "price": 6.85,
+      "publishDate": ["Nov", "5", "2019"],
+      "imgURL": "JBuckleyJr_SamWalton",
+      "link": "https://www.amazon.com/gp/product/1524792705?ref_=dbs_m_mng_rwt_calw_tpbk_173&storeType=ebooks&qid=1704834829&sr=8-1",
+      "owned": 0,
+      "series": ["Who HQ", "Who Was?"],
+      "seriesNo": 0,
+      "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+    }
+  },
+  {
+    "id": 459,
+    "properties": {
+      "title": "Who Is Jackie Chan?",
+      "author": ["Jody Jensen Shaffer"],
+      "illustrator": ["Gregory Copeland"],
+      "price": 7.0,
+      "publishDate": ["Feb", "4", "2020"],
+      "imgURL": "JJShaffer_JackieChan",
+      "link": "https://www.amazon.com/gp/product/1524791628?ref_=dbs_m_mng_rwt_calw_tpbk_175&storeType=ebooks&qid=1704834829&sr=8-1",
+      "owned": 0,
+      "series": ["Who HQ", "Who Was?"],
+      "seriesNo": 0,
+      "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+    }
+  },
+  {
+    "id": 460,
+    "properties": {
+      "title": "Who Was Richard Nixon?",
+      "author": ["Megan Stine"],
+      "illustrator": ["Manuel Gutierrez"],
+      "price": 6.0,
+      "publishDate": ["Mar", "3", "2020"],
+      "imgURL": "MStine_RichardNixon",
+      "link": "https://www.amazon.com/gp/product/1524789801?ref_=dbs_m_mng_rwt_calw_tpbk_176&storeType=ebooks&qid=1704834829&sr=8-1",
+      "owned": 0,
+      "series": ["Who HQ", "Who Was?"],
+      "seriesNo": 0,
+      "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+    }
+  },
+  {
+    "id": 461,
+    "properties": {
+      "title": "Who Is Temple Grandin?",
+      "author": ["Patricia Brennan Demuth"],
+      "illustrator": ["Robert Squier"],
+      "price": 7.0,
+      "publishDate": ["Apr", "7", "2020"],
+      "imgURL": "PBDemuth_TempleGrandin",
+      "link": "https://www.amazon.com/gp/product/0451532511?ref_=dbs_m_mng_rwt_calw_tpbk_177&storeType=ebooks&qid=1704834829&sr=8-1",
+      "owned": 0,
+      "series": ["Who HQ", "Who Was?"],
+      "seriesNo": 0,
+      "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+    }
+  },
+  {
+    "id": 462,
+    "properties": {
+      "title": "Who Was Harvey Milk?",
+      "author": ["Corinne A. Grinapol"],
+      "illustrator": ["Gregory Copeland"],
+      "price": 6.15,
+      "publishDate": ["May", "19", "2020"],
+      "imgURL": "CAGrinapol_HarveyMilk",
+      "link": "https://www.amazon.com/gp/product/1524792780?ref_=dbs_m_mng_rwt_calw_tpbk_178&storeType=ebooks&qid=1704834829&sr=8-1",
+      "owned": 0,
+      "series": ["Who HQ", "Who Was?"],
+      "seriesNo": 0,
+      "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+    }
+  },
+  {
+    "id": 463,
+    "properties": {
+      "title": "Who Was Ida B. Wells?",
+      "author": ["Sarah Fabiny"],
+      "illustrator": ["Ted Hammond"],
+      "price": 5.55,
+      "publishDate": ["Jun", "2", "2020"],
+      "imgURL": "SFabiny_IdaBWells",
+      "link": "https://www.amazon.com/gp/product/0593093356?ref_=dbs_m_mng_rwt_calw_tpbk_179&storeType=ebooks&qid=1704834829&sr=8-1",
+      "owned": 0,
+      "series": ["Who HQ", "Who Was?"],
+      "seriesNo": 0,
+      "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+    }
+  },
+  {
+    "id": 464,
+    "properties": {
+      "title": "Who Is David Beckham?",
+      "author": ["Ellen Labrecque"],
+      "illustrator": ["John Hinderliter"],
+      "price": 7.0,
+      "publishDate": ["Jul", "21", "2020"],
+      "imgURL": "ELabrecque_DavidBeckham",
+      "link": "https://www.amazon.com/gp/product/0399544046?ref_=dbs_m_mng_rwt_calw_tpbk_180&storeType=ebooks&qid=1704834829&sr=8-1",
+      "owned": 0,
+      "series": ["Who HQ", "Who Was?"],
+      "seriesNo": 0,
+      "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+    }
+  },
+  {
+    "id": 465,
+    "properties": {
+      "title": "Who Was Celia Cruz?",
+      "author": ["Pam Pollack", "Meg Belviso"],
+      "illustrator": ["Jake Murray"],
+      "price": 7.0,
+      "publishDate": ["Aug", "4", "2020"],
+      "imgURL": "PPollackMBelviso_CeliaCruz",
+      "link": "https://www.amazon.com/gp/product/0448488698?ref_=dbs_m_mng_rwt_calw_tpbk_181&storeType=ebooks&qid=1704834829&sr=8-1",
+      "owned": 0,
+      "series": ["Who HQ", "Who Was?"],
+      "seriesNo": 0,
+      "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+    }
+  },
+  {
+    "id": 466,
+    "properties": {
+      "title": "Who Was Benedict Arnold?",
+      "author": ["James Buckley Jr."],
+      "illustrator": ["Gregory Copeland"],
+      "price": 5.7,
+      "publishDate": ["Oct", "6", "2020"],
+      "imgURL": "JBuckleyJr_BenedictArnold",
+      "link": "https://www.amazon.com/gp/product/0448488523?ref_=dbs_m_mng_rwt_calw_tpbk_182&storeType=ebooks&qid=1704834829&sr=8-1",
+      "owned": 0,
+      "series": ["Who HQ", "Who Was?"],
+      "seriesNo": 0,
+      "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+    }
+  },
+  {
+    "id": 467,
+    "properties": {
+      "title": "Who Was Nellie Bly?",
+      "author": ["Margaret Gurevich"],
+      "illustrator": ["Laurie A. Conley"],
+      "price": 6.9,
+      "publishDate": ["Oct", "6", "2020"],
+      "imgURL": "MGurevich_NellieBly",
+      "link": "https://www.amazon.com/gp/product/1524787531?ref_=dbs_m_mng_rwt_calw_tpbk_183&storeType=ebooks&qid=1704834829&sr=8-1",
+      "owned": 0,
+      "series": ["Who HQ", "Who Was?"],
+      "seriesNo": 0,
+      "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+    }
+  },
+  {
+    "id": 468,
+    "properties": {
+      "title": "Who Was Duke Ellington?",
+      "author": ["M. D. Payne"],
+      "illustrator": ["Gregory Copeland"],
+      "price": 6.0,
+      "publishDate": ["Dec", "1", "2020"],
+      "imgURL": "MDPayne_DukeEllington",
+      "link": "https://www.amazon.com/gp/product/039953962X?ref_=dbs_m_mng_rwt_calw_tpbk_184&storeType=ebooks&qid=1704834829&sr=8-1",
+      "owned": 0,
+      "series": ["Who HQ", "Who Was?"],
+      "seriesNo": 0,
+      "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+    }
+  },
+  {
+    "id": 469,
+    "properties": {
+      "title": "Who Was Confucius?",
+      "author": ["Michael Burgan"],
+      "illustrator": ["Robert Squier"],
+      "price": 4.95,
+      "publishDate": ["Dec", "1", "2020"],
+      "imgURL": "MBurgan_Confucius",
+      "link": "https://www.amazon.com/gp/product/1524788732?ref_=dbs_m_mng_rwt_calw_tpbk_185&storeType=ebooks&qid=1704834829&sr=8-1",
+      "owned": 0,
+      "series": ["Who HQ", "Who Was?"],
+      "seriesNo": 0,
+      "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+    }
+  },
+  {
+    "id": 470,
+    "properties": {
+      "title": "Who Was Walt Whitman?",
+      "author": ["Kirsten Anderson"],
+      "illustrator": ["Tim Foley"],
+      "price": 5.9,
+      "publishDate": ["Feb", "2", "2021"],
+      "imgURL": "KAnderson_WaltWhitman",
+      "link": "https://www.amazon.com/gp/product/0399543988?ref_=dbs_m_mng_rwt_calw_tpbk_186&storeType=ebooks&qid=1704834829&sr=8-1",
+      "owned": 0,
+      "series": ["Who HQ", "Who Was?"],
+      "seriesNo": 0,
+      "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+    }
+  },
+  {
+    "id": 471,
+    "properties": {
+      "title": "Who Was Catherine the Great?",
+      "author": ["Pam Pollack", "Meg Belviso"],
+      "illustrator": ["Dede Putra"],
+      "price": 7.0,
+      "publishDate": ["Feb", "2", "2021"],
+      "imgURL": "PPollackMBelviso_CatherinetheGreat",
+      "link": "https://www.amazon.com/gp/product/0399544305?ref_=dbs_m_mng_rwt_calw_tpbk_187&storeType=ebooks&qid=1704834829&sr=8-1",
+      "owned": 0,
+      "series": ["Who HQ", "Who Was?"],
+      "seriesNo": 0,
+      "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+    }
+  },
+  {
+    "id": 472,
+    "properties": {
+      "title": "Who Was Levi Strauss?",
+      "author": ["Ellen Labrecque"],
+      "illustrator": ["Stephan Marchesi"],
+      "price": 5.8,
+      "publishDate": ["Mar", "9", "2021"],
+      "imgURL": "ELabrecque_LeviStrauss",
+      "link": "https://www.amazon.com/gp/product/0448488566?ref_=dbs_m_mng_rwt_calw_tpbk_188&storeType=ebooks&qid=1704834829&sr=8-1",
+      "owned": 0,
+      "series": ["Who HQ", "Who Was?"],
+      "seriesNo": 0,
+      "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+    }
+  },
+  {
+    "id": 473,
+    "properties": {
+      "title": "Who Is RuPaul?",
+      "author": ["Nico Medina"],
+      "illustrator": ["Andrew Thomson"],
+      "price": 7.0,
+      "publishDate": ["May", "11", "2021"],
+      "imgURL": "NMedina_RuPaul",
+      "link": "https://www.amazon.com/gp/product/0593222695?ref_=dbs_m_mng_rwt_calw_tpbk_189&storeType=ebooks&qid=1704834829&sr=8-1",
+      "owned": 0,
+      "series": ["Who HQ", "Who Was?"],
+      "seriesNo": 0,
+      "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+    }
+  },
+  {
+    "id": 474,
+    "properties": {
+      "title": "Who Was A. A. Milne?",
+      "author": ["Sarah Fabiny"],
+      "illustrator": ["Gregory Copeland"],
+      "price": 6.0,
+      "publishDate": ["Jun", "1", "2021"],
+      "imgURL": "SFabiny_AAMilne",
+      "link": "https://www.amazon.com/gp/product/0451532422?ref_=dbs_m_mng_rwt_calw_tpbk_190&storeType=ebooks&qid=1704834829&sr=8-1",
+      "owned": 0,
+      "series": ["Who HQ", "Who Was?"],
+      "seriesNo": 0,
+      "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+    }
+  },
+  {
+    "id": 475,
+    "properties": {
+      "title": "Who Is Neil deGrasse Tyson?",
+      "author": ["Pam Pollack", "Meg Belviso"],
+      "illustrator": ["Manuel Gutierrez"],
+      "price": 5.75,
+      "publishDate": ["Jun", "1", "2021"],
+      "imgURL": "PPollackMBelviso_NeildeGrasseTyson",
+      "link": "https://www.amazon.com/gp/product/0399544364?ref_=dbs_m_mng_rwt_calw_tpbk_191&storeType=ebooks&qid=1704834829&sr=8-1",
+      "owned": 0,
+      "series": ["Who HQ", "Who Was?"],
+      "seriesNo": 0,
+      "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+    }
+  },
+  {
+    "id": 476,
+    "properties": {
+      "title": "Who Was Juliette Gordon Low?",
+      "author": ["Dena Meachen Rau"],
+      "illustrator": ["Dede Putra"],
+      "price": 6.0,
+      "publishDate": ["Jul", "6", "2021"],
+      "imgURL": "DMRau_JulietteGordonLow",
+      "link": "https://www.amazon.com/gp/product/1101995564?ref_=dbs_m_mng_rwt_calw_tpbk_192&storeType=ebooks&qid=1704834829&sr=8-1",
+      "owned": 0,
+      "series": ["Who HQ", "Who Was?"],
+      "seriesNo": 0,
+      "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+    }
+  },
+  {
+    "id": 477,
+    "properties": {
+      "title": "Who Were the Navajo Code Talkers?",
+      "author": ["James Buckley Jr."],
+      "illustrator": ["Gregory Copeland"],
+      "price": 7.0,
+      "publishDate": ["Oct", "26", "2021"],
+      "imgURL": "JBuckleyJr_NavajoCodeTalkers",
+      "link": "https://www.amazon.com/gp/product/0399542655?ref_=dbs_m_mng_rwt_calw_tpbk_193&storeType=ebooks&qid=1704834829&sr=8-1",
+      "owned": 0,
+      "series": ["Who HQ", "Who Was?"],
+      "seriesNo": 0,
+      "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+    }
+  },
+  {
+    "id": 478,
+    "properties": {
+      "title": "Who Was David Bowie?",
+      "author": ["Margaret Gurevich"],
+      "illustrator": ["Andrew Thomson"],
+      "price": 6.0,
+      "publishDate": ["Nov", "9", "2021"],
+      "imgURL": "MGurevich_DavidBowie",
+      "link": "https://www.amazon.com/gp/product/1524787566?ref_=dbs_m_mng_rwt_calw_tpbk_194&storeType=ebooks&qid=1704834829&sr=8-1",
+      "owned": 0,
+      "series": ["Who HQ", "Who Was?"],
+      "seriesNo": 0,
+      "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+    }
+  },
+  {
+    "id": 479,
+    "properties": {
+      "title": "Who Was Queen Elizabeth II?",
+      "author": ["Megan Stine"],
+      "illustrator": ["Laurie A. Conley"],
+      "price": 6.0,
+      "publishDate": ["Dec", "7", "2021"],
+      "imgURL": "MStine_QueenElizabethII",
+      "link": "https://www.amazon.com/gp/product/0593097513?ref_=dbs_m_mng_rwt_calw_tpbk_195&storeType=ebooks&qid=1704834829&sr=8-1",
+      "owned": 0,
+      "series": ["Who HQ", "Who Was?"],
+      "seriesNo": 0,
+      "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+    }
+  },
+  {
+    "id": 480,
+    "properties": {
+      "title": "Who Were Stanley and Livingstone?",
+      "author": ["Jim Gigliotti"],
+      "illustrator": ["David Malan"],
+      "price": 6.0,
+      "publishDate": ["Dec", "7", "2021"],
+      "imgURL": "JGigliotti_StanleyandLivingstone",
+      "link": "https://www.amazon.com/gp/product/0399544194?ref_=dbs_m_mng_rwt_calw_tpbk_196&storeType=ebooks&qid=1704834829&sr=8-1",
+      "owned": 0,
+      "series": ["Who HQ", "Who Was?"],
+      "seriesNo": 0,
+      "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+    }
+  },
+  {
+    "id": 481,
+    "properties": {
+      "title": "Who Is Dale Earnhardt Jr.?",
+      "author": ["David Stabler"],
+      "illustrator": ["Dede Putra"],
+      "price": 5.75,
+      "publishDate": ["Jan", "4", "2022"],
+      "imgURL": "DStabler_DaleEarnhardtJr",
+      "link": "https://www.amazon.com/gp/product/0593225961?ref_=dbs_m_mng_rwt_calw_tpbk_197&storeType=ebooks&qid=1704834829&sr=8-1",
+      "owned": 0,
+      "series": ["Who HQ", "Who Was?"],
+      "seriesNo": 0,
+      "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+    }
+  },
+  {
+    "id": 482,
+    "properties": {
+      "title": "The Who Was? Trivia Book",
+      "author": ["Brian Elling"],
+      "illustrator": [],
+      "price": 7.0,
+      "publishDate": ["Jan", "18", "2022"],
+      "imgURL": "BElling_TriviaBook",
+      "link": "https://www.amazon.com/gp/product/0593222237?ref_=dbs_m_mng_rwt_calw_tpbk_198&storeType=ebooks&qid=1704834829&sr=8-1",
+      "owned": 0,
+      "series": ["Who HQ", "Who Was?"],
+      "seriesNo": 0,
+      "genre": ["Non-Fiction", "Children's Non-Fiction", "Trivia", "Biography"]
+    }
+  },
+  {
+    "id": 483,
+    "properties": {
+      "title": "Who Was Charles Schulz?",
+      "author": ["Joan Holub"],
+      "illustrator": ["Tim Foley"],
+      "price": 6.60,
+      "publishDate": ["Mar", "1", "2022"],
+      "imgURL": "JHolub_CharlesSchulz",
+      "link": "https://www.amazon.com/gp/product/0451532546?ref_=dbs_m_mng_rwt_calw_tpbk_199&storeType=ebooks&qid=1704834829&sr=8-1",
+      "owned": 0,
+      "series": ["Who HQ", "Who Was?"],
+      "seriesNo": 0,
+      "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+    }
+  },
+  {
+    "id": 484,
+    "properties": {
+      "title": "Who Was Ernest Hemingway?",
+      "author": ["Jim Gigliotti"],
+      "illustrator": ["Gregory Copeland"],
+      "price": 6.00,
+      "publishDate": ["Mar", "1", "2022"],
+      "imgURL": "JGigliotti_ErnestHemingway",
+      "link": "https://www.amazon.com/gp/product/0399544135?ref_=dbs_m_mng_rwt_calw_tpbk_200&storeType=ebooks&qid=1704834829&sr=8-1",
+      "owned": 0,
+      "series": ["Who HQ", "Who Was?"],
+      "seriesNo": 0,
+      "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+    }
+  },
+  {
+    "id": 485,
+    "properties": {
+      "title": "Who Is Jimmy Carter?",
+      "author": ["David Stabler"],
+      "illustrator": ["Tim Foley"],
+      "price": 6.00,
+      "publishDate": ["May", "10", "2022"],
+      "imgURL": "DStabler_JimmyCarter",
+      "link": "https://www.amazon.com/gp/product/0593387384?ref_=dbs_m_mng_rwt_calw_tpbk_201&storeType=ebooks&qid=1704834829&sr=8-1",
+      "owned": 0,
+      "series": ["Who HQ", "Who Was?"],
+      "seriesNo": 0,
+      "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+    }
+  },
+  {
+    "id": 486,
+    "properties": {
+      "title": "Who Was Ponce de Leon?",
+      "author": ["Pam Pollack", "Meg Belviso"],
+      "illustrator": ["Dede Putra"],
+      "price": 6.00,
+      "publishDate": ["Jun", "7", "2022"],
+      "imgURL": "PPollackMBelviso_PoncedeLeon",
+      "link": "https://www.amazon.com/gp/product/039954433X?ref_=dbs_m_mng_rwt_calw_tpbk_202&storeType=ebooks&qid=1704834829&sr=8-1",
+      "owned": 0,
+      "series": ["Who HQ", "Who Was?"],
+      "seriesNo": 0,
+      "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+    }
+  },
+  {
+    "id": 487,
+    "properties": {
+      "title": "Who Was Johnny Cash?",
+      "author": ["Jim Gigliotti"],
+      "illustrator": ["Gregory Copeland"],
+      "price": 6.00,
+      "publishDate": ["Jun", "7", "2022"],
+      "imgURL": "JGigliotti_JohnnyCash",
+      "link": "https://www.amazon.com/gp/product/039954416X?ref_=dbs_m_mng_rwt_calw_tpbk_203&storeType=ebooks&qid=1704834829&sr=8-1",
+      "owned": 0,
+      "series": ["Who HQ", "Who Was?"],
+      "seriesNo": 0,
+      "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+    }
+  },
+  {
+    "id": 488,
+    "properties": {
+      "title": "Who Was E. B. White?",
+      "author": ["Gail Herman"],
+      "illustrator": ["Dede Putra"],
+      "price": 5.90,
+      "publishDate": ["Jun", "28", "2022"],
+      "imgURL": "GHerman_EBWhite",
+      "link": "https://www.amazon.com/gp/product/0593386728?ref_=dbs_m_mng_rwt_calw_tpbk_204&storeType=ebooks&qid=1704834829&sr=8-1",
+      "owned": 0,
+      "series": ["Who HQ", "Who Was?"],
+      "seriesNo": 0,
+      "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+    }
+  },
+  {
+    "id": 489,
+    "properties": {
+      "title": "Who Was Betty White?",
+      "author": ["Dana Meachen Rau"],
+      "illustrator": ["Dede Putra"],
+      "price": 6.00,
+      "publishDate": ["Jul", "19", "2022"],
+      "imgURL": "DMRau_BettyWhite",
+      "link": "https://www.amazon.com/gp/product/0593660953?ref_=dbs_m_mng_rwt_calw_tpbk_205&storeType=ebooks&qid=1704834829&sr=8-1",
+      "owned": 0,
+      "series": ["Who HQ", "Who Was?"],
+      "seriesNo": 0,
+      "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+    }
+  },
+  {
+    "id": 490,
+    "properties": {
+      "title": "Who Was Celia Cruz?",
+      "author": ["Pam Pollack", "Meg Belviso"],
+      "illustrator": ["Nina Mata"],
+      "price": 6.00,
+      "publishDate": ["Aug", "2", "2022"],
+      "imgURL": "PPollackMBelviso_CeliaCruz",
+      "link": "https://www.amazon.com/gp/product/0593226422?ref_=dbs_m_mng_rwt_calw_tpbk_206&storeType=ebooks&qid=1704834829&sr=8-1",
+      "owned": 0,
+      "series": ["Who HQ", "Who Was?"],
+      "seriesNo": 0,
+      "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+    }
+  },
+  {
+    "id": 491,
+    "properties": {
+      "title": "Who Was Salvador Dalí?",
+      "author": ["Paula K. Manzanero"],
+      "illustrator": ["Gregory Copeland"],
+      "price": 6.00,
+      "publishDate": ["Aug", "30", "2022"],
+      "imgURL": "PKManzanero_SalvadorDali",
+      "link": "https://www.amazon.com/gp/product/0593226295?ref_=dbs_m_mng_rwt_calw_tpbk_207&storeType=ebooks&qid=1704834829&sr=8-1",
+      "owned": 0,
+      "series": ["Who HQ", "Who Was?"],
+      "seriesNo": 0,
+      "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+    }
+  },
+  {
+    "id": 492,
+    "properties": {
+      "title": "Who Was Accused in the Salem Witch Trials?: Tituba",
+      "author": ["Insha Fitzpatrick"],
+      "illustrator": ["Laurie A. Conley"],
+      "price": 7.00,
+      "publishDate": ["Sep", "6", "2022"],
+      "imgURL": "IFitzpatrick_Tituba",
+      "link": "https://www.amazon.com/gp/product/0593224497?ref_=dbs_m_mng_rwt_calw_tpbk_208&storeType=ebooks&qid=1704834829&sr=8-1",
+      "owned": 0,
+      "series": ["Who HQ", "Who Was?"],
+      "seriesNo": 0,
+      "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+    }
+  },
+  {
+    "id": 493,
+    "properties": {
+      "title": "Who Was Stan Lee?",
+      "author": ["Geoff Edgers"],
+      "illustrator": ["John Hinderliter"],
+      "price": 6.00,
+      "publishDate": ["Sep", "6", "2022"],
+      "imgURL": "GEdgers_StanLee",
+      "link": "https://www.amazon.com/gp/product/045153381X?ref_=dbs_m_mng_rwt_calw_tpbk_209&storeType=ebooks&qid=1704834829&sr=8-1",
+      "owned": 0,
+      "series": ["Who HQ", "Who Was?"],
+      "seriesNo": 0,
+      "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+    }
+  },
+  {
+    "id": 494,
+    "properties": {
+      "title": "Who Is Cristiano Ronaldo?",
+      "author": ["James Buckley Jr."],
+      "illustrator": ["Manuel Gutierrez"],
+      "price": 6.00,
+      "publishDate": ["Sep", "27", "2022"],
+      "imgURL": "JBuckley_CristianoRonaldo",
+      "link": "https://www.amazon.com/gp/product/0593226406?ref_=dbs_m_mng_rwt_calw_tpbk_210&storeType=ebooks&qid=1704834829&sr=8-1",
+      "owned": 0,
+      "series": ["Who HQ", "Who Was?"],
+      "seriesNo": 0,
+      "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography", "Sports"]
+    }
+  },
+  {
+    "id": 495,
+    "properties": {
+      "title": "Who Was Coretta Scott King?",
+      "author": ["Gail Herman"],
+      "illustrator": ["Gregory Copeland"],
+      "price": 6.00,
+      "publishDate": ["Sep", "27", "2022"],
+      "imgURL": "GHerman_CorettaScottKing",
+      "link": "https://www.amazon.com/gp/product/0593224276?ref_=dbs_m_mng_rwt_calw_tpbk_211&storeType=ebooks&qid=1704834829&sr=8-1",
+      "owned": 0,
+      "series": ["Who HQ", "Who Was?"],
+      "seriesNo": 0,
+      "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
+    }
   }
-]
 ]
