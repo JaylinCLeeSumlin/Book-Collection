@@ -72,8 +72,8 @@
             "price": 9.15,
             "publishDate": ["Mar", "12", "2007"],
             "imgURL": "EColeman_ShadowsonSocietyHill",
-            "link": "",
-                "owned": 1,
+            "link": "https://www.amazon.com/Shadows-Society-Hill-American-Mysteries/dp/1593691637/ref=sr_1_1?crid=2BGIPM703I216&dib=eyJ2IjoiMSJ9.Kx6ZbYJ0pGRaTanuNp1PeOXhLePeWqJyZOGYg3YVJlCVemCXANp2c1YjIAgQw33qmYXiZfzugK-FRskbyi9iZMN7v34pvEJx2px6h5BUG2m4x6EEtBCvpGq_mWR7gSUxyNLUCDLcAtkq135qsd81Ew.KtVVQijM_MuNsvJmuH0cyo3GqxPCoosQveXxTpRPdxw&dib_tag=se&keywords=Addy%3A+Shadows+on+Society+Hill&qid=1753284497&sprefix=addy+shadows+on+society+hill%2Caps%2C188&sr=8-1",
+            "owned": 1,
             "series": ["American Girl", "Addy"],
             "seriesNo": 3,
             "genre": ["Fiction", "Children's Fiction", "Historical Fiction"]
@@ -88,7 +88,7 @@
             "price": 21.7,
             "publishDate": ["Mar", "21", "2017"],
             "imgURL": "MCopeland_BallerinaBody",
-            "link": "",
+            "link": "https://www.amazon.com/Ballerina-Body-Dancing-Stronger-Graceful/dp/1455596302/ref=sr_1_1?crid=2R4PP2A2JBF05&dib=eyJ2IjoiMSJ9.ZS8ogRo888B9nsMZT4PEKA.1OxCcfOasBTZDxOg2I68sgNVl9cjIzK-nkXfVP7rpvg&dib_tag=se&keywords=Ballerina+Body%3A+Dancing+and+Eating+Your+Way+to+a+Leaner%2C+Stronger%2C+and+More+Graceful+You&qid=1753284441&sprefix=ballerina+body+dancing+and+eating+your+way+to+a+leaner%2C+stronger%2C+and+more+graceful+you%2Caps%2C300&sr=8-1",
             "owned": 1,
             "series": [],
             "seriesNo": 0,
@@ -104,7 +104,7 @@
             "price": 17.2,
             "publishDate": ["Nov", "13", "2018"],
             "imgURL": "MObama_Becoming",
-            "link": "",
+            "link": "https://www.amazon.com/Becoming-Michelle-Obama/dp/1524763144/ref=sr_1_1?crid=36JARDVSXN08L&dib=eyJ2IjoiMSJ9.tVIUbEtnYLm-DjlvvON8NhUY1uS3KpaMlp2QZQC6IiMjd8xMUwcrfHxu1_cz9mDaM99yl3Hd-9M-5U-i2aQyjOFS4P3YmanZXmyoQqrLmjYXORDMJ0JGwVOqLmZJUSBpgMprUvq1ZlNqJAFDEQ_LAefdUvRpJP-JS5Ib_hrbLPTFMhlHyAa9ls3woQhkrzBDvmPVuGl2qju7iJ_3e38kQ8-GKhN6XbSpAuXqZkZj8ZM.lrO-4Fklyz05W77BuiI7PBxbAloQ4eAaruk3Pi-Ic9E&dib_tag=se&keywords=becoming+michelle+obama+book&qid=1753284207&sprefix=becoming+mi%2Caps%2C557&sr=8-1",
             "owned": 1,
             "series": [],
             "seriesNo": 0,
@@ -119,7 +119,7 @@
             "illustrator": [],
             "price": 8,
             "publishDate": ["Mar", "12", "2016"],
-            "imgURL": "LPeirce_BigNate",
+            "imgURL": "LPeirce_Thunka",
             "link": "https://www.amazon.com/Big-Nate-Thunka/dp/1449462278/ref=sr_1_1?crid=O0TKGJZJ21FD&dib=eyJ2IjoiMSJ9.34D04yLZshRWVBQ9q9quCDgPYxvMxRMbuWEU7EdBYonGiM7i1ahp9d63ANuee-YA.rk0wwk9i4Flg7WiDrrT0mXbpsQCcfQACCe1RCkRp5AQ&dib_tag=se&keywords=Big+Nate%3A+Thunka%2C+Thunka%2C+Thunka&qid=1749301037&sprefix=big+nate+thunka%2C+thunka%2C+thunka%2Caps%2C178&sr=8-1",
             "owned": 1,
             "series": ["Big Nate"],
@@ -1366,8 +1366,8 @@
             "illustrator": [],
             "price": 8.35,
             "publishDate": [],
-            "imgURL": "LPeirce_",
-            "link": "",
+            "imgURL": "LPeirce_VeryFunny",
+            "link": "https://www.amazon.com/Big-Nate-Very-Funny-Books/dp/152487695X/ref=sr_1_1?crid=1OFS2Q4ZBTAJK&dib=eyJ2IjoiMSJ9.MNoir0cDauujov51f6M7mJt6Ye_cTS1WANpw3U-Dhzzzz_vrQ4Qqvd4zum6Tu61NbudQOmexbmJxVID8ACzxVKFtqA2n5AO72G_MQcFlaGTyYDUNG3OyGSWS1sb_5s7hRqAjZWBb8rM-moUgVA0dTteNAmBi3UpJFdMAbmDDEo1B_ljnY3hlmqsCeIjyAk1m2aydagy16dw03HQvMv-BqF_2gr5AIShcqQv1wqlzpQg.60QvczhYdcKVCtxY7Rvx1oh3Z1x-2U1jCh_81TBLsQg&dib_tag=se&keywords=Big+Nate%3A+Very+Funny%21&qid=1753284356&sprefix=big+nate+very+funny+%2Caps%2C254&sr=8-1",
             "owned": 0,
             "series": ["Big Nate"],
             "seriesNo": 1,
@@ -1381,9 +1381,9 @@
             "author": ["Lincoln Peirce"],
             "illustrator": [],
             "price": 8.35,
-            "publishDate": [],
-            "imgURL": "LPeirce_",
-            "link": "",
+            "publishDate": ["Jun", "29", "2022"],
+            "imgURL": "LPeirce_PrankYou",
+            "link": "https://www.amazon.com/Big-Nate-Prank-Graphic-Novel/dp/1524878731/ref=sr_1_1?crid=3MWELLN4QZXED&dib=eyJ2IjoiMSJ9.tqaOU_73FU3k9FogF_ZP6iEPaw3-KL1AslcaTDghkCbB35GYMwV1DAte-cOSBxeAOu-S_urpFhQRvBErm9jxpRmr63uqbyOUa8FrstM3VlM.dupfsSOrl7t5zmm7F1lntUSHStKVPucdT0bUMbSh-z0&dib_tag=se&keywords=Big+Nate%3A+Prank+You+Very+Much%21&qid=1753285580&sprefix=big+nate+prank+you+very+much+%2Caps%2C286&sr=8-1",
             "owned": 0,
             "series": ["Big Nate"],
             "seriesNo": 2,
@@ -1393,16 +1393,16 @@
     {
         "id": 88,
         "properties": {
-            "title": "Big Nate: Prank You Very Much!",
+            "title": "Big Nate: Next Stop, Superstardom!",
             "author": ["Lincoln Peirce"],
             "illustrator": [],
             "price": 7.25,
-            "publishDate": [],
-            "imgURL": "LPeirce_",
-            "link": "",
+            "publishDate": ["May", "30", "2023"],
+            "imgURL": "LPeirce_Superstardom",
+            "link": "https://www.amazon.com/gp/product/1524879312?ref_=dbs_m_mng_rwt_calw_tpbk_2&storeType=ebooks&qid=1753285580&sr=8-1",
             "owned": 0,
             "series": ["Big Nate"],
-            "seriesNo": 2,
+            "seriesNo": 3,
             "genre": ["Fiction", "Children's Fiction", "Graphic Novel"]
         }
     },
@@ -1413,9 +1413,9 @@
             "author": ["Lincoln Peirce"],
             "illustrator": [],
             "price": 7.15,
-            "publishDate": [],
-            "imgURL": "LPeirce_",
-            "link": "",
+            "publishDate": ["Aug", "30", "2022"],
+            "imgURL": "LPeirce_Awesomeness",
+            "link": "https://www.amazon.com/Big-Nate-Destined-Awesomeness-Graphic/dp/1524875600/ref=sr_1_1?crid=TUICILICZ7L&dib=eyJ2IjoiMSJ9.KooK4eg92467rXxOKHFyLs_AwNX5pb2xy7pzUe0Aq4Q.X-qTsYFDQIWqJe6g-43ZpmoQGc-A3cFdqLUqntxBcFU&dib_tag=se&keywords=Big+Nate%3A+Destined+for+Awesomeness&qid=1753285488&sprefix=big+nate+destined+for+awesomeness%2Caps%2C264&sr=8-1",
             "owned": 0,
             "series": ["Big Nate"],
             "seriesNo": 4,
@@ -1430,8 +1430,8 @@
             "illustrator": [],
             "price": 11.50,
             "publishDate": [],
-            "imgURL": "LPeirce_",
-            "link": "",
+            "imgURL": "LPeirce_TopDog",
+            "link": "https://www.amazon.com/Big-Nate-Top-Dog-Books/dp/1524869791/ref=sr_1_1?crid=2HCVB63PK3CT&dib=eyJ2IjoiMSJ9.eQFY1qN6kwn4JSA0e_zFpyjrpxAOnx4z944quuFw9rVLz-oPTgaFyGsEYd33dOAPKUfrMu7t9uxmW_5J-2bvnWqCnIgrTCQ9Q3eSA3mgFJyy2WTWL1jAN2ABn-vgxw4ASY7qTCZDD1Ft1yFjkBJcMg.b0pSilcGhGEuG4uedcJdg1IrxlP5IIA1HOGYHBZOpls&dib_tag=se&keywords=Big+Nate%3A+Top+Dog&qid=1753285418&sprefix=big+nate+top+dog%2Caps%2C290&sr=8-1",
             "owned": 0,
             "series": ["Big Nate"],
             "seriesNo": 4,
@@ -1540,10 +1540,10 @@
             "title": "Big Nate: Dibs on This Chair",
             "author": ["Lincoln Peirce"],
             "illustrator": [],
-            "price": null,
-            "publishDate": [],
-            "imgURL": "",
-            "link": "",
+            "price": 129.99,
+            "publishDate": ["Jan", "1", "2015"],
+            "imgURL": "LPeirce_Chair",
+            "link": "https://www.amazon.com/Big-Nate-Dibs-This-Chair/dp/1449472818/ref=tmm_pap_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.7ofLEla2f2eQ6R8wCSt8iup5MNoFI10JG7-bXEX12c_GjHj071QN20LucGBJIEps.u5DUZR0EiKs7kWyHycS2y4Ovp3jZYmY03xqIEiF2bhI&qid=1753285307&sr=8-1",
             "owned": 0,
             "series": ["Big Nate"],
             "seriesNo": 12,
@@ -1556,10 +1556,10 @@
             "title": "Big Nate Makes a Splash",
             "author": ["Lincoln Peirce"],
             "illustrator": [],
-            "price": null,
-            "publishDate": [],
-            "imgURL": "",
-            "link": "",
+            "price": 7.99,
+            "publishDate": ["Jun", "11", "2013"],
+            "imgURL": "LPeirce_Splash",
+            "link": "https://www.amazon.com/Nate-Makes-Splash-Lincoln-Peirce-ebook/dp/B00CX1USLU/ref=sr_1_1?crid=1R7GQECGLNSVK&dib=eyJ2IjoiMSJ9.I_7hUdRyxR9vp5BOSaOicGzY5KD-jaNVTlABPqiKCv140zW9QPzSsOEhUGf09aWWhFpji109psrCeTVdqy3VHWGU8a9ezLUc3h-OfJzYdEWVkf8tUjVBSTPt0J409gDfUvNY3ii1s7R6h3EoHOqmtZYiWBjodPZEvqcIeOO3AMraAW9JLv-a52HlJsYORWkY._gjSpU7c7bEsLeEinHk0uWjW-mc9dGewODHnx9E0lsM&dib_tag=se&keywords=Big+Nate+Makes+a+Splash&qid=1753285241&sprefix=big+nate+makes+a+splash%2Caps%2C324&sr=8-1",
             "owned": 0,
             "series": ["Big Nate"],
             "seriesNo": 13,
@@ -1572,10 +1572,10 @@
             "title": "Big Nate: I Smell a Pop Quiz",
             "author": ["Lincoln Peirce"],
             "illustrator": [],
-            "price": null,
-            "publishDate": [],
-            "imgURL": "",
-            "link": "",
+            "price": 12.95,
+            "publishDate": ["Feb", "2", "2009"],
+            "imgURL": "LPeirce_PopQuiz",
+            "link": "https://www.amazon.com/Smell-Pop-Quiz-Nate-Book/dp/0615197191/ref=sr_1_1?crid=1XACKFII8YF4F&dib=eyJ2IjoiMSJ9.hpONKIOeW0IhUnycgFDkfA.VVS_jDicyp4TMcSdbQ7p2ly1U0naBGBeFq7Ts_lgwkc&dib_tag=se&keywords=Big+Nate%3A+I+Smell+a+Pop+Quiz&qid=1753285118&sprefix=big+nate+i+smell+a+pop+quiz%2Caps%2C258&sr=8-1",
             "owned": 0,
             "series": ["Big Nate"],
             "seriesNo": 14,
@@ -1585,13 +1585,13 @@
     {
         "id": 101,
         "properties": {
-            "title": "Pray for a Fire Drill",
+            "title": "Big Nate: Pray for a Fire Drill",
             "author": ["Lincoln Peirce"],
             "illustrator": [],
-            "price": null,
-            "publishDate": [],
-            "imgURL": "",
-            "link": "",
+            "price": 7.99,
+            "publishDate": ["Jun", "11", "2013"],
+            "imgURL": "LPeirce_FireDrill",
+            "link": "https://www.amazon.com/Big-Nate-Pray-Fire-Drill-ebook/dp/B00CYA08JM/ref=sr_1_1?crid=27DJOUYGC3K3D&dib=eyJ2IjoiMSJ9.pCtlZSDVDRwZfuT7R2kt_A.v-IQt06Hv9yLFeKjh8jMv3sUdfaD-o3Q0_lWCElcYj4&dib_tag=se&keywords=Big+Nate%3A+Pray+for+a+Fire+Drill&qid=1753284999&sprefix=big+nate+pray+for+a+fire+drill%2Caps%2C136&sr=8-1",
             "owned": 0,
             "series": ["Big Nate"],
             "seriesNo": 15,
@@ -1700,10 +1700,10 @@
             "title": "Big Nate: What's a Little Noogie Between Friends",
             "author": ["Lincoln Peirce"],
             "illustrator": [],
-            "price": null,
-            "publishDate": [],
-            "imgURL": "",
-            "link": "",
+            "price": 8.99,
+            "publishDate": ["Feb", "28", "2017"],
+            "imgURL": "LPeirce_LittleNoogie",
+            "link": "https://www.amazon.com/Big-Nate-Little-Between-Friends/dp/1449462294/ref=tmm_pap_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.AkwISwmWzfVi-7gL4gPxZTGWeUT6QvN8uoPhhMgC-pA.CqMO3Es3_UYC2q5AaG3sSghZvEbFp1Tr_tfPDn0Lzwg&qid=1753284773&sr=8-1",
             "owned": 0,
             "series": ["Big Nate"],
             "seriesNo": 23,
@@ -1812,8 +1812,8 @@
             "title": "Big Nate: Nailed It!",
             "author": ["Lincoln Pierce"],
             "illustrator": [],
-            "price": null,
-            "publishDate": [],
+            "price": 11.69,
+            "publishDate": ["Feb", "28", "2023"],
             "imgURL": "LPeirce_NailedIt",
             "link": "https://www.amazon.com/Big-Nate-Nailed-Lincoln-Peirce/dp/1524879231",
             "owned": 0,
@@ -1908,10 +1908,10 @@
             "title": "Big Nate: No Worries!",
             "author": ["Lincoln Pierce"],
             "illustrator": [],
-            "price": null,
-            "publishDate": [""],
-            "imgURL": "",
-            "link": "",
+            "price": 15.8,
+            "publishDate": ["Jul", "25", "2023"],
+            "imgURL": "LPeirce_NoWorries",
+            "link": "https://www.amazon.com/Big-Nate-Worries-Two-Books/dp/1524880914/ref=tmm_pap_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.mQrKbgUgYzNu6CHGD679rbQFjLH62TtdJ8f4sarRy7NPOkvPZ338zJWWTbrF6xHb.Efv9osfmwhNhTxjTzhJtrT8fZRresv2La6mJq8VExWA&qid=1753284642&sr=8-1",
             "owned": 0,
             "series": ["Big Nate"],
             "seriesNo": 36,
@@ -2404,7 +2404,7 @@
             "title": "I Survived the Joplin Tornado",
             "author": ["Lauren Tarshis"],
             "illustrator": [],
-            "price": null,
+            "price": 5.57,
             "publishDate": ["Aug", "25", "2015"],
             "imgURL": "LTarshis_Chapter_JoplinTornado",
             "link": "https://www.amazon.com/gp/product/0545658489?ref_=dbs_m_mng_rwt_calw_tpbk_11&storeType=ebooks&qid=1704595820&sr=1-1",
@@ -2903,7 +2903,7 @@
         "price": 6.00,
         "publishDate": ["Feb", "7", "2013"],
         "imgURL": "KKrull_MarchOnWashington",
-        "link": "",
+        "link": "https://www.amazon.com/What-March-Washington-Kathleen-Krull/dp/0448462877/ref=sr_1_1?crid=2MYBBXJAXN48S&dib=eyJ2IjoiMSJ9.qRhOFVnlgbqfOo_7FWBm9D4u4koNrFUyvQpg_GxY6MASh8FLR5HRO_Acze3qCHZ6Tmt3n800P9z01PXCxUT6Tw.vxDS9irpwAhC2rEUTZvx5CB_R09bFo7OdKqGuxb1y9M&dib_tag=se&keywords=What+Was+the+March+on+Washington%3F&qid=1753284604&sprefix=what+was+the+march+on+washington+%2Caps%2C238&sr=8-1",
         "owned": 0,
         "series": ["Who HQ", "What Was?"],
         "seriesNo": 0,
@@ -4807,7 +4807,7 @@
     "price": 7.0,
     "publishDate": ["Jun", "6", "2023"],
     "imgURL": "SFabiny_SaharaDesert",
-    "link": "",
+    "link": "https://www.amazon.com/Where-Sahara-Desert-Sarah-Fabiny/dp/0593520068/ref=sr_1_1?crid=33QQ7V80F05K8&dib=eyJ2IjoiMSJ9.CPWbADwF8-uRG0RkjDeigDvxLb07dhxsP7-2B-EPxPpNNMu6rbaZBHgVynJPSpgocty68sP59KB0KWYtIybNuu08Yw0tl7sphfxzzGR0Wo0oqrtevX56AfxO28L2f7roO1xhPU7Ftxfzt-uCaE2Ll5QOOuIXTehJwSpDSaKGsdwNYa3JStnaFyyb8grMxg0JbM6M8WxGb6J9r6dQrJRQh8Pzk15J3TwrFuNnoD-jZ8U.-u2CJHzaWCxxUCh9T-XqO6F1y7XFQZWFbJp0jdz2s0s&dib_tag=se&keywords=Where+Is+the+Sahara+Desert%3F&qid=1753284564&sprefix=where+is+the+sahara+desert+%2Caps%2C299&sr=8-1",
     "owned": 0,
     "series": ["Who HQ", "Where Is?"],
     "seriesNo": 0,
@@ -5060,7 +5060,7 @@
     "title": "Who Was Louis Armstrong?",
     "author": ["Yona Zeldis McDonough"],
     "illustrator": ["John O'Brien"],
-    "price": null,
+    "price": 6.29,
     "publishDate": ["Dec", "29", "2004"],
     "imgURL": "YZMcDonough_LouisArmstrong",
     "link": "https://www.amazon.com/gp/product/0448433680?ref_=dbs_m_mng_rwt_calw_tpbk_15&storeType=ebooks&qid=1704834829&sr=8-1",
@@ -5223,7 +5223,7 @@
     "price": 6.0,
     "publishDate": ["Jul", "5", "2007"],
     "imgURL": "JHolub_MarcoPolo",
-    "link": "",
+    "link": "https://www.amazon.com/Who-Marco-Polo-Joan-Holub/dp/0448445409/ref=sr_1_1?crid=21EBIMIP5U2L7&dib=eyJ2IjoiMSJ9.bHt3a4wlCUjYVSvjT_pdz6J8oDO4nqIPOB4AS_dnXCT7yekZIgeDeh6ycwUH4Pm-sjWN150EIKqhTzjCsyt0BfsgD6rpdzR_5NMD-84mBr4LegGypPIjPvX3RKE6PsVBHDlD8GVRtHjqMCp_ady438L9VUzT0lyzh8drh5EDobI.PAycd8kBPd8LhZCN2H4fRaW3ImBu4Xag6UKXxpzCm_s&dib_tag=se&keywords=Who+Was+Marco+Polo%3F&qid=1753284534&sprefix=who+was+marco+polo+%2Caps%2C238&sr=8-1",
     "owned": 0,
     "series": ["Who HQ", "Who Was?"],
     "seriesNo": 0,
@@ -5252,7 +5252,7 @@
     "title": "Who Was Martin Luther King, Jr.?",
     "author": ["Bonnie Bader"],
     "illustrator": ["Elizabeth Wolf"],
-    "price": null,
+    "price": 4.19,
     "publishDate": ["Dec", "27", "2007"],
     "imgURL": "BBader_MLK",
     "link": "https://www.amazon.com/gp/product/0448447231?ref_=dbs_m_mng_rwt_calw_tpbk_27&storeType=ebooks&qid=1704834829&sr=8-1",
@@ -6015,7 +6015,7 @@
   }
 },
 {
-  "id": 370,
+  "id": 371,
   "properties": {
     "title": "Who Was Alfred Hitchcock?",
     "author": ["Pam Pollack", "Meg Belviso"],
@@ -6031,7 +6031,7 @@
   }
 },
 {
-  "id": 371,
+  "id": 372,
   "properties": {
     "title": "Who Was Charles Dickens?",
     "author": ["Pam Pollack", "Meg Belviso"],
@@ -6047,7 +6047,7 @@
   }
 },
 {
-  "id": 372,
+  "id": 373,
   "properties": {
     "title": "Who Was Sitting Bull?",
     "author": ["Stephanie Spinner"],
@@ -6063,7 +6063,7 @@
   }
 },
 {
-  "id": 373,
+  "id": 374,
   "properties": {
     "title": "Who Was Andy Warhol?",
     "author": ["Kirsten Anderson"],
@@ -6079,7 +6079,7 @@
   }
 },
 {
-  "id": 374,
+  "id": 375,
   "properties": {
     "title": "Who Is Gloria Steinem?",
     "author": ["Sarah Fabiny"],
@@ -6095,7 +6095,7 @@
   }
 },
 {
-  "id": 375,
+  "id": 376,
   "properties": {
     "title": "Who Was Stan Lee?",
     "author": ["Geoff Edgers"],
@@ -6111,7 +6111,7 @@
   }
 },
 {
-  "id": 376,
+  "id": 377,
   "properties": {
     "title": "Who Was Betsy Ross?",
     "author": ["James Buckley Jr."],
@@ -6127,7 +6127,7 @@
   }
 },
 {
-  "id": 377,
+  "id": 378,
   "properties": {
     "title": "Who Was Galileo?",
     "author": ["Patricia Brennan Demuth"],
@@ -6143,7 +6143,7 @@
   }
 },
 {
-  "id": 378,
+  "id": 379,
   "properties": {
     "title": "Who Was Robert Ripley?",
     "author": ["Kirsten Anderson"],
@@ -6159,7 +6159,7 @@
   }
 },
 {
-  "id": 379,
+  "id": 380,
   "properties": {
     "title": "Who Is Wayne Gretzky?",
     "author": ["Gail Herman"],
@@ -6175,7 +6175,7 @@
   }
 },
 {
-  "id": 370,
+  "id": 381,
   "properties": {
     "title": "Who Was Beatrix Potter?",
     "author": ["Sarah Fabiny"],
@@ -6191,7 +6191,7 @@
   }
 },
 {
-  "id": 371,
+  "id": 382,
   "properties": {
     "title": "Who Was J. R. R. Tolkien?",
     "author": ["Pam Pollack", "Meg Belviso"],
@@ -6207,7 +6207,7 @@
   }
 },
 {
-  "id": 372,
+  "id": 383,
   "properties": {
     "title": "Who Was Edgar Allan Poe?",
     "author": ["Jim Gigliotti"],
@@ -6223,7 +6223,7 @@
   }
 },
 {
-  "id": 373,
+  "id": 384,
   "properties": {
     "title": "Who Is Malala Yousafzai?",
     "author": ["Dinah Brown"],
@@ -6239,7 +6239,7 @@
   }
 },
 {
-  "id": 374,
+  "id": 385,
   "properties": {
     "title": "Who Was Jesse Owens?",
     "author": ["James Buckley Jr."],
@@ -6255,7 +6255,7 @@
   }
 },
 {
-  "id": 375,
+  "id": 386,
   "properties": {
     "title": "Who Is Richard Branson?",
     "author": ["Michael Burgan"],
@@ -6271,7 +6271,7 @@
   }
 },
 {
-  "id": 376,
+  "id": 387,
   "properties": {
     "title": "Who Were the Brothers Grimm?",
     "author": ["Avery Reed"],
@@ -6287,7 +6287,7 @@
   }
 },
 {
-  "id": 377,
+  "id": 388,
   "properties": {
     "title": "Who Is Derek Jeter?",
     "author": ["Gail Herman"],
@@ -6303,7 +6303,7 @@
   }
 },
 {
-  "id": 378,
+  "id": 389,
   "properties": {
     "title": "Who Is Jeff Kinney?",
     "author": ["Patrick Kinney"],
@@ -6319,7 +6319,7 @@
   }
 },
 {
-  "id": 379,
+  "id": 390,
   "properties": {
     "title": "Who Is (Your Name Here)?: The Story of My Life: A Journal for You, by You",
     "author": ["Paula K. Manzanero"],
@@ -6335,7 +6335,7 @@
   }
 },
 {
-  "id": 380,
+  "id": 391,
   "properties": {
     "title": "Who Was Marie Antoinette?",
     "author": ["Dana Meachen Rau"],
@@ -6351,7 +6351,7 @@
   }
 },
 {
-  "id": 381,
+  "id": 392,
   "properties": {
     "title": "Who Was Julia Child?",
     "author": ["Geoff Edgers", "Carlene Hempel"],
@@ -6367,7 +6367,7 @@
   }
 },
 {
-  "id": 382,
+  "id": 393,
   "properties": {
     "title": "Who Was Seabiscuit?",
     "author": ["James Buckley Jr."],
@@ -6383,7 +6383,7 @@
   }
 },
 {
-  "id": 383,
+  "id": 394,
   "properties": {
     "title": "Who Was Blackbeard?",
     "author": ["James Buckley Jr."],
@@ -6399,7 +6399,7 @@
   }
 },
 {
-  "id": 384,
+  "id": 395,
   "properties": {
     "title": "Who Was Frank Lloyd Wright?",
     "author": ["Ellen Labrecque"],
@@ -6415,7 +6415,7 @@
   }
 },
 {
-  "id": 385,
+  "id": 396,
   "properties": {
     "title": "Who Was Sojourner Truth?",
     "author": ["Yona Zeldis McDonough"],
@@ -6431,7 +6431,7 @@
   }
 },
 {
-  "id": 386,
+  "id": 397,
   "properties": {
     "title": "Who Was George Washington Carver?",
     "author": ["Jim Gigliotti"],
@@ -6447,7 +6447,7 @@
   }
 },
 {
-  "id": 387,
+  "id": 398,
   "properties": {
     "title": "Who Was Michael Jackson?",
     "author": ["Megan Stine"],
@@ -6463,7 +6463,7 @@
   }
 },
 {
-  "id": 388,
+  "id": 399,
   "properties": {
     "title": "Who Was Joan of Arc?",
     "author": ["Pam Pollack", "Meg Belviso"],
@@ -6479,7 +6479,7 @@
   }
 },
 {
-  "id": 389,
+  "id": 400,
   "properties": {
     "title": "Who Is Elton John?",
     "author": ["Kirsten Anderson"],
@@ -6495,7 +6495,7 @@
   }
 },
   {
-    "id": 390,
+    "id": 401,
     "properties": {
       "title": "Who Was Beatrix Potter?",
       "author": ["Sarah Fabiny"],
@@ -6511,7 +6511,7 @@
     }
   },
   {
-    "id": 391,
+    "id": 402,
     "properties": {
       "title": "Who Was J. R. R. Tolkien?",
       "author": ["Pam Pollack", "Meg Belviso"],
@@ -6527,7 +6527,7 @@
     }
   },
   {
-    "id": 392,
+    "id": 403,
     "properties": {
       "title": "Who Was Edgar Allan Poe?",
       "author": ["Jin Gigliotti"],
@@ -6543,7 +6543,7 @@
     }
   },
   {
-    "id": 393,
+    "id": 404,
     "properties": {
       "title": "Who Is Malana Yousafzai?",
       "author": ["Dinah Brown"],
@@ -6559,7 +6559,7 @@
     }
   },
   {
-    "id": 394,
+    "id": 405,
     "properties": {
       "title": "Who Was Jesse Owens?",
       "author": ["James Buckley Jr."],
@@ -6575,7 +6575,7 @@
     }
   },
   {
-    "id": 395,
+    "id": 406,
     "properties": {
       "title": "Who Is Richard Branson?",
       "author": ["Michael Burgan"],
@@ -6591,7 +6591,7 @@
     }
   },
   {
-    "id": 396,
+    "id": 407,
     "properties": {
       "title": "Who Were the Brothers Grimm?",
       "author": ["Avery Reed"],
@@ -6607,7 +6607,7 @@
     }
   },
   {
-    "id": 397,
+    "id": 408,
     "properties": {
       "title": "Who Is Derek Jeter?",
       "author": ["Gail Herman"],
@@ -6623,7 +6623,7 @@
     }
   },
   {
-    "id": 398,
+    "id": 409,
     "properties": {
       "title": "Who Is Jeff Kinney?",
       "author": ["Patrick Kinney"],
@@ -6639,7 +6639,7 @@
     }
   },
   {
-    "id": 399,
+    "id": 410,
     "properties": {
       "title": "Who Is (Your Name Here)?: The Story of My Life: A Journal for You, by You",
       "author": ["Paula K. Manzanero"],
@@ -6655,23 +6655,7 @@
     }
   },
   {
-    "id": 400,
-    "properties": {
-      "title": "Who Was Marie Antoinette?",
-      "author": ["Dana Meachen Rau"],
-      "illustrator": ["John O'Brien"],
-      "price": 7.0,
-      "publishDate": ["Oct", "6", "2015"],
-      "imgURL": "DMRau_MarieAntoinette",
-      "link": "https://www.amazon.com/gp/product/0448483106?ref_=dbs_m_mng_rwt_calw_tpbk_110&storeType=ebooks&qid=1704834829&sr=8-1",
-      "owned": 0,
-      "series": ["Who HQ", "Who Was?"],
-      "seriesNo": 0,
-      "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
-    }
-  },
-  {
-    "id": 401,
+    "id": 411,
     "properties": {
       "title": "Who Was Julia Child?",
       "author": ["Geoff Edgers", "Carlene Hempel"],
@@ -6687,7 +6671,7 @@
     }
   },
   {
-    "id": 402,
+    "id": 412,
     "properties": {
       "title": "Who Was Seabiscuit?",
       "author": ["James Buckley Jr."],
@@ -6703,7 +6687,7 @@
     }
   },
   {
-    "id": 403,
+    "id": 413,
     "properties": {
       "title": "Who Was Blackbeard?",
       "author": ["James Buckley Jr."],
@@ -6719,7 +6703,7 @@
     }
   },
   {
-    "id": 404,
+    "id": 414,
     "properties": {
       "title": "Who Was Frank Lloyd Wright?",
       "author": ["Ellen Labrecque"],
@@ -6735,7 +6719,7 @@
     }
   },
   {
-    "id": 405,
+    "id": 415,
     "properties": {
       "title": "Who Was Sojourner Truth?",
       "author": ["Yona Zeldis McDonough"],
@@ -6751,7 +6735,7 @@
     }
   },
   {
-    "id": 406,
+    "id": 416,
     "properties": {
       "title": "Who Was George Washington Carver?",
       "author": ["Jim Gigliotti"],
@@ -6767,7 +6751,7 @@
     }
   },
   {
-    "id": 407,
+    "id": 417,
     "properties": {
       "title": "Who Was Michael Jackson?",
       "author": ["Megan Stine"],
@@ -6783,7 +6767,7 @@
     }
   },
   {
-    "id": 408,
+    "id": 418,
     "properties": {
       "title": "Who Was Joan of Arc?",
       "author": ["Pam Pollack", "Meg Belviso"],
@@ -6799,7 +6783,7 @@
     }
   },
   {
-    "id": 409,
+    "id": 419,
     "properties": {
       "title": "Who Is Elton John?",
       "author": ["Kirston Anderson"],
@@ -6815,7 +6799,7 @@
     }
   },
   {
-    "id": 410,
+    "id": 420,
     "properties": {
       "title": "Who Was Jules Verne?",
       "author": ["James Buckley Jr."],
@@ -6831,7 +6815,7 @@
     }
   },
   {
-    "id": 411,
+    "id": 421,
     "properties": {
       "title": "Who Was Alexander the Great?",
       "author": ["Kathryn Waterfield", "Robin Waterfield"],
@@ -6847,7 +6831,7 @@
     }
   },
   {
-    "id": 412,
+    "id": 422,
     "properties": {
       "title": "Who Was Milton Bradley?",
       "author": ["Kirsten Anderson"],
@@ -6863,7 +6847,7 @@
     }
   },
   {
-    "id": 413,
+    "id": 423,
     "properties": {
       "title": "Who Is Hillary Clinton?",
       "author": ["Heather Alexander"],
@@ -6879,7 +6863,7 @@
     }
   },
   {
-    "id": 414,
+    "id": 424,
     "properties": {
       "title": "Who Was? Mad Libs: World's Greatest Word Game",
       "author": ["Paula K. Manzanero"],
@@ -6895,7 +6879,7 @@
     }
   },
   {
-    "id": 415,
+    "id": 425,
     "properties": {
       "title": "Who Is Bruce Springsteen?",
       "author": ["Stephanie Sabol"],
@@ -6911,7 +6895,7 @@
     }
   },
   {
-    "id": 416,
+    "id": 426,
     "properties": {
       "title": "Who Were The Three Stooges?",
       "author": ["Pam Pollack", "Meg Belviso"],
@@ -6927,7 +6911,7 @@
     }
   },
   {
-    "id": 417,
+    "id": 427,
     "properties": {
       "title": "Who Is Stevie Wonder?",
       "author": ["Jim Gigliotti"],
@@ -6943,7 +6927,7 @@
     }
   },
   {
-    "id": 418,
+    "id": 428,
     "properties": {
       "title": "Who Was Jacqueline Kennedy?",
       "author": ["Bonnie Bader"],
@@ -6959,7 +6943,7 @@
     }
   },
   {
-    "id": 419,
+    "id": 429,
     "properties": {
       "title": "Who Was Charlie Chaplin?",
       "author": ["Patricia Brennan Demuth"],
@@ -6975,7 +6959,7 @@
     }
   },
   {
-    "id": 420,
+    "id": 430,
     "properties": {
       "title": "Who Was Lucille Ball?",
       "author": ["Pam Pollack", "Meg Belviso"],
@@ -6991,7 +6975,7 @@
     }
   },
   {
-    "id": 421,
+    "id": 431,
     "properties": {
       "title": "Who Was Cesar Chavez?",
       "author": ["Dana Meachen Rau"],
@@ -7007,7 +6991,7 @@
     }
   },
   {
-    "id": 422,
+    "id": 432,
     "properties": {
       "title": "Who Was Sonia Sotomayor?",
       "author": ["Megan Stine"],
@@ -7023,7 +7007,7 @@
     }
   },
   {
-    "id": 423,
+    "id": 433,
     "properties": {
       "title": "Who Are the Rolling Stones?",
       "author": ["Dana Meachen Rau"],
@@ -7039,7 +7023,7 @@
     }
   },
   {
-    "id": 424,
+    "id": 434,
     "properties": {
       "title": "Who Was Bob Marley?",
       "author": ["Katie Ellison"],
@@ -7055,7 +7039,7 @@
     }
   },
   {
-    "id": 425,
+    "id": 435,
     "properties": {
       "title": "Who Was Pete Seeger?",
       "author": ["Noel MacCarry"],
@@ -7071,7 +7055,7 @@
     }
   },
   {
-    "id": 426,
+    "id": 436,
     "properties": {
       "title": "Who Are Venus and Serena Williams?",
       "author": ["James Buckley Jr."],
@@ -7087,7 +7071,7 @@
     }
   },
   {
-    "id": 427,
+    "id": 437,
     "properties": {
       "title": "Who Is Pope Francis?",
       "author": ["Stephanie Spinner"],
@@ -7103,7 +7087,7 @@
     }
   },
   {
-    "id": 428,
+    "id": 438,
     "properties": {
       "title": "Who Was Fidel Castro?",
       "author": ["Sarah Fabiny"],
@@ -7119,7 +7103,7 @@
     }
   },
   {
-    "id": 429,
+    "id": 439,
     "properties": {
       "title": "Who Was Lewis Carroll?",
       "author": ["Pam Pollack", "Meg Belviso"],
@@ -7135,7 +7119,7 @@
     }
   },
   {
-    "id": 430,
+    "id": 440,
     "properties": {
       "title": "Who Is Ralph Lauren?",
       "author": ["Jane O'Connor"],
@@ -7151,7 +7135,7 @@
     }
   },
   {
-    "id": 431,
+    "id": 441,
     "properties": {
       "title": "Who Was Chuck Jones?",
       "author": ["Jim Gigliotti"],
@@ -7167,7 +7151,7 @@
     }
   },
   {
-    "id": 432,
+    "id": 442,
     "properties": {
       "title": "Who Was Jane Austen?",
       "author": ["Sarah Fabiny"],
@@ -7183,7 +7167,7 @@
     }
   },
   {
-    "id": 433,
+    "id": 443,
     "properties": {
       "title": "Who Was Coretta Scott King?",
       "author": ["Gail Herman"],
@@ -7199,7 +7183,7 @@
     }
   },
   {
-    "id": 434,
+    "id": 444,
     "properties": {
       "title": "Knock! Knock! Who Was There?",
       "author": ["Brian Elling"],
@@ -7215,7 +7199,7 @@
     }
   },
   {
-    "id": 435,
+    "id": 445,
     "properties": {
       "title": "Who Was Booker T. Washington?",
       "author": ["James Buckley Jr."],
@@ -7231,7 +7215,7 @@
     }
   },
   {
-    "id": 436,
+    "id": 446,
     "properties": {
       "title": "Who Was Henry VIII?",
       "author": ["Ellen Labrecque"],
@@ -7247,7 +7231,7 @@
     }
   },
   {
-    "id": 437,
+    "id": 447,
     "properties": {
       "title": "Who Is Dalai Lama?",
       "author": ["Dana Meachen Rau"],
@@ -7263,7 +7247,7 @@
     }
   },
   {
-    "id": 438,
+    "id": 448,
     "properties": {
       "title": "Who Was Aretha Franklin?",
       "author": ["Nico Medina"],
@@ -7279,7 +7263,7 @@
     }
   },
   {
-    "id": 439,
+    "id": 449,
     "properties": {
       "title": "Who Was Leif Erikson?",
       "author": ["Nico Medina"],
@@ -7295,7 +7279,7 @@
     }
   },
   {
-    "id": 440,
+    "id": 450,
     "properties": {
       "title": "Who Were the Tuskegee Airmen?",
       "author": ["Sherri L. Smith"],
@@ -7311,7 +7295,7 @@
     }
   },
   {
-    "id": 441,
+    "id": 451,
     "properties": {
       "title": "Who Was Selena?",
       "author": ["Max Bisantz", "Kate Bisantz"],
@@ -7327,7 +7311,7 @@
     }
   },
   {
-    "id": 442,
+    "id": 452,
     "properties": {
       "title": "The Who Was? Activity Book?",
       "author": ["Jordan London"],
@@ -7343,7 +7327,7 @@
     }
   },
   {
-    "id": 443,
+    "id": 453,
     "properties": {
       "title": "Who Is Bono?",
       "author": ["Pam Pollack", "Meg Belviso"],
@@ -7359,12 +7343,12 @@
     }
   },
   {
-    "id": 444,
+    "id": 454,
     "properties": {
       "title": "Who Is Judy Blume?",
       "author": ["Kirsten Anderson"],
       "illustrator": ["Ted Hammond"],
-      "price": null,
+      "price": 6.5,
       "publishDate": ["Oct", "2", "2018"],
       "imgURL": "KAnderson_JudyBlume",
       "link": "https://www.amazon.com/gp/product/0448488493?ref_=dbs_m_mng_rwt_calw_tpbk_159&storeType=ebooks&qid=1704834829&sr=8-1",
@@ -7375,7 +7359,7 @@
     }
   },
   {
-    "id": 445,
+    "id": 455,
     "properties": {
       "title": "Who Was Napoleon?",
       "author": ["Jim Gigliotti"],
@@ -7391,7 +7375,7 @@
     }
   },
   {
-    "id": 446,
+    "id": 456,
     "properties": {
       "title": "Who Was Nikola Tesla?",
       "author": ["Jim Gigliotti"],
@@ -7407,7 +7391,7 @@
     }
   },
   {
-    "id": 447,
+    "id": 457,
     "properties": {
       "title": "Who Is Michael Jordan?",
       "author": ["Kirsten Anderson"],
@@ -7423,7 +7407,7 @@
     }
   },
   {
-    "id": 448,
+    "id": 458,
     "properties": {
       "title": "Who Was H. J. Heinz?",
       "author": ["Michael Burgan"],
@@ -7439,7 +7423,7 @@
     }
   },
   {
-    "id": 449,
+    "id": 459,
     "properties": {
       "title": "Who Was Norman Rockwell?",
       "author": ["Sarah Fabiny"],
@@ -7455,7 +7439,7 @@
     }
   },
   {
-    "id": 450,
+    "id": 460,
     "properties": {
       "title": "Who Was Stephen Hawking?",
       "author": ["Jim Gigliotti"],
@@ -7471,10 +7455,10 @@
     }
   },
   {
-    "id": 451,
+    "id": 461,
     "properties": {
       "title": "Who Was Che Guevara?",
-      "author": ["Elen Labrecque"],
+      "author": ["Ellen Labrecque"],
       "illustrator": ["Jerry Hoare"],
       "price": 7.0,
       "publishDate": ["Jun", "4", "2019"],
@@ -7487,7 +7471,7 @@
     }
   },
   {
-    "id": 452,
+    "id": 462,
     "properties": {
       "title": "Who Was P. T. Barnum?",
       "author": ["Kirsten Anderson"],
@@ -7503,7 +7487,7 @@
     }
   },
   {
-    "id": 453,
+    "id": 463,
     "properties": {
       "title": "Who Is Oprah Winfrey?",
       "author": ["Barbara Kramer"],
@@ -7519,7 +7503,7 @@
     }
   },
   {
-    "id": 454,
+    "id": 464,
     "properties": {
       "title": "Who Is R. L. Stine?",
       "author": ["M. D. Payne"],
@@ -7535,7 +7519,7 @@
     }
   },
   {
-    "id": 455,
+    "id": 465,
     "properties": {
       "title": "Who Was Harriet Tubman?",
       "author": ["Yona Zeldis McDonough"],
@@ -7551,7 +7535,7 @@
     }
   },
   {
-    "id": 456,
+    "id": 466,
     "properties": {
       "title": "Who Was Mister Rogers?",
       "author": ["Diane Bailey"],
@@ -7567,7 +7551,7 @@
     }
   },
   {
-    "id": 457,
+    "id": 467,
     "properties": {
       "title": "Who Was? History of the World",
       "author": ["Paula K Manzanero"],
@@ -7583,7 +7567,7 @@
     }
   },
   {
-    "id": 458,
+    "id": 468,
     "properties": {
       "title": "Who Was Sam Walton?",
       "author": ["James Buckley Jr."],
@@ -7599,7 +7583,7 @@
     }
   },
   {
-    "id": 459,
+    "id": 469,
     "properties": {
       "title": "Who Is Jackie Chan?",
       "author": ["Jody Jensen Shaffer"],
@@ -7615,7 +7599,7 @@
     }
   },
   {
-    "id": 460,
+    "id": 470,
     "properties": {
       "title": "Who Was Richard Nixon?",
       "author": ["Megan Stine"],
@@ -7631,7 +7615,7 @@
     }
   },
   {
-    "id": 461,
+    "id": 471,
     "properties": {
       "title": "Who Is Temple Grandin?",
       "author": ["Patricia Brennan Demuth"],
@@ -7647,7 +7631,7 @@
     }
   },
   {
-    "id": 462,
+    "id": 472,
     "properties": {
       "title": "Who Was Harvey Milk?",
       "author": ["Corinne A. Grinapol"],
@@ -7663,7 +7647,7 @@
     }
   },
   {
-    "id": 463,
+    "id": 473,
     "properties": {
       "title": "Who Was Ida B. Wells?",
       "author": ["Sarah Fabiny"],
@@ -7679,7 +7663,7 @@
     }
   },
   {
-    "id": 464,
+    "id": 474,
     "properties": {
       "title": "Who Is David Beckham?",
       "author": ["Ellen Labrecque"],
@@ -7695,7 +7679,7 @@
     }
   },
   {
-    "id": 465,
+    "id": 475,
     "properties": {
       "title": "Who Was Celia Cruz?",
       "author": ["Pam Pollack", "Meg Belviso"],
@@ -7711,7 +7695,7 @@
     }
   },
   {
-    "id": 466,
+    "id": 476,
     "properties": {
       "title": "Who Was Benedict Arnold?",
       "author": ["James Buckley Jr."],
@@ -7727,7 +7711,7 @@
     }
   },
   {
-    "id": 467,
+    "id": 477,
     "properties": {
       "title": "Who Was Nellie Bly?",
       "author": ["Margaret Gurevich"],
@@ -7743,7 +7727,7 @@
     }
   },
   {
-    "id": 468,
+    "id": 478,
     "properties": {
       "title": "Who Was Duke Ellington?",
       "author": ["M. D. Payne"],
@@ -7759,7 +7743,7 @@
     }
   },
   {
-    "id": 469,
+    "id": 479,
     "properties": {
       "title": "Who Was Confucius?",
       "author": ["Michael Burgan"],
@@ -7775,7 +7759,7 @@
     }
   },
   {
-    "id": 470,
+    "id": 480,
     "properties": {
       "title": "Who Was Walt Whitman?",
       "author": ["Kirsten Anderson"],
@@ -7791,7 +7775,7 @@
     }
   },
   {
-    "id": 471,
+    "id": 481,
     "properties": {
       "title": "Who Was Catherine the Great?",
       "author": ["Pam Pollack", "Meg Belviso"],
@@ -7807,7 +7791,7 @@
     }
   },
   {
-    "id": 472,
+    "id": 482,
     "properties": {
       "title": "Who Was Levi Strauss?",
       "author": ["Ellen Labrecque"],
@@ -7823,7 +7807,7 @@
     }
   },
   {
-    "id": 473,
+    "id": 483,
     "properties": {
       "title": "Who Is RuPaul?",
       "author": ["Nico Medina"],
@@ -7839,7 +7823,7 @@
     }
   },
   {
-    "id": 474,
+    "id": 484,
     "properties": {
       "title": "Who Was A. A. Milne?",
       "author": ["Sarah Fabiny"],
@@ -7855,7 +7839,7 @@
     }
   },
   {
-    "id": 475,
+    "id": 485,
     "properties": {
       "title": "Who Is Neil deGrasse Tyson?",
       "author": ["Pam Pollack", "Meg Belviso"],
@@ -7871,7 +7855,7 @@
     }
   },
   {
-    "id": 476,
+    "id": 486,
     "properties": {
       "title": "Who Was Juliette Gordon Low?",
       "author": ["Dena Meachen Rau"],
@@ -7887,7 +7871,7 @@
     }
   },
   {
-    "id": 477,
+    "id": 487,
     "properties": {
       "title": "Who Were the Navajo Code Talkers?",
       "author": ["James Buckley Jr."],
@@ -7903,7 +7887,7 @@
     }
   },
   {
-    "id": 478,
+    "id": 488,
     "properties": {
       "title": "Who Was David Bowie?",
       "author": ["Margaret Gurevich"],
@@ -7919,7 +7903,7 @@
     }
   },
   {
-    "id": 479,
+    "id": 489,
     "properties": {
       "title": "Who Was Queen Elizabeth II?",
       "author": ["Megan Stine"],
@@ -7935,7 +7919,7 @@
     }
   },
   {
-    "id": 480,
+    "id": 490,
     "properties": {
       "title": "Who Were Stanley and Livingstone?",
       "author": ["Jim Gigliotti"],
@@ -7951,7 +7935,7 @@
     }
   },
   {
-    "id": 481,
+    "id": 491,
     "properties": {
       "title": "Who Is Dale Earnhardt Jr.?",
       "author": ["David Stabler"],
@@ -7967,7 +7951,7 @@
     }
   },
   {
-    "id": 482,
+    "id": 492,
     "properties": {
       "title": "The Who Was? Trivia Book",
       "author": ["Brian Elling"],
@@ -7983,7 +7967,7 @@
     }
   },
   {
-    "id": 483,
+    "id": 493,
     "properties": {
       "title": "Who Was Charles Schulz?",
       "author": ["Joan Holub"],
@@ -8015,7 +7999,7 @@
     }
   },
   {
-    "id": 485,
+    "id": 495,
     "properties": {
       "title": "Who Is Jimmy Carter?",
       "author": ["David Stabler"],
@@ -8031,7 +8015,7 @@
     }
   },
   {
-    "id": 486,
+    "id": 496,
     "properties": {
       "title": "Who Was Ponce de Leon?",
       "author": ["Pam Pollack", "Meg Belviso"],
@@ -8047,7 +8031,7 @@
     }
   },
   {
-    "id": 487,
+    "id": 497,
     "properties": {
       "title": "Who Was Johnny Cash?",
       "author": ["Jim Gigliotti"],
@@ -8063,7 +8047,7 @@
     }
   },
   {
-    "id": 488,
+    "id": 498,
     "properties": {
       "title": "Who Was E. B. White?",
       "author": ["Gail Herman"],
@@ -8079,7 +8063,7 @@
     }
   },
   {
-    "id": 489,
+    "id": 499,
     "properties": {
       "title": "Who Was Betty White?",
       "author": ["Dana Meachen Rau"],
@@ -8095,7 +8079,7 @@
     }
   },
   {
-    "id": 490,
+    "id": 500,
     "properties": {
       "title": "Who Was Celia Cruz?",
       "author": ["Pam Pollack", "Meg Belviso"],
@@ -8111,7 +8095,7 @@
     }
   },
   {
-    "id": 491,
+    "id": 501,
     "properties": {
       "title": "Who Was Salvador Dalí?",
       "author": ["Paula K. Manzanero"],
@@ -8127,15 +8111,15 @@
     }
   },
   {
-    "id": 492,
+    "id": 502,
     "properties": {
       "title": "Who Was Accused in the Salem Witch Trials?: Tituba",
       "author": ["Insha Fitzpatrick"],
       "illustrator": ["Laurie A. Conley"],
       "price": 7.00,
-      "publishDate": ["Sep", "6", "2022"],
+      "publishDate": ["Sep", "5", "2023"],
       "imgURL": "IFitzpatrick_Tituba",
-      "link": "https://www.amazon.com/gp/product/0593224497?ref_=dbs_m_mng_rwt_calw_tpbk_208&storeType=ebooks&qid=1704834829&sr=8-1",
+      "link": "https://www.amazon.com/Who-Accused-Salem-Witch-Trials/dp/059322468X/ref=sr_1_1?dib=eyJ2IjoiMSJ9.JP8yKQKpUVsTJxd2iFjQv07nhjANzKCfNbEAqK1BRePGjHj071QN20LucGBJIEps.R7wQLDlEO-xUcW6LqX4usveUdcvyxnHtSKi2pB4MAqI&dib_tag=se&keywords=Who+Was+Accused+in+the+Salem+Witch+Trials%3F&qid=1753286757&sr=8-1",
       "owned": 0,
       "series": ["Who HQ", "Who Was?"],
       "seriesNo": 0,
@@ -8143,30 +8127,14 @@
     }
   },
   {
-    "id": 493,
-    "properties": {
-      "title": "Who Was Stan Lee?",
-      "author": ["Geoff Edgers"],
-      "illustrator": ["John Hinderliter"],
-      "price": 6.00,
-      "publishDate": ["Sep", "6", "2022"],
-      "imgURL": "GEdgers_StanLee",
-      "link": "https://www.amazon.com/gp/product/045153381X?ref_=dbs_m_mng_rwt_calw_tpbk_209&storeType=ebooks&qid=1704834829&sr=8-1",
-      "owned": 0,
-      "series": ["Who HQ", "Who Was?"],
-      "seriesNo": 0,
-      "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
-    }
-  },
-  {
-    "id": 494,
+    "id": 503,
     "properties": {
       "title": "Who Is Cristiano Ronaldo?",
       "author": ["James Buckley Jr."],
       "illustrator": ["Manuel Gutierrez"],
       "price": 6.00,
       "publishDate": ["Sep", "27", "2022"],
-      "imgURL": "JBuckley_CristianoRonaldo",
+      "imgURL": "JBuckleyJr_CristianoRonaldo",
       "link": "https://www.amazon.com/gp/product/0593226406?ref_=dbs_m_mng_rwt_calw_tpbk_210&storeType=ebooks&qid=1704834829&sr=8-1",
       "owned": 0,
       "series": ["Who HQ", "Who Was?"],
@@ -8175,7 +8143,7 @@
     }
   },
   {
-    "id": 495,
+    "id": 504,
     "properties": {
       "title": "Who Was Coretta Scott King?",
       "author": ["Gail Herman"],
