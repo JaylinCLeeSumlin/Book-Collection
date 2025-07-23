@@ -1,11 +1,68 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <link rel="stylesheet" href="/style.css">
         <title> Fiction </title>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr" crossorigin="anonymous">
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js" integrity="sha384-ndDqU0Gzau9qJ1lfW4pNLlhNTkCfHzAVBReH9diLvGRem5+R9g2FzA8ZGN954O5Q" crossorigin="anonymous"></script>
+        <script src="main.js" type="text/JavaScript"></script>
     </head>
 
     <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+            <div class="container-fluid">
+                <a class="navbar-brand" href="index.html">Home</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="allBooks.html">All Books</a>
+                    </li>
+                    
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Search By
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li><a class="dropdown-item" href="authors/authors.html"> Authors </a></li>
+                            <li><a class="dropdown-item" href="illustrators/illustrators.html"> Illustrators </a></li>
+                            <li><a class="dropdown-item" href="fiction/fiction.html"> Fiction </a></li>
+                            <li><a class="dropdown-item" href="nonFiction/nonFiction.html"> Non-Fiction </a></li>
+                            <li><a class="dropdown-item" href="series/series.html"> Series </a></li>
+                            <li><hr class="dropdown-divider"></li>
+                            <li><a class="dropdown-item" href="#">Something else here</a></li>
+                        </ul>
+                    </li>
+
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Filter By
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li><a class="dropdown-item" href="fiction.html"> Fiction </a></li>
+                            <li><a class="dropdown-item" href="childrenFiction/cFiction.html"> Children's Fiction </a></li>
+                            <li><a class="dropdown-item" href="fantasy/fantasy.html"> Fantasy </a></li>
+                            <li><a class="dropdown-item" href="graphicNovels/graphicNovels.html"> Graphic Novels </a></li>
+                            <li><a class="dropdown-item" href="historicalFiction/hFiction.html"> Historical Fiction </a></li>
+                            <li><a class="dropdown-item" href="lgbtFiction/lgbtFiction.html"> LGBTQ+ Fiction </a></li>
+                            <li><a class="dropdown-item" href="magicalRealism/magicRealism.html"> Magical Realism </a></li>
+                            <li><a class="dropdown-item" href="romance/romance.html"> Romance </a></li>
+                            <li><a class="dropdown-item" href="womenFiction/wFiction.html"> Women's Fiction </a></li>
+                            <li><a class="dropdown-item" href="youngAdult/youngAdult.html"> Young Adult </a></li>
+                            <li><hr class="dropdown-divider"></li>
+                            <li><a class="dropdown-item" href="#">Something else here</a></li>
+                        </ul>
+                    </li>
+                </ul>
+                <form class="d-flex" role="search">
+                    <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search"/>
+                    <button class="btn btn-outline-success" type="submit">Search</button>
+                </form>
+                </div>
+            </div>
+        </nav>
+
         <h1>Fiction</h1>
         <div class="samePageLinks">
             <a href="#numBook">0-9</a>      <a href="#aBook">A</a>      <a href="#bBook">B</a>

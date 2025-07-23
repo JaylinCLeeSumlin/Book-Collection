@@ -1,10 +1,80 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <link rel="stylesheet" href="/style.css">
         <title> Illustrators </title>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr" crossorigin="anonymous">
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js" integrity="sha384-ndDqU0Gzau9qJ1lfW4pNLlhNTkCfHzAVBReH9diLvGRem5+R9g2FzA8ZGN954O5Q" crossorigin="anonymous"></script>
+        <script src="main.js" type="text/JavaScript"></script>
     </head>
     <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+            <div class="container-fluid">
+                <a class="navbar-brand" href="index.html">Home</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="allBooks.html">All Books</a>
+                    </li>
+                    
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Search By
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li><a class="dropdown-item" href="authors/authors.html"> Authors </a></li>
+                            <li><a class="dropdown-item" href="illustrators/illustrators.html"> Illustrators </a></li>
+                            <li><a class="dropdown-item" href="fiction/fiction.html"> Fiction </a></li>
+                            <li><a class="dropdown-item" href="nonFiction/nonFiction.html"> Non-Fiction </a></li>
+                            <li><a class="dropdown-item" href="series/series.html"> Series </a></li>
+                            <li><hr class="dropdown-divider"></li>
+                            <li><a class="dropdown-item" href="#">Something else here</a></li>
+                        </ul>
+                    </li>
+
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Filter By
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li><a class="dropdown-item" href="illustrators.html"> Illustrators </a></li>
+                            <li><a class="dropdown-item" href="aEpps.html"> Alvin Epps </a></li>
+                            <li><a class="dropdown-item" href="aSarrasca.html"> Alvaro Sarrasca </a></li>
+                            <li><a class="dropdown-item" href="aThomas.html"> Andrew Thomas </a></li>
+                            <li><a class="dropdown-item" href="cEgbert.html"> Corey Egbert </a></li>
+                            <li><a class="dropdown-item" href="dgKenyon.html"> David Grayson Kenyon </a></li>
+                            <li><a class="dropdown-item" href="dInk.html"> Dom & Ink </a></li>
+                            <li><a class="dropdown-item" href="dPutra.html"> Dede Putra </a></li>
+                            <li><a class="dropdown-item" href="gCopeland.html"> Gregory Copeland </a></li>
+                            <li><a class="dropdown-item" href="jEldridge.html"> Jim Eldridge </a></li>
+                            <li><a class="dropdown-item" href="jHinderliter.html"> John Hinderliter </a></li>
+                            <li><a class="dropdown-item" href="jHoare.html"> Jerry Hoare </a></li>
+                            <li><a class="dropdown-item" href="jMurray.html"> Jake Murray </a></li>
+                            <li><a class="dropdown-item" href="jOBrian.html"> John O'Brian </a></li>
+                            <li><a class="dropdown-item" href="jpTibbles.html"> Jean Paul Tibbles </a></li>
+                            <li><a class="dropdown-item" href="mGutierrez.html"> Manuel Gutierrez </a></li>
+                            <li><a class="dropdown-item" href="mHolm.html"> Matthew Holm </a></li>
+                            <li><a class="dropdown-item" href="mScrivan.html"> Maria Scrivan </a></li>
+                            <li><a class="dropdown-item" href="nHarrison.html"> Nancy Harrison </a></li>
+                            <li><a class="dropdown-item" href="rSquier.html"> Robert Squier </a></li>
+                            <li><a class="dropdown-item" href="sDawson.html"> Scott Dawson </a></li>
+                            <li><a class="dropdown-item" href="sMarchesi.html"> Stephen Marchesi </a></li>
+                            <li><a class="dropdown-item" href="tFoley.html"> Tim Foley </a></li>
+                            <li><hr class="dropdown-divider"></li>
+                            <li><a class="dropdown-item" href="#">Something else here</a></li>
+                        </ul>
+                    </li>
+                </ul>
+                <form class="d-flex" role="search">
+                    <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search"/>
+                    <button class="btn btn-outline-success" type="submit">Search</button>
+                </form>
+                </div>
+            </div>
+        </nav>
+        
         <h1>Illustrators</h1>
         <div class="samePageLinks">
             <a href="#aName">A</a>      <a href="#bName">B</a>          <a href="#cName">C</a>

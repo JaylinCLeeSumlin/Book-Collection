@@ -1,11 +1,119 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <link rel="stylesheet" href="/style.css">
         <title> Meg Belviso </title>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr" crossorigin="anonymous">
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js" integrity="sha384-ndDqU0Gzau9qJ1lfW4pNLlhNTkCfHzAVBReH9diLvGRem5+R9g2FzA8ZGN954O5Q" crossorigin="anonymous"></script>
+        <script src="main.js" type="text/JavaScript"></script>
     </head>
 
     <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+            <div class="container-fluid">
+                <a class="navbar-brand" href="index.html">Home</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="allBooks.html">All Books</a>
+                    </li>
+                    
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Search By
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li><a class="dropdown-item" href="authors/authors.html"> Authors </a></li>
+                            <li><a class="dropdown-item" href="illustrators/illustrators.html"> Illustrators </a></li>
+                            <li><a class="dropdown-item" href="fiction/fiction.html"> Fiction </a></li>
+                            <li><a class="dropdown-item" href="nonFiction/nonFiction.html"> Non-Fiction </a></li>
+                            <li><a class="dropdown-item" href="series/series.html"> Series </a></li>
+                            <li><hr class="dropdown-divider"></li>
+                            <li><a class="dropdown-item" href="#">Something else here</a></li>
+                        </ul>
+                    </li>
+
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Filter By
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li><a class="dropdown-item" href="authors.html"> Authors </a></li>
+                            <li><a class="dropdown-item" href="aCampbell.html"> Andy Campbell </a></li>
+                            <li><a class="dropdown-item" href="acWang.html"> Annie Chander Wang </a></li>
+                            <li><a class="dropdown-item" href="aDestiny.html"> A. Destiny </a></li>
+                            <li><a class="dropdown-item" href="ajPrince.html"> April Jones Prince </a></li>
+                            <li><a class="dropdown-item" href="aLorde.html"> Audre Lorde </a></li>
+                            <li><a class="dropdown-item" href="cGayle.html"> Caleb Gayle </a></li>
+                            <li><a class="dropdown-item" href="cPorter.html"> Connie Porter </a></li>
+                            <li><a class="dropdown-item" href="CHapka.html"> Cathrine Hapka </a></li>
+                            <li><a class="dropdown-item" href="dAnastasio.html"> Dina Anastasio </a></li>
+                            <li><a class="dropdown-item" href="dbFradin.html"> Dennis Brindell Fradin </a></li>
+                            <li><a class="dropdown-item" href="dLevithan.html"> David Levithan </a></li>
+                            <li><a class="dropdown-item" href="dlPatrick.html"> Denise Lewis Patrick </a></li>
+                            <li><a class="dropdown-item" href="dRicho.html"> David Richo </a></li>
+                            <li><a class="dropdown-item" href="eColman.html"> Evelyn Colman </a></li>
+                            <li><a class="dropdown-item" href="eDePrince.html"> Elaine DePrince </a></li>
+                            <li><a class="dropdown-item" href="eLabrecque.html"> Ellen Labrecque </a></li>
+                            <li><a class="dropdown-item" href="eMorgan.html"> Ellen Morgan </a></li>
+                            <li><a class="dropdown-item" href="eRose.html"> Erica Rose </a></li>
+                            <li><a class="dropdown-item" href="ewRikard.html"> Elise Williams Rikard </a></li>
+                            <li><a class="dropdown-item" href="gGomez.html"> Gina Gomez </a></li>
+                            <li><a class="dropdown-item" href="gHerman.html"> Gail Herman </a></li>
+                            <li><a class="dropdown-item" href="gRivera.html"> Gabby Rivera </a></li>
+                            <li><a class="dropdown-item" href="jBaldwin.html"> James Baldwin </a></li>
+                            <li><a class="dropdown-item" href="jCalonita.html"> Jen Calonita </a></li>
+                            <li><a class="dropdown-item" href="jEding.html"> June Eding </a></li>
+                            <li><a class="dropdown-item" href="jKinney.html"> Jeff Kinney </a></li>
+                            <li><a class="dropdown-item" href="jlHolm.html"> Jennifer L. Holm </a></li>
+                            <li><a class="dropdown-item" href="kJewel.html"> Kirsti Jewel </a></li>
+                            <li><a class="dropdown-item" href="kWest.html"> Kasie West </a></li>
+                            <li><a class="dropdown-item" href="laJones.html"> Luvvie Ajayi Jones </a></li>
+                            <li><a class="dropdown-item" href="lMix.html"> Little Mix </a></li>
+                            <li><a class="dropdown-item" href="lPeirce.html"> Lincoln Peirce </a></li>
+                            <li><a class="dropdown-item" href="lSingh.html"> Lilly Singh </a></li>
+                            <li><a class="dropdown-item" href="lTarshis.html"> Lauren Tarshis </a></li>
+                            <li><a class="dropdown-item" href="mAndrew.html"> Mari Andrew </a></li>
+                            <li><a class="dropdown-item" href="mBelviso.html"> Meg Belviso </a></li>
+                            <li><a class="dropdown-item" href="mBowls.html"> Meleah Bowls </a></li>
+                            <li><a class="dropdown-item" href="mCagan.html"> Michele Cagan, CPA </a></li>
+                            <li><a class="dropdown-item" href="mCopeland.html"> Misty Copeland </a></li>
+                            <li><a class="dropdown-item" href="mDePrince.html"> Michaela DePrince </a></li>
+                            <li><a class="dropdown-item" href="mMcDonald.html"> Megan McDonald </a></li>
+                            <li><a class="dropdown-item" href="mObama.html"> Michelle Obama </a></li>
+                            <li><a class="dropdown-item" href="mScrivan.html"> Maria Scrivan </a></li>
+                            <li><a class="dropdown-item" href="mStine.html"> Megan Stine </a></li>
+                            <li><a class="dropdown-item" href="nMedina.html"> Nico Medina </a></li>
+                            <li><a class="dropdown-item" href="nStone.html"> Nic Stone </a></li>
+                            <li><a class="dropdown-item" href="pbDemuth.html"> Patricia Brennan Demuth </a></li>
+                            <li><a class="dropdown-item" href="pPollack.html"> Pam Pollack </a></li>
+                            <li><a class="dropdown-item" href="sFabiny.html"> Sarah Fabiny </a></li>
+                            <li><a class="dropdown-item" href="sGodkin.html"> Sophia Godkin, PhD </a></li>
+                            <li><a class="dropdown-item" href="skLewis.html"> Stephanie Kaplan Lewis </a></li>
+                            <li><a class="dropdown-item" href="skStrohm.html"> Stephanie Kate Strohm </a></li>
+                            <li><a class="dropdown-item" href="spMoses.html"> Shelia P. Moses </a></li>
+                            <li><a class="dropdown-item" href="sSpignesi.html"> Stephen Spignesi </a></li>
+                            <li><a class="dropdown-item" href="sValentino.html"> Serena Valentino </a></li>
+                            <li><a class="dropdown-item" href="tKelley.html"> True Kelley </a></li>
+                            <li><a class="dropdown-item" href="tLouise.html"> Tiffany Louise, LCSW </a></li>
+                            <li><a class="dropdown-item" href="whWestern.html"> Windsor Hanger Western </a></li>
+                            <li><a class="dropdown-item" href="wStewart.html"> Whitney Stewart </a></li>
+                            <li><a class="dropdown-item" href="yzMcDonough.html"> Yona Zeldis McDonough </a></li>
+                            <li><hr class="dropdown-divider"></li>
+                            <li><a class="dropdown-item" href="#">Something else here</a></li>
+                        </ul>
+                    </li>
+                </ul>
+                <form class="d-flex" role="search">
+                    <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search"/>
+                    <button class="btn btn-outline-success" type="submit">Search</button>
+                </form>
+                </div>
+            </div>
+        </nav>
+        
         <h1> Meg Belviso </h1>
         <div class="samePageLinks">
             <a href="#numBook">0-9</a>      <a href="#aBook">A</a>      <a href="#bBook">B</a>
