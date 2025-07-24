@@ -3958,7 +3958,7 @@
             "illustrator": ["Tim Foley"],
             "price": 7,
             "publishDate": ["Jul", "11", "2023"],
-            "imgURL": "KMaywe_AlienAbduction",
+            "imgURL": "KMayer_AlienAbduction",
             "link": "https://www.amazon.com/gp/product/0593387554?ref_=dbs_m_mng_rwt_calw_tpbk_5&storeType=ebooks&qid=1704677266&sr=8-2",
             "owned": 0,
             "series": ["Who HQ", "What Do We Know About?"],
@@ -8157,5 +8157,437 @@
       "seriesNo": 0,
       "genre": ["Non-Fiction", "Children's Non-Fiction", "History", "Biography"]
     }
+  },
+  {
+  "id": 505,
+  "properties": {
+    "title": "What Is the Story of Hello Kitty?",
+    "author": ["Kirsten Anderson"],
+    "illustrator": ["Jill Weber"],
+    "price": 9.35,
+    "publishDate": ["Apr", "16", "2019"],
+    "imgURL": "KAnderson_HelloKitty",
+    "link": "https://www.amazon.com/gp/product/1524788392?ref_=dbs_m_mng_rwt_calw_tpbk_0&storeType=ebooks&qid=1704756235&sr=1-1",
+    "owned": 0,
+    "series": ["Who HQ", "What Is the Story Of?"],
+    "seriesNo": 0,
+    "genre": ["Fiction", "Children's Fiction", "Fantasy"]
   }
+},
+{
+  "id": 506,
+  "properties": {
+    "title": "What Is the Story of Scooby-Doo?",
+    "author": ["M. D. Payne"],
+    "illustrator": ["Andrew Thomas"],
+    "price": 6.30,
+    "publishDate": ["Apr", "16", "2019"],
+    "imgURL": "MDPayne_ScoobyDoo",
+    "link": "https://www.amazon.com/What-Story-Scooby-Doo-M-Payne/dp/1524788244/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1704756235&sr=1-1",
+    "owned": 0,
+    "series": ["Who HQ", "What Is the Story Of?"],
+    "seriesNo": 0,
+    "genre": ["Fiction", "Children's Fiction", "Fantasy"]
+  }
+},
+{
+  "id": 507,
+  "properties": {
+    "title": "What Is the Story of Wonder Woman?",
+    "author": ["Steve Korte"],
+    "illustrator": ["Jake Murray"],
+    "price": 7.00,
+    "publishDate": ["Aug", "13", "2019"],
+    "imgURL": "SKorte_WonderWoman",
+    "link": "https://www.amazon.com/Story-Wonder-Woman-Steven-Korte/dp/1524788279/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1704756235&sr=1-1",
+    "owned": 0,
+    "series": ["Who HQ", "What Is the Story Of?"],
+    "seriesNo": 0,
+    "genre": ["Fiction", "Children's Fiction", "Fantasy"]
+  }
+},
+{
+  "id": 508,
+  "properties": {
+    "title": "What Is the Story of Frankenstein?",
+    "author": ["Sheila Keenan"],
+    "illustrator": ["David Malan"],
+    "price": 6.20,
+    "publishDate": ["Aug", "13", "2019"],
+    "imgURL": "SKeenan_Frankenstein",
+    "link": "https://www.amazon.com/What-Story-Frankenstein-Sheila-Keenan/dp/1524788422/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1704756235&sr=1-1",
+    "owned": 0,
+    "series": ["Who HQ", "What Is the Story Of?"],
+    "seriesNo": 0,
+    "genre": ["Fiction", "Children's Fiction", "Fantasy"]
+  }
+},
+{
+  "id": 509,
+  "properties": {
+    "title": "What Is the Story of Doctor Who?",
+    "author": ["Gabriel P. Cooper"],
+    "illustrator": ["Gregory Copeland"],
+    "price": 7.00,
+    "publishDate": ["Oct", "15", "2019"],
+    "imgURL": "GPCooper_DoctorWho",
+    "link": "https://www.amazon.com/What-Story-Doctor-Gabriel-Cooper/dp/1524791067/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1704756235&sr=1-1",
+    "owned": 0,
+    "series": ["Who HQ", "What Is the Story Of?"],
+    "seriesNo": 0,
+    "genre": ["Fiction", "Children's Fiction", "Fantasy"]
+  }
+},
+{
+  "id": 510,
+  "properties": {
+    "title": "What Is the Story of The Wizard of Oz?",
+    "author": ["Kirsten Anderson"],
+    "illustrator": ["Robert Squier"],
+    "price": 8.40,
+    "publishDate": ["Oct", "15", "2019"],
+    "imgURL": "KAnderson_WizardofOz",
+    "link": "https://www.amazon.com/What-Story-Wizard-Kirsten-Anderson/dp/1524788309/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1704756235&sr=1-1",
+    "owned": 0,
+    "series": ["Who HQ", "What Is the Story Of?"],
+    "seriesNo": 0,
+    "genre": ["Fiction", "Children's Fiction", "Fantasy"]
+  }
+},
+{
+  "id": 511,
+  "properties": {
+    "title": "What Is the Story of Looney Tunes?",
+    "author": ["Steve Korte"],
+    "illustrator": ["John Hinderliter"],
+    "price": 8.00,
+    "publishDate": ["Mar", "10", "2020"],
+    "imgURL": "SKorte_LooneyTunes",
+    "link": "https://www.amazon.com/Story-Looney-Tunes-Steve-Korte/dp/1524788368/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1704756235&sr=1-1",
+    "owned": 0,
+    "series": ["Who HQ", "What Is the Story Of?"],
+    "seriesNo": 0,
+    "genre": ["Fiction", "Children's Fiction", "Fantasy"]
+  }
+},
+{
+  "id": 512,
+  "properties": {
+    "title": "What Is the Story of Batman?",
+    "author": ["Michael Burgan"],
+    "illustrator": ["Jake Murray"],
+    "price": 7.00,
+    "publishDate": ["Mar", "10", "2020"],
+    "imgURL": "MBurgan_Batman",
+    "link": "https://www.amazon.com/What-Story-Batman-Michael-Burgan/dp/1524788333/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1704756235&sr=1-1",
+    "owned": 0,
+    "series": ["Who HQ", "What Is the Story Of?"],
+    "seriesNo": 0,
+    "genre": ["Fiction", "Children's Fiction", "Fantasy"]
+  }
+},
+{
+  "id": 513,
+  "properties": {
+    "title": "What Is the Story of Dracula?",
+    "author": ["Michael Burgan"],
+    "illustrator": ["David Malan"],
+    "price": 6.99,
+    "publishDate": ["Aug", "11", "2020"],
+    "imgURL": "MBurgan_Dracula",
+    "link": "https://www.amazon.com/What-Story-Dracula-Michael-Burgan/dp/1524788457/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1704756235&sr=1-1",
+    "owned": 0,
+    "series": ["Who HQ", "What Is the Story Of?"],
+    "seriesNo": 0,
+    "genre": ["Fiction", "Children's Fiction", "Fantasy"]
+  }
+},
+{
+  "id": 514,
+  "properties": {
+    "title": "What Is the Story of Alice in Wonderland?",
+    "author": ["Dana Meachen Rau"],
+    "illustrator": ["Robert Squier"],
+    "price": 7.00,
+    "publishDate": ["Apr", "6", "2021"],
+    "imgURL": "DMRau_AliceinWonderland",
+    "link": "https://www.amazon.com/What-Story-Alice-Wonderland-Dana/dp/1524791768/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1704756235&sr=1-1",
+    "owned": 0,
+    "series": ["Who HQ", "What Is the Story Of?"],
+    "seriesNo": 0,
+    "genre": ["Fiction", "Children's Fiction", "Fantasy"]
+  }
+},
+{
+  "id": 515,
+  "properties": {
+    "title": "What Is the Story of Willy Wonka?",
+    "author": ["Steve Korte"],
+    "illustrator": ["Jake Murray"],
+    "price": 7.00,
+    "publishDate": ["Jul", "6", "2021"],
+    "imgURL": "SKorte_WillyWonka",
+    "link": "https://www.amazon.com/gp/product/0593224205?notRedirectToSDP=1&ref_=dbs_m_mng_rwt_calw_tpbk_tkin&storeType=ebooks&qid=1704756235&sr=1-1",
+    "owned": 0,
+    "series": ["Who HQ", "What Is the Story Of?"],
+    "seriesNo": 0,
+    "genre": ["Fiction", "Children's Fiction", "Fantasy"]
+  }
+},
+{
+  "id": 516,
+  "properties": {
+    "title": "What Is the Story of the Mummy?",
+    "author": ["Sheila Keenan"],
+    "illustrator": ["Carlos Basabe"],
+    "price": 6.20,
+    "publishDate": ["Aug", "17", "2021"],
+    "imgURL": "SKeenan_Mummy",
+    "link": "https://www.amazon.com/gp/product/1524788481?notRedirectToSDP=1&ref_=dbs_m_mng_rwt_calw_tpbk_tkin&storeType=ebooks&qid=1704756235&sr=1-1",
+    "owned": 0,
+    "series": ["Who HQ", "What Is the Story Of?"],
+    "seriesNo": 0,
+    "genre": ["Fiction", "Children's Fiction", "Fantasy"]
+  }
+},
+{
+  "id": 517,
+  "properties": {
+    "title": "What Is the Story of Captain Kirk?",
+    "author": ["M. D. Payne"],
+    "illustrator": ["Robert Squier"],
+    "price": 7.00,
+    "publishDate": ["Dec", "7", "2021"],
+    "imgURL": "MDPayne_CaptainKirk",
+    "link": "https://www.amazon.com/gp/product/1524791148?notRedirectToSDP=1&ref_=dbs_m_mng_rwt_calw_tpbk_tkin&storeType=ebooks&qid=1704756235&sr=1-1",
+    "owned": 0,
+    "series": ["Who HQ", "What Is the Story Of?"],
+    "seriesNo": 0,
+    "genre": ["Fiction", "Children's Fiction", "Fantasy"]
+  }
+},
+{
+  "id": 518,
+  "properties": {
+    "title": "What Is the Story of Ebenezer Scrooge?",
+    "author": ["Sheila Keenan"],
+    "illustrator": ["Andrew Thomas"],
+    "price": 6.00,
+    "publishDate": ["Oct", "11", "2022"],
+    "imgURL": "SKeenan_Scrooge",
+    "link": "https://www.amazon.com/gp/product/059322602X?notRedirectToSDP=1&ref_=dbs_m_mng_rwt_calw_tpbk_tkin&storeType=ebooks&qid=1704756235&sr=1-1",
+    "owned": 0,
+    "series": ["Who HQ", "What Is the Story Of?"],
+    "seriesNo": 0,
+    "genre": ["Fiction", "Children's Fiction", "Fantasy"]
+  }
+},
+{
+  "id": 519,
+  "properties": {
+    "title": "What Is the Story of Transformers?",
+    "author": ["Brnadon T. Snider"],
+    "illustrator": ["Ted Hammond"],
+    "price": 7.00,
+    "publishDate": ["Dec", "6", "2022"],
+    "imgURL": "BTSnider_Transformers",
+    "link": "https://www.amazon.com/gp/product/059338492X?notRedirectToSDP=1&ref_=dbs_m_mng_rwt_calw_tpbk_tkin&storeType=ebooks&qid=1704756235&sr=1-1",
+    "owned": 0,
+    "series": ["Who HQ", "What Is the Story Of?"],
+    "seriesNo": 0,
+    "genre": ["Fiction", "Children's Fiction", "Fantasy"]
+  }
+},
+{
+  "id": 520,
+  "properties": {
+    "title": "What Is the Story of Nancy Drew?",
+    "author": ["Dana M. Rau"],
+    "illustrator": ["Dede Putra"],
+    "price": 7.00,
+    "publishDate": ["Jan", "10", "2023"],
+    "imgURL": "DMRau_NancyDrew",
+    "link": "https://www.amazon.com/gp/product/1524791792?notRedirectToSDP=1&ref_=dbs_m_mng_rwt_calw_tpbk_tkin&storeType=ebooks&qid=1704756235&sr=1-1",
+    "owned": 0,
+    "series": ["Who HQ", "What Is the Story Of?"],
+    "seriesNo": 0,
+    "genre": ["Fiction", "Children's Fiction", "Fantasy"]
+  }
+},
+{
+  "id": 521,
+  "properties": {
+    "title": "What Is the Story of Captain Picard?",
+    "author": ["David Stabler"],
+    "illustrator": ["Robert Squier"],
+    "price": 7.60,
+    "publishDate": ["Mar", "7", "2023"],
+    "imgURL": "DStabler_CaptainPicard",
+    "link": "https://www.amazon.com/gp/product/1524791172?notRedirectToSDP=1&ref_=dbs_m_mng_rwt_calw_tpbk_tkin&storeType=ebooks&qid=1704756235&sr=1-1",
+    "owned": 0,
+    "series": ["Who HQ", "What Is the Story Of?"],
+    "seriesNo": 0,
+    "genre": ["Fiction", "Children's Fiction", "Fantasy"]
+  }
+},
+{
+  "id": 522,
+  "properties": {
+    "title": "What Is the Story of Anne of Green Gables?",
+    "author": ["Ellen Labrecque"],
+    "illustrator": ["Laurie A. Conley"],
+    "price": 6.80,
+    "publishDate": ["May", "9", "2023"],
+    "imgURL": "ELabrecque_AnneGreenGables",
+    "link": "https://www.amazon.com/gp/product/0593382528?notRedirectToSDP=1&ref_=dbs_m_mng_rwt_calw_tpbk_tkin&storeType=ebooks&qid=1704756235&sr=1-1",
+    "owned": 0,
+    "series": ["Who HQ", "What Is the Story Of?"],
+    "seriesNo": 0,
+    "genre": ["Fiction", "Children's Fiction", "Fantasy"]
+  }
+},
+{
+  "id": 523,
+  "properties": {
+    "title": "What Is the Story of the Headless Horseman?",
+    "author": ["Sheila Keenan"],
+    "illustrator": ["Andrew Thomas"],
+    "price": 8.00,
+    "publishDate": ["Aug", "15", "2023"],
+    "imgURL": "SKeenan_HeadlessHorseman",
+    "link": "https://www.amazon.com/gp/product/0593523660?notRedirectToSDP=1&ref_=dbs_m_mng_rwt_calw_tpbk_tkin&storeType=ebooks&qid=1704756235&sr=1-1",
+    "owned": 0,
+    "series": ["Who HQ", "What Is the Story Of?"],
+    "seriesNo": 0,
+    "genre": ["Fiction", "Children's Fiction", "Fantasy"]
+  }
+},
+{
+  "id": 524,
+  "properties": {
+    "title": "What Is the Story of Jurassic World?",
+    "author": ["Jim Gigliotti"],
+    "illustrator": ["Dede Putra"],
+    "price": 8.00,
+    "publishDate": ["Sep", "5", "2023"],
+    "imgURL": "JGigliotti_JurassicWorld",
+    "link": "https://www.amazon.com/gp/product/0593383486?notRedirectToSDP=1&ref_=dbs_m_mng_rwt_calw_tpbk_tkin&storeType=ebooks&qid=1704756235&sr=1-1",
+    "owned": 0,
+    "series": ["Who HQ", "What Is the Story Of?"],
+    "seriesNo": 0,
+    "genre": ["Fiction", "Children's Fiction", "Fantasy"]
+  }
+},
+{
+  "id": 525,
+  "properties": {
+    "title": "What Is the Story of Romeo and Juliet?",
+    "author": ["Max Bisantz"],
+    "illustrator": ["David Malan"],
+    "price": 8.00,
+    "publishDate": ["Dec", "26", "2023"],
+    "imgURL": "MBisantz_RomeoandJuliet",
+    "link": "https://www.amazon.com/gp/product/1524792241?notRedirectToSDP=1&ref_=dbs_m_mng_rwt_calw_tpbk_tkin&storeType=ebooks&qid=1704756235&sr=1-1",
+    "owned": 0,
+    "series": ["Who HQ", "What Is the Story Of?"],
+    "seriesNo": 0,
+    "genre": ["Fiction", "Children's Fiction", "Fantasy"]
+  }
+},
+{
+  "id": 526,
+  "properties": {
+    "title": "What Is the Story of Mickey Mouse?",
+    "author": ["Steve Korte"],
+    "illustrator": [""],
+    "price": null,
+    "publishDate": ["Jan", "2", "2079"],
+    "imgURL": "SKorte_MickeyMouse",
+    "link": "https://www.amazon.com/gp/product/0593094727?notRedirectToSDP=1&ref_=dbs_m_mng_rwt_calw_tpbk_tkin&storeType=ebooks&qid=1704756235&sr=1-1",
+    "owned": 0,
+    "series": ["Who HQ", "What Is the Story Of?"],
+    "seriesNo": 0,
+    "genre": ["Fiction", "Children's Fiction", "Fantasy"]
+  }
+},
+{
+  "id": 527,
+  "properties": {
+    "title": "What Is the Story of Princess Leia?",
+    "author": ["Brandon T. Snider"],
+    "illustrator": ["Unknown"],
+    "price": 6,
+    "publishDate": ["Jan", "2", "2079"],
+    "imgURL": "BTSnider_PrincessLeia",
+    "link": "https://www.amazon.com/gp/product/0593094751?ref_=dbs_m_mng_rwt_calw_thcv_22&storeType=ebooks&qid=1704756235&sr=1-1",
+    "owned": 0,
+    "series": ["Who HQ", "What Is the Story Of?"],
+    "seriesNo": 0,
+    "genre": ["Fiction", "Children's Fiction", "Fantasy"]
+  }
+},
+{
+  "id": 528,
+  "properties": {
+    "title": "What Is the Story of Godzilla?",
+    "author": ["Sheila Keenan"],
+    "illustrator": [""],
+    "price": 7.99,
+    "publishDate": ["Jun", "25", "2024"],
+    "imgURL": "SKeenan_Godzilla",
+    "link": "https://www.amazon.com/gp/product/0593658485?ref_=dbs_m_mng_rwt_calw_tpbk_21&storeType=ebooks&qid=1704756235&sr=1-1",
+    "owned": 0,
+    "series": ["Who HQ", "What Is the Story Of?"],
+    "seriesNo": 0,
+    "genre": ["Fiction", "Children's Fiction", "Fantasy"]
+  }
+},
+{
+  "id": 529,
+  "properties": {
+    "title": "What Is the Story of My Little Pony?",
+    "author": ["Kirsten Mayer"],
+    "illustrator": ["Andrew Thomson"],
+    "price": 6,
+    "publishDate": ["Aug", "27", "2024"],
+    "imgURL": "KMayer_MyLittlePony",
+    "link": "https://www.amazon.com/gp/product/0593226054?ref_=dbs_m_mng_rwt_calw_tpbk_22&storeType=ebooks&qid=1704756235&sr=1-1",
+    "owned": 0,
+    "series": ["Who HQ", "What Is the Story Of?"],
+    "seriesNo": 0,
+    "genre": ["Fiction", "Children's Fiction", "Fantasy"]
+  }
+},
+{
+  "id": 530,
+  "properties": {
+    "title": "What Is the Story of Smokey Bear?",
+    "author": ["Steve Korte"],
+    "illustrator": ["Robert Squier"],
+    "price": 5.19,
+    "publishDate": ["Sep", "3", "2024"],
+    "imgURL": "SKorte_SmokeyBear",
+    "link": "https://www.amazon.com/gp/product/0593385705?ref_=dbs_m_mng_rwt_calw_tpbk_23&storeType=ebooks&qid=1704756235&sr=1-1",
+    "owned": 0,
+    "series": ["Who HQ", "What Is the Story Of?"],
+    "seriesNo": 0,
+    "genre": ["Fiction", "Children's Fiction", "Fantasy"]
+  }
+},
+{
+  "id": 531,
+  "properties": {
+    "title": "What Is the Story of Cinderella?",
+    "author": ["Dana Meachen Rau"],
+    "illustrator": ["David Malan"],
+    "price": 6,
+    "publishDate": ["Feb", "4", "2025"],
+    "imgURL": "DMRau_Cinderella",
+    "link": "https://www.amazon.com/gp/product/059375428X?ref_=dbs_m_mng_rwt_calw_tpbk_24&storeType=ebooks&qid=1704756235&sr=1-1",
+    "owned": 0,
+    "series": ["Who HQ", "What Is the Story Of?"],
+    "seriesNo": 0,
+    "genre": ["Fiction", "Children's Fiction", "Fantasy"]
+  }
+}
 ]
